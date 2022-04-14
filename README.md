@@ -1,5 +1,5 @@
 ### 안녕하세요! 데이터분석가를 꿈꾸는 권미정입니다. 👋
-### BLOG: https://mjrecord.tistory.com/
+-BLOG: https://mjrecord.tistory.com/
 
 <!--
 **kmj-1616/kmj-1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
