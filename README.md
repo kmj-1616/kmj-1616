@@ -11,7 +11,7 @@
 
 ## Skill
 **Tech** :
-한 번 이상 다루어 본 기술들
+한 번 이상 다루어 본 기술들     
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
