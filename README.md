@@ -3,6 +3,8 @@
 - 블로그: https://mjrecord.tistory.com/
 - 깃허브: https://github.com/kmj-1616
 
+![Metrics](/github-metrics.svg)
+
 ## Summary
 > 2023년 하반기 데이터분석가 취업을 목표로 공부하고 있습니다.
 > 가장 관심 있는 도메인은 게임 데이터와 미디어콘텐츠 데이터입니다.
