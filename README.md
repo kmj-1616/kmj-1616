@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
+- Numpy, Matplotlib을 이용한 데이터 처리 경험
 
 ### 앞으로 공부할 것들
 - A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
