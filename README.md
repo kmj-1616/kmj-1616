@@ -50,3 +50,30 @@
   - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
 - 동아대 경영정보학과 취업 학회 데이터 분석 스터디(2022.04.02 ~ 진행 중)
+
+## Projects
+ 
+### 데이터분석을 위한 SQL 레시피 4장 발표(2022.05.06)  
+
+- 발표 자료: [발표자료 1](https://mjrecord.tistory.com/10), [발표자료 2](https://mjrecord.tistory.com/11)
+- 발표 영상: [발표 영상](https://drive.google.com/file/d/1QBXaD6Vj2grIkOeEF-Gn3_kkIL-_GHCd/view)
+- 개발 언어/라이브러리 : SQL  
+- 내용
+  - Google Bigquery에서 SQL을 사용해 시계열 기반으로 데이터 집계
+  - Z차트를 작성하기 위한 매출과 관련된 데이터 추출
+  - 상품의 카테고리, 가격 등을 조합해 데이터의 특징 추출
+  - ABC 분석을 위한 매출 구성비누계와 ABC 등급 계산
+  - 팬 차트 작성을 위한 데이터 집약
+  - 히스토그램 작성을 위한 데이터 추출
+  - 동아대 IT 취업 동아리 데이터 분석 스터디 3주차 발표
+
+### 데이터분석을 위한 SQL 레시피 6장 발표(2022.05.20)
+
+- 발표 자료: [발표자료](https://mjrecord.tistory.com/12)
+- 발표 영상: [발표 영상](https://drive.google.com/file/d/1_1wvP-7IAQWcxvUnpjEvcVHm2JYP-aYT/view)
+- 개발 언어/라이브러리 : SQL 
+- 내용
+  - SQL을 통해 1회 방문당 페이지 뷰를 날짜별로 집계 및 데이터 추출
+  - 용도에 따라 URL에서 필요한 데이터를 추출 및 집계
+  - 유입원별로 방문 횟수 또는 CVR 집계
+  - 동아대 IT 취업 동아리 데이터 분석 스터디 5주차 발표
