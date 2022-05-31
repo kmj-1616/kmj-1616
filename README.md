@@ -49,7 +49,6 @@
   - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
   - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
-- 동아대 경영정보학과 취업 학회 데이터 분석 스터디(2022.04.02 ~ 진행 중)
 
 ## Projects
  
