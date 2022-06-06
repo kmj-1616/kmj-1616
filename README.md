@@ -49,7 +49,7 @@
   - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
 
-## Projects
+## Projects :sparkles:
  
 ### 데이터분석을 위한 SQL 레시피 4장 발표(2022.05.06)  
 
