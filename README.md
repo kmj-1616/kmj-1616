@@ -75,3 +75,7 @@
   - 용도에 따라 URL에서 필요한 데이터를 추출 및 집계
   - 유입원별로 방문 횟수 또는 CVR 집계
   - 동아대 IT 취업 동아리 데이터 분석 스터디 5주차 발표
+
+### DX Challenge 서포터즈 (2022.07.25~)
+
+- 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
