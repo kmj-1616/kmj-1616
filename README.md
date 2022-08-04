@@ -47,6 +47,15 @@
 - 동아대 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 2022.07.22)
   - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
   - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
+  
+- 동아대 빅데이터 실무자 양성교육(2022.08.04 ~ 2022.08.06)
+  - 내용
+    - 빅데이터 통계적 분석 이론
+    - R을 이용한 데이터 이용 및 데이터 전처리
+    - 신뢰도 분석 및 교차 분석
+    - 집단간 대응변수 차이 분석
+    - T-test 및 분산분석
+    - R 패키지를 활용한 회귀분석
 
 
 ## Projects :sparkles:
@@ -79,3 +88,6 @@
 ### DX Challenge 서포터즈 (2022.07.25~)
 
 - 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
+- 내용
+  - DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 콘텐츠 제작
+  - DX Sprint 참가자 인터뷰 진행 및 행사 서포터즈
