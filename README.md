@@ -23,6 +23,8 @@
 - Numpy, Matplotlib을 이용한 데이터 처리 경험
 - Pandas를 이용한 데이터 처리 경험
 - Bigquery에서 SQL를 사용해 데이터 가공, 분석 경험
+- R을 이용한 데이터 이용 및 데이터 전처리 
+- R 패키지를 활용한 회귀분석 
 
 ### 앞으로 공부할 것들 :memo:
 - A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
@@ -87,7 +89,8 @@
 
 ### DX Challenge 서포터즈 (2022.07.25~)
 
-- 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
+- 공식 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
+- 개인 대외활동 인스타그램: [@meez_activitiy](https://instagram.com/meez_activity?igshid=YmMyMTA2M2Y=)
 - 내용
   - DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 콘텐츠 제작
   - DX Sprint 참가자 인터뷰 진행 및 행사 서포터즈
