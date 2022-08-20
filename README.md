@@ -58,6 +58,9 @@
     - 집단간 대응변수 차이 분석
     - T-test 및 분산분석
     - R 패키지를 활용한 회귀분석
+    
+- 안드로이드 스터디 for beginner(2022.08.20 ~ )
+  - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 
 ## Projects :sparkles:
@@ -93,4 +96,4 @@
 - 개인 대외활동 인스타그램: [@meez_activitiy](https://instagram.com/meez_activity?igshid=YmMyMTA2M2Y=)
 - 내용
   - DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 콘텐츠 제작
-  - DX Sprint 참가자 인터뷰 진행 및 행사 서포터즈
+  - DX Sprint 참가자 및 멘토 인터뷰 진행
