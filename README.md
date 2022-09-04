@@ -1,4 +1,4 @@
-# 권미정 :wave:
+# 권미정입니다! :wave:
 - Email: pmpmjll@gmail.com
 - Blog: https://mjrecord.tistory.com
 - Github: https://github.com/kmj-1616
@@ -64,6 +64,9 @@
     
 - 안드로이드 스터디 for beginner(2022.08.20 ~ )
   - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+  
+- 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ )
+  - 활용 도서: [머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
 
 ## Projects :sparkles:
