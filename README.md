@@ -66,6 +66,7 @@
   - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
   
 - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ )
+  - 스터디 리더
   - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
   - 활용 도서: [머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
