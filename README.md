@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
 - Numpy, Matplotlib을 이용한 데이터 처리 경험
