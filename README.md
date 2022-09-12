@@ -74,7 +74,7 @@
 
 ## Projects :sparkles:
  
-### 데이터분석을 위한 SQL 레시피 4장 발표(2022.05.06)  
+### 『데이터분석을 위한 SQL 레시피』 4장 발표(2022.05.06)  
 
 - 발표 자료: [발표자료 1](https://mjrecord.tistory.com/10), [발표자료 2](https://mjrecord.tistory.com/11)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1QBXaD6Vj2grIkOeEF-Gn3_kkIL-_GHCd/view)
@@ -88,7 +88,7 @@
   - 히스토그램 작성을 위한 데이터 추출
   - 동아대 IT 취업 동아리 데이터 분석 스터디 3주차 발표
 
-### 데이터분석을 위한 SQL 레시피 6장 발표(2022.05.20)
+### 『데이터분석을 위한 SQL 레시피』 6장 발표(2022.05.20)
 
 - 발표 자료: [발표자료](https://mjrecord.tistory.com/12)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1_1wvP-7IAQWcxvUnpjEvcVHm2JYP-aYT/view)
@@ -99,7 +99,7 @@
   - 유입원별로 방문 횟수 또는 CVR 집계
   - 동아대 IT 취업 동아리 데이터 분석 스터디 5주차 발표
   
-### 머신러닝 딥러닝 문제해결 전략 3장 발표(2022.09.12)
+### 『머신러닝 딥러닝 문제해결 전략』 3장 발표(2022.09.12)
 
 - 발표 자료: [3장 발표 자료](https://mjrecord.tistory.com/14)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
