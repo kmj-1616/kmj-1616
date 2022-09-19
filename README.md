@@ -26,6 +26,7 @@
 - Bigquery에서 SQL를 사용해 데이터 가공, 분석 경험
 - R을 이용한 데이터 이용 및 데이터 전처리 경험
 - R을 이용한 T-test 및 분산분석
+- Android Studio에서 Kotlin을 이용한 간단한 앱 개발 경험
 
 ### 앞으로 공부할 것들 :memo:
 - A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
@@ -50,7 +51,7 @@
 
 **Study** :busts_in_silhouette:
 
-- 동아대 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 2022.07.22)
+- 동아대 IT 취업 동아리-데이터 분석 스터디(2022.03.29 ~ 2022.07.22)
   - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
   - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
   
@@ -67,7 +68,7 @@
   - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
   
 - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ )
-  - 스터디 리더
+  - 스터디 **리더**
   - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
   - 활용 도서: [머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
