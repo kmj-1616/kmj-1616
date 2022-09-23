@@ -64,7 +64,7 @@
     - T-test 및 분산분석
     - R 패키지를 활용한 회귀분석
     
-- **안드로이드 스터디 for beginner(2022.08.20 ~ )**
+- **안드로이드 스터디 for beginner(2022.08.20 ~ 2022.09.21)**
   - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
   
 - **머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ )**
@@ -115,7 +115,7 @@
 - 공식 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
 - 개인 대외활동 인스타그램: [@meez_activitiy](https://instagram.com/meez_activity?igshid=YmMyMTA2M2Y=)
 - 내용
-  - DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 콘텐츠 제작
+  - DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 카드뉴스 제작
   - DX Sprint 참가자 및 멘토 인터뷰 진행
-  - DX Camp 개발 교육과 밋업 참가
-  - DX Camp 홍보 및 참가 후기 콘텐츠 제작
+  - DX Camp 파이썬 교육 참가
+  - DX Camp 홍보 및 참가 후기 카드뉴스와 영상 제작
