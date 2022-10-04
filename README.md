@@ -99,16 +99,6 @@
   - 용도에 따라 URL에서 필요한 데이터를 추출 및 집계
   - 유입원별로 방문 횟수 또는 CVR 집계
   - 동아대 IT 취업 동아리 데이터 분석 스터디 5주차 발표
-  
-### 『머신러닝 딥러닝 문제해결 전략』 3장 발표(2022.09.12)
-
-- 발표 자료: [3장 발표 자료](https://mjrecord.tistory.com/14)
-- 발표 영상: [발표 영상](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
-- 개발 언어/라이브러리: Kaggle
-- 내용
-  - 머신러닝 문제해결 프로세스 및 체크리스트
-  - 딥러닝 문제해결 프로세스 및 체크리스트
-  - 동아대 IT 취업 동아리 머신러닝 딥러닝 문제해결 전략 스터디 2주차 발표
 
 ### DX Challenge 서포터즈 (2022.07.25~)
 
@@ -119,3 +109,22 @@
   - DX Sprint 참가자 및 멘토 인터뷰 진행
   - DX Camp 파이썬 교육 참가
   - DX Camp 홍보 및 참가 후기 카드뉴스와 영상 제작
+  
+### 『머신러닝 딥러닝 문제해결 전략』 3장 발표(2022.09.12)
+
+- 발표 자료: [3장 발표 자료](https://mjrecord.tistory.com/14)
+- 발표 영상: [발표 영상](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
+- 개발 언어/라이브러리: Kaggle, Jupyter Notebook
+- 내용
+  - 머신러닝 문제해결 프로세스 및 체크리스트
+  - 딥러닝 문제해결 프로세스 및 체크리스트
+  - 동아대 IT 취업 동아리 머신러닝 딥러닝 문제해결 전략 스터디 2주차 발표
+  
+### 『머신러닝 딥러닝 문제해결 전략』 7장 발표(2022.10.04)
+
+- 발표 자료: [자료 1](https://mjrecord.tistory.com/15?category=1080906), [자료 2](https://mjrecord.tistory.com/16?category=1080906)
+- 발표 영상: [발표 영상](https://drive.google.com/file/d/1cTA_tFPTIbFycHXAIh9uB6r9Sc7zULCX/view?usp=sharing)
+- 개발 언어/라이브러리: Kaggle, Jupyter Notebook
+- 내용
+  - <범주형 데이터 이진분류 경진대회> 탐색적 데이터 분석
+  - <범주형 데이터 이진분류 경진대회> 데이터 시각화
