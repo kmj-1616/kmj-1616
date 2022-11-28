@@ -142,3 +142,11 @@
   - <안전 운전자 예측 경진대회> 성능 개선 2: XGBoost 모델
   - <안전 운전자 예측 경진대회> 성능 개선 3: LightGBM과 XGBoost 앙상블
   - 머신러닝 딥러닝 문제해결 전략 스터디 8주차 발표
+
+### 『머신러닝 딥러닝 문제해결 전략』 9장 발표(2022.11.28)
+- [발표 자료 1](https://mjrecord.tistory.com/19), [발표 자료 2](https://mjrecord.tistory.com/20)
+- [발표 영상](https://drive.google.com/file/d/1AKm2w5X8HD_xxPTP_p8i4GSyE9KsCHLp/view?usp=share_link)
+- 내용
+  - <향후 판매량 예측 경진대회> 베이스라인 모델
+  - <향후 판매량 예측 경진대회> 성능 개선
+  - 머신러닝 딥러닝 문제해결 전략 스터디 10주차 발표
