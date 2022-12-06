@@ -74,6 +74,9 @@
   - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
 
+## Certificate
+- GAIQ (2022.12.06)
+
 ## Projects :sparkles:
  
 ### 『데이터분석을 위한 SQL 레시피』 4장 발표(2022.05.06)  
