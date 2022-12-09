@@ -1,4 +1,4 @@
-# 권미정입니다! :wave:
+# 데이터분석가 권미정입니다! :wave:
 - Email: pmpmjll@gmail.com
 - Blog: https://mjrecord.tistory.com
 - Github: https://github.com/kmj-1616
@@ -106,7 +106,7 @@
 
 ### DX Challenge 서포터즈 (2022.07.25~2022.12.29)
 
-- 공식 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
+- 공식 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)-부산광역시, 패스파인더, 부산테크노파크 주관
 - 개인 대외활동 인스타그램: [@meez_activitiy](https://instagram.com/meez_activity?igshid=YmMyMTA2M2Y=)
 - 내용
   - 7월: DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 카드뉴스 제작
