@@ -75,7 +75,7 @@
 
 
 ## Certificate
-- GAIQ (2022.12.06)
+- GAIQ
 
 ## Projects :sparkles:
  
@@ -104,16 +104,17 @@
   - 유입원별로 방문 횟수 또는 CVR 집계
   - 데이터 분석 스터디 5주차 발표
 
-### DX Challenge 서포터즈 (2022.07.25~)
+### DX Challenge 서포터즈 (2022.07.25~2022.12.29)
 
 - 공식 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
 - 개인 대외활동 인스타그램: [@meez_activitiy](https://instagram.com/meez_activity?igshid=YmMyMTA2M2Y=)
 - 내용
-  - DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 카드뉴스 제작
-  - DX Sprint 참가자 및 멘토 인터뷰 진행
-  - DX Camp 파이썬 교육 참가
-  - DX Camp 홍보 및 참가 후기 카드뉴스와 영상 기획, 제작
-  - DX 관련 용어 카드뉴스와 DX Camp 참가 팀이 출시한 앱 사용 리뷰 카드뉴스 기획, 제작
+  - 7월: DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 카드뉴스 제작
+  - 8월: DX Sprint 참가자 및 멘토 인터뷰 진행, **우수 서포터즈 선정**
+  - 9월: DX Camp 파이썬 교육 참가
+  - 9월: DX Camp(데이터 기반 기술 개발 및 창업지원 프로그램) 홍보 및 참가 후기 카드뉴스와 영상 기획 및 제작
+  - 10월: DX 관련 용어(DX, MVP, UX/UI)와 DX Camp 참가 팀이 출시한 앱 리뷰 카드뉴스 기획 및 제작
+  - 11월: 부산의 관광데이터 활용과 DX Camp 창업지원 홍보 카드뉴스 기획 및 제작, **우수 서포터즈 팀 선정**
   
 ### 『머신러닝 딥러닝 문제해결 전략』 3장 발표(2022.09.12)
 
