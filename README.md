@@ -6,7 +6,7 @@
 ![Metrics](/github-metrics.svg)
 
 ## Summary :grey_exclamation:
-> 2024년 하반기 데이터분석가 취업을 목표로 공부하고 있습니다.
+> 2024년 하반기 데이터분석가 취업을 목표로 공부하고 있습니다. (2024년 8월 졸업 예정)
 > 가장 관심 있는 도메인은 게임 데이터, 미디어콘텐츠, 엔터테인먼트 데이터입니다.
 
 ## Skill :bulb:
@@ -72,6 +72,9 @@
   - 스터디 **리더**
   - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
   - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
+
+- **텍스트마이닝 스터디(2022.12.24 ~ )**
+  - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
 
 
 ## Certificate
@@ -154,3 +157,8 @@
   - <향후 판매량 예측 경진대회> 베이스라인 모델
   - <향후 판매량 예측 경진대회> 성능 개선
   - 머신러닝 딥러닝 문제해결 전략 스터디 10주차 발표
+
+### 논문 조교(2022.12.24 ~ )
+- 주제: 구글스토어 리뷰를 활용한 국내 금융사(1,2금융) 토픽 분석
+- 내용
+  - google-play-scraper를 활용한 우리은행, 롯데캐피탈 리뷰 데이터 수집
