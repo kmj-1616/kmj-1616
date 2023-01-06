@@ -76,6 +76,9 @@
 - **텍스트마이닝 스터디(2022.12.24 ~ )**
   - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
 
+- **동아대 IT 취업 동아리 - 데이터엔지니어링 스터디(2023.01.06 ~ )**
+  - 스터디 **리더**
+  - 깃허브 주소: [데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)
 
 ## Certificate
 - GAIQ
