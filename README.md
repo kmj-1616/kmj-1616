@@ -163,4 +163,18 @@
 - 주제: 구글스토어 리뷰를 활용한 국내 금융사(1,2금융) 토픽 분석
 - 내용
   - google-play-scraper를 활용한 우리은행, 롯데캐피탈 리뷰 데이터 수집
-  - 리뷰가 모두 출력되지 않고 날짜별로 출력되지 않는 문제점을 해결
+  - 리뷰가 모두 출력되지 않고, 날짜별로 출력되지 않는 문제점을 개선
+
+### python 텍스트마이닝 12강『단어 연관 분석과 Word Network』 발표(2022.12.30)
+- [발표 자료](https://mjrecord.tistory.com/23?category=1054164)
+- 내용
+  - TF와 TF-IDF 개념
+  - 단어 연관 분석 실습
+  - Word Network 실습
+
+### python 텍스트마이닝 15강『Text Clustering 개념 및 활용』 발표(2023.01.06)
+- [발표 자료](https://mjrecord.tistory.com/24)
+- 내용
+  - Text Clustering 개념
+  - 거리 계산 방법
+  - 군집화 방법
