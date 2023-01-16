@@ -181,3 +181,9 @@
   - Text Clustering 개념
   - 거리 계산 방법
   - 군집화 방법
+
+### python 텍스트마이닝 20강『LDA 결과의 시각화』 발표(2023.01.16)
+- [발표 자료](https://mjrecord.tistory.com/25)
+- 내용
+  - LDA 결과의 시각화 명령어
+  - 시각화 결과 분석
