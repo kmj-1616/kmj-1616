@@ -187,3 +187,12 @@
 - 내용
   - LDA 결과의 시각화 명령어
   - 시각화 결과 분석
+
+### <Data Engineering with AWS> 3장『데이터 엔지니어 도구 키트』발표(23.01.25)
+- [발표 자료](https://mjrecord.tistory.com/26)
+- [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing)
+- 내용
+  - 데이터 수집을 위한 AWS 서비스 개요(Amazon DMS, Amazon Kinesis, Amazon MSK, Amazon AppFlow, Amazon Transfer Family, Amazon DataSync, AWS Snow 디바이스 제품군)
+  - 데이터 변환을 위한 AWS 서비스 개요(AWS Lambda, AWS Glue, Amazon EMR)
+  - 빅 데이터 파이프라인 조정을 위한 AWS 서비스 개요(AWS Glue Workflow, AWS Step Functions, MWAA)
+  - 데이터 소비를 위한 AWS 서비스 개요(Amazon Athena, Amazon Redshift 및 Redshift Spectrum, Amazon QuickSight)
