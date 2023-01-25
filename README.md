@@ -188,7 +188,7 @@
   - LDA 결과의 시각화 명령어
   - 시각화 결과 분석
 
-### <Data Engineering with AWS> 3장『데이터 엔지니어 도구 키트』발표(23.01.25)
+### <Data Engineering with AWS> 3장『데이터 엔지니어 도구 키트』발표(2023.01.25)
 - [발표 자료](https://mjrecord.tistory.com/26)
 - [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing)
 - 내용
