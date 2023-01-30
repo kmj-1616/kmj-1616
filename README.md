@@ -196,3 +196,9 @@
   - 데이터 변환을 위한 AWS 서비스 개요(AWS Lambda, AWS Glue, Amazon EMR)
   - 빅 데이터 파이프라인 조정을 위한 AWS 서비스 개요(AWS Glue Workflow, AWS Step Functions, MWAA)
   - 데이터 소비를 위한 AWS 서비스 개요(Amazon Athena, Amazon Redshift 및 Redshift Spectrum, Amazon QuickSight)
+
+### 『머신러닝 딥러닝 문제해결 전략』 11장 발표(2023.01.30)
+- [발표 자료 1](https://mjrecord.tistory.com/28), [발표 자료 2](https://mjrecord.tistory.com/29)
+- [발표 영상](https://drive.google.com/file/d/1DcUNok0lKJm3U6Zsd6pHpg5_JOvYZeY1/view?usp=sharing)
+- 내용
+  - <항공 사진 내 선인장 식별 경진대회> 탐색적 데이터 분석, 베이스라인, 성능 개선
