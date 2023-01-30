@@ -202,3 +202,4 @@
 - [발표 영상](https://drive.google.com/file/d/1DcUNok0lKJm3U6Zsd6pHpg5_JOvYZeY1/view?usp=sharing)
 - 내용
   - <항공 사진 내 선인장 식별 경진대회> 탐색적 데이터 분석, 베이스라인, 성능 개선
+  - 머신러닝 딥러닝 문제해결 전략 스터디 11주차 발표
