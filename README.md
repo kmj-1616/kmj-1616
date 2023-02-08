@@ -209,3 +209,13 @@
 - 내용
   - 한글 파일 단어별 빈도세기 및 단어-빈도(TF) 만들기
   - wordcloud 작성하기
+
+### Data Engineering with AWS 5장『데이터엔지니어링 파이프라인 설계』발표(2023.02.08)
+- [발표 자료](https://mjrecord.tistory.com/30)
+- [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing)
+- 내용
+  - 데이터 파이프라인 아키텍처 접근
+  - 데이터 소비자 식별 및 요구 사항 이해
+  - 데이터 소스 식별 및 데이터 수집
+  - 데이터 변환 및 최적화 식별
+  - 데이터 마트에 데이터 로드
