@@ -167,6 +167,7 @@
 - 내용
   - google-play-scraper를 활용한 우리은행, 롯데캐피탈 리뷰 데이터 수집
   - 리뷰가 모두 출력되지 않고, 날짜별로 출력되지 않는 문제점을 개선
+  - 텍스톰(Texttom)을 활용한 은행 앱 리뷰 데이터의 텍스트마이닝, 매트릭스, 담론분석, 감성분석, 토픽분석
 
 ### python 텍스트마이닝 12강『단어 연관 분석과 Word Network』 발표(2022.12.30)
 - [발표 자료](https://mjrecord.tistory.com/23?category=1054164)
@@ -219,3 +220,8 @@
   - 데이터 소스 식별 및 데이터 수집
   - 데이터 변환 및 최적화 식별
   - 데이터 마트에 데이터 로드
+
+### python 텍스트마이닝 26강『단어연관 및 word network』, 29강『한글 Document cluster』 발표(2023.02.20)
+- [26강 발표자료](https://mjrecord.tistory.com/31), [29강 발표자료](https://mjrecord.tistory.com/32)
+- 내용
+  - 한글 단어 연관 분석 및 시각화, 한글 문서 간 군집 분석
