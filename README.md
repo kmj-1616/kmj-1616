@@ -227,3 +227,13 @@
 - [26강 발표자료](https://mjrecord.tistory.com/31), [29강 발표자료](https://mjrecord.tistory.com/32)
 - 내용
   - 한글 단어 연관 분석 및 시각화, 한글 문서 간 군집 분석
+
+### Data Engineering with AWS 6장 실습『AWS DMS로 데이터 수집』발표(2023.03.07)
+- [실습 블로깅](https://mjrecord.tistory.com/33)
+- [발표 영상](https://drive.google.com/file/d/10Cq4xGQO5Fb74-PL87cqSjP1YMyEN0f7/view?usp=sharing)
+- 내용
+  - 새 MySQL 데이터베이스 인스턴스 생성
+  - Amazon EC2 인스턴스를 사용하여 데모 데이터 로드
+  - DMS에 대한 IAM 정책 및 역할 생성
+  - DMS 설정 구성 및 MySQL에서 S3로 전체 로드 수행
+  - Amazon Athena로 데이터 쿼리
