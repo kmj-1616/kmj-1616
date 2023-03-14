@@ -231,7 +231,7 @@
   - DMS 설정 구성 및 MySQL에서 S3로 전체 로드 수행
   - Amazon Athena로 데이터 쿼리
 
-### 졸업논문 텍스트마이닝 연구 조교(2022.12.24 ~ 2023.03.11)
+### 졸업논문 텍스트마이닝 연구 조교(2022.12.24 ~ )
 - 주제: 코로나19 기간(2020~2022) 내 국내은행 및 미국은행은 각각 어떤 주제(이슈)가 언급이 되었는가?
 - 내용
   - google-play-scraper를 활용한 우리은행, 롯데캐피탈, Bank Of America의 구글스토어 리뷰 데이터를 수집함.
@@ -239,3 +239,12 @@
   - 텍스톰(Texttom)을 활용한 은행 앱 리뷰 데이터의 텍스트마이닝, 매트릭스, 담론분석, 감성분석, 토픽분석을 진행함.
   - Python을 활용해 BOA 리뷰 데이터 전처리를 하고, coherence 값을 구해 적절한 토픽 개수를 정하고 LDA 분석을 진행함.
   - 전처리된 리뷰 데이터가 별점, 날짜와 태깅되도록 하여 코로나19 이전과 이후의 토픽 변화 및 부정적인 리뷰와 연관된 토픽은 어떤 것인지 분석함.
+
+### Data Engineering with AWS 10장 실습『데이터 파이프라인 오케스트레이션』발표(2023.03.14)
+- [실습 블로깅](https://mjrecord.tistory.com/34)
+- [발표 영상](https://drive.google.com/file/d/1IlHARxaiRHM-Gi5ZizURebREUZcyOOVN/view?usp=sharing)
+- 내용
+  - 새 Lambda 함수 생성
+  - SNS 주제 생성 및 이메일 주소 구독
+  - 새 Step Function 상태 시스템 생성
+  - AWS CloudTrail 및 Amazon EventBridge 구성
