@@ -70,12 +70,12 @@
 - **안드로이드 스터디 for beginner(2022.08.20 ~ 2022.09.21)**
   - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
   
-- **동아대 IT 취업 동아리 - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ )**
+- **동아대 IT 취업 동아리 - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ 2023.02.13)**
   - 스터디 **리더**
   - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
   - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
-- **텍스트마이닝 스터디(2022.12.24 ~ )**
+- **텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)**
   - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
 
 - **동아대 IT 취업 동아리 - 데이터엔지니어링 스터디(2023.01.06 ~ )**
