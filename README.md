@@ -89,7 +89,7 @@
  
 ### 『데이터분석을 위한 SQL 레시피』 4장 발표(2022.05.06)  
 
-- 발표 자료: [발표자료 1](https://mjrecord.tistory.com/10), [발표자료 2](https://mjrecord.tistory.com/11)
+- 발표 자료: [블로깅 1](https://mjrecord.tistory.com/10), [블로깅 2](https://mjrecord.tistory.com/11)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1QBXaD6Vj2grIkOeEF-Gn3_kkIL-_GHCd/view)
 - 개발 언어/라이브러리 : SQL  
 - 내용
@@ -103,7 +103,7 @@
 
 ### 『데이터분석을 위한 SQL 레시피』 6장 발표(2022.05.20)
 
-- 발표 자료: [발표자료](https://mjrecord.tistory.com/12)
+- 발표 자료: [블로깅](https://mjrecord.tistory.com/12)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1_1wvP-7IAQWcxvUnpjEvcVHm2JYP-aYT/view)
 - 개발 언어/라이브러리 : SQL 
 - 내용
@@ -127,7 +127,7 @@
   
 ### 『머신러닝 딥러닝 문제해결 전략』 3장 발표(2022.09.12)
 
-- 발표 자료: [3장 발표 자료](https://mjrecord.tistory.com/14)
+- 발표 자료: [블로깅](https://mjrecord.tistory.com/14)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
 - 개발 언어/라이브러리: Kaggle, Jupyter Notebook
 - 내용
@@ -137,7 +137,7 @@
   
 ### 『머신러닝 딥러닝 문제해결 전략』 7장 발표(2022.10.04)
 
-- 발표 자료: [자료 1](https://mjrecord.tistory.com/15?category=1080906), [자료 2](https://mjrecord.tistory.com/16?category=1080906)
+- 발표 자료: [블로깅 1](https://mjrecord.tistory.com/15?category=1080906), [블로깅 2](https://mjrecord.tistory.com/16?category=1080906)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1cTA_tFPTIbFycHXAIh9uB6r9Sc7zULCX/view?usp=sharing)
 - 개발 언어/라이브러리: Kaggle, Jupyter Notebook
 - 내용
@@ -147,7 +147,7 @@
 
 ### 『머신러닝 딥러닝 문제해결 전략』 8장 발표(2022.11.14)
 
-- [발표 자료](https://mjrecord.tistory.com/17)
+- [블로깅](https://mjrecord.tistory.com/17)
 - [발표 영상](https://drive.google.com/file/d/13NR0CErRTFlxC9JMXGKdlMQh1M76sd12/view?usp=share_link)
 - 내용
   - <안전 운전자 예측 경진대회> 베이스라인 모델
@@ -157,7 +157,7 @@
   - 머신러닝 딥러닝 문제해결 전략 스터디 8주차 발표
 
 ### 『머신러닝 딥러닝 문제해결 전략』 9장 발표(2022.11.28)
-- [발표 자료 1](https://mjrecord.tistory.com/19), [발표 자료 2](https://mjrecord.tistory.com/20)
+- [블로깅 1](https://mjrecord.tistory.com/19), [블로깅 2](https://mjrecord.tistory.com/20)
 - [발표 영상](https://drive.google.com/file/d/1AKm2w5X8HD_xxPTP_p8i4GSyE9KsCHLp/view?usp=share_link)
 - 내용
   - <향후 판매량 예측 경진대회> 베이스라인 모델
@@ -165,27 +165,27 @@
   - 머신러닝 딥러닝 문제해결 전략 스터디 10주차 발표
 
 ### python 텍스트마이닝 12강『단어 연관 분석과 Word Network』 발표(2022.12.30)
-- [발표 자료](https://mjrecord.tistory.com/23?category=1054164)
+- [블로깅](https://mjrecord.tistory.com/23?category=1054164)
 - 내용
   - TF와 TF-IDF 개념
   - 단어 연관 분석 실습
   - Word Network 실습
 
 ### python 텍스트마이닝 15강『Text Clustering 개념 및 활용』 발표(2023.01.06)
-- [발표 자료](https://mjrecord.tistory.com/24)
+- [블로깅](https://mjrecord.tistory.com/24)
 - 내용
   - Text Clustering 개념
   - 거리 계산 방법
   - 군집화 방법
 
 ### python 텍스트마이닝 20강『LDA 결과의 시각화』 발표(2023.01.16)
-- [발표 자료](https://mjrecord.tistory.com/25)
+- [블로깅](https://mjrecord.tistory.com/25)
 - 내용
   - LDA 결과의 시각화 명령어
   - 시각화 결과 분석
 
 ### Data Engineering with AWS 3장『데이터 엔지니어 도구 키트』발표(2023.01.25)
-- [발표 자료](https://mjrecord.tistory.com/26)
+- [블로깅](https://mjrecord.tistory.com/26)
 - [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing)
 - 내용
   - 데이터 수집을 위한 AWS 서비스 개요(Amazon DMS, Amazon Kinesis, Amazon MSK, Amazon AppFlow, Amazon Transfer Family, Amazon DataSync, AWS Snow 디바이스 제품군)
@@ -194,20 +194,20 @@
   - 데이터 소비를 위한 AWS 서비스 개요(Amazon Athena, Amazon Redshift 및 Redshift Spectrum, Amazon QuickSight)
 
 ### 『머신러닝 딥러닝 문제해결 전략』 11장 발표(2023.01.30)
-- [발표 자료 1](https://mjrecord.tistory.com/28), [발표 자료 2](https://mjrecord.tistory.com/29)
+- [블로깅 1](https://mjrecord.tistory.com/28), [블로깅 2](https://mjrecord.tistory.com/29)
 - [발표 영상](https://drive.google.com/file/d/1DcUNok0lKJm3U6Zsd6pHpg5_JOvYZeY1/view?usp=sharing)
 - 내용
   - <항공 사진 내 선인장 식별 경진대회> 탐색적 데이터 분석, 베이스라인, 성능 개선
   - 머신러닝 딥러닝 문제해결 전략 스터디 11주차 발표
 
 ### python 텍스트마이닝 25강『한글 빈도분석과 WordCloud』 발표(2023.02.06)
-- [발표 자료](https://mjrecord.tistory.com/27)
+- [블로깅](https://mjrecord.tistory.com/27)
 - 내용
   - 한글 파일 단어별 빈도세기 및 단어-빈도(TF) 만들기
   - wordcloud 작성하기
 
 ### Data Engineering with AWS 5장『데이터엔지니어링 파이프라인 설계』발표(2023.02.08)
-- [발표 자료](https://mjrecord.tistory.com/30)
+- [블로깅](https://mjrecord.tistory.com/30)
 - [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing)
 - 내용
   - 데이터 파이프라인 아키텍처 접근
@@ -217,7 +217,7 @@
   - 데이터 마트에 데이터 로드
 
 ### python 텍스트마이닝 26강『단어연관 및 word network』, 29강『한글 Document cluster』 발표(2023.02.20)
-- [26강 발표자료](https://mjrecord.tistory.com/31), [29강 발표자료](https://mjrecord.tistory.com/32)
+- [26강 블로깅](https://mjrecord.tistory.com/31), [29강 블로깅](https://mjrecord.tistory.com/32)
 - 내용
   - 한글 단어 연관 분석 및 시각화, 한글 문서 간 군집 분석
 
