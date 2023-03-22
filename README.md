@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
 - Numpy, Matplotlib을 이용한 데이터 처리 경험
@@ -51,6 +53,8 @@
 - 시스템 분석 및 설계(A+)
 - 고객데이터 분석(A+)
 - 빅데이터 분석(A+)
+- 빅데이터 시각화
+- 텍스트 
 
 **Study** :busts_in_silhouette:
 
@@ -78,9 +82,10 @@
 - **텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)**
   - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
 
-- **동아대 IT 취업 동아리 - 데이터엔지니어링 스터디(2023.01.06 ~ )**
+- **동아대 IT 취업 동아리 - AWS 데이터엔지니어링 스터디(2023.01.06 ~ 2023.03.28)**
   - 스터디 **리더**
   - 깃허브 주소: [데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)
+  - 활용 도서: [Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
 
 ## Certificate
 - GAIQ
