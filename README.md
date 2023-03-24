@@ -33,6 +33,8 @@
 - Kaggle을 이용한 머신러닝 경진대회의 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델, 성능 개선 경험
 - Python을 이용한 텍스트마이닝 경험
 - Texttom을 이용한 데이터 수집 및 전처리, 텍스트마이닝, 분석 경험
+- AWS DMS로 데이터를 수집하고 Amazon Kinesis로 스트리밍 데이터를 수집하는 경험
+- AWS Step Function을 통한 간단한 데이터 파이프라인 오케스트레이션 설계 경험
 
 ### 앞으로 공부할 것들 :memo:
 - A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
@@ -170,27 +172,27 @@
   - <향후 판매량 예측 경진대회> 성능 개선
   - 머신러닝 딥러닝 문제해결 전략 스터디 10주차 발표
 
-### python 텍스트마이닝 12강『단어 연관 분석과 Word Network』 발표(2022.12.30)
+### python 텍스트마이닝 12강 『단어 연관 분석과 Word Network』 발표(2022.12.30)
 - [블로깅](https://mjrecord.tistory.com/23?category=1054164)
 - 내용
   - TF와 TF-IDF 개념
   - 단어 연관 분석 실습
   - Word Network 실습
 
-### python 텍스트마이닝 15강『Text Clustering 개념 및 활용』 발표(2023.01.06)
+### python 텍스트마이닝 15강 『Text Clustering 개념 및 활용』 발표(2023.01.06)
 - [블로깅](https://mjrecord.tistory.com/24)
 - 내용
   - Text Clustering 개념
   - 거리 계산 방법
   - 군집화 방법
 
-### python 텍스트마이닝 20강『LDA 결과의 시각화』 발표(2023.01.16)
+### python 텍스트마이닝 20강 『LDA 결과의 시각화』 발표(2023.01.16)
 - [블로깅](https://mjrecord.tistory.com/25)
 - 내용
   - LDA 결과의 시각화 명령어
   - 시각화 결과 분석
 
-### Data Engineering with AWS 3장『데이터 엔지니어 도구 키트』발표(2023.01.25)
+### Data Engineering with AWS 3장 『데이터 엔지니어 도구 키트』발표(2023.01.25)
 - [블로깅](https://mjrecord.tistory.com/26)
 - [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing)
 - 내용
@@ -206,13 +208,13 @@
   - <항공 사진 내 선인장 식별 경진대회> 탐색적 데이터 분석, 베이스라인, 성능 개선
   - 머신러닝 딥러닝 문제해결 전략 스터디 11주차 발표
 
-### python 텍스트마이닝 25강『한글 빈도분석과 WordCloud』 발표(2023.02.06)
+### python 텍스트마이닝 25강 『한글 빈도분석과 WordCloud』 발표(2023.02.06)
 - [블로깅](https://mjrecord.tistory.com/27)
 - 내용
   - 한글 파일 단어별 빈도세기 및 단어-빈도(TF) 만들기
   - wordcloud 작성하기
 
-### Data Engineering with AWS 5장『데이터엔지니어링 파이프라인 설계』발표(2023.02.08)
+### Data Engineering with AWS 5장 『데이터엔지니어링 파이프라인 설계』발표(2023.02.08)
 - [블로깅](https://mjrecord.tistory.com/30)
 - [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing)
 - 내용
@@ -222,12 +224,12 @@
   - 데이터 변환 및 최적화 식별
   - 데이터 마트에 데이터 로드
 
-### python 텍스트마이닝 26강『단어연관 및 word network』, 29강『한글 Document cluster』 발표(2023.02.20)
+### python 텍스트마이닝 26강 『단어연관 및 word network』, 29강 『한글 Document cluster』 발표(2023.02.20)
 - [26강 블로깅](https://mjrecord.tistory.com/31), [29강 블로깅](https://mjrecord.tistory.com/32)
 - 내용
   - 한글 단어 연관 분석 및 시각화, 한글 문서 간 군집 분석
 
-### Data Engineering with AWS 6장 실습『AWS DMS로 데이터 수집』발표(2023.03.07)
+### Data Engineering with AWS 6장 실습 『AWS DMS로 데이터 수집』발표(2023.03.07)
 - [실습 블로깅](https://mjrecord.tistory.com/33)
 - [발표 영상](https://drive.google.com/file/d/10Cq4xGQO5Fb74-PL87cqSjP1YMyEN0f7/view?usp=sharing)
 - 내용
@@ -246,7 +248,7 @@
   - Python을 활용해 BOA 리뷰 데이터 전처리를 하고, coherence 값을 구해 적절한 토픽 개수를 정하고 LDA 분석을 진행함.
   - 전처리된 리뷰 데이터가 별점, 날짜와 태깅되도록 하여 코로나19 이전과 이후의 토픽 변화 및 부정적인 리뷰와 연관된 토픽은 어떤 것인지 분석함.
 
-### Data Engineering with AWS 10장 실습『데이터 파이프라인 오케스트레이션』발표(2023.03.14)
+### Data Engineering with AWS 10장 실습 『데이터 파이프라인 오케스트레이션』발표(2023.03.14)
 - [실습 블로깅](https://mjrecord.tistory.com/34)
 - [발표 영상](https://drive.google.com/file/d/1IlHARxaiRHM-Gi5ZizURebREUZcyOOVN/view?usp=sharing)
 - 내용
