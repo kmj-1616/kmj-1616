@@ -31,10 +31,11 @@
 - R을 이용한 T-test 및 분산분석
 - Android Studio에서 Kotlin을 이용한 간단한 앱 개발 경험
 - Kaggle을 이용한 머신러닝 경진대회의 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델, 성능 개선 경험
-- Python을 이용한 텍스트마이닝 경험
-- Texttom을 이용한 데이터 수집 및 전처리, 텍스트마이닝, 분석 경험
+- Python을 이용한 은행 앱 리뷰의 전처리, 텍스트마이닝 경험
 - AWS DMS로 데이터를 수집하고 Amazon Kinesis로 스트리밍 데이터를 수집하는 경험
 - AWS Step Function을 통한 간단한 데이터 파이프라인 오케스트레이션 설계 경험
+- Tableau를 활용한 카페 매출 대시보드 설계 경험
+- Amazon Comprehend로 호텔 리뷰 검토 및 Insight 도출 경험
 
 ### 앞으로 공부할 것들 :memo:
 - A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
@@ -42,7 +43,6 @@
 - Python을 통한 데이터 분석 및 모델 개발 경험
 - 이커머스 프로젝트 수행 경험
 - A/B 테스트, 앱 분석 툴을 기반한 분석 및 Insight 도출 경험
-- 시각화 툴을 활용한 대시보드 설계 경험
 
 
 ## Education :book:
@@ -256,3 +256,11 @@
   - SNS 주제 생성 및 이메일 주소 구독
   - 새 Step Function 상태 시스템 생성
   - AWS CloudTrail 및 Amazon EventBridge 구성
+
+### Data Engineering with AWS 13장 『인공 지능 및 머신 러닝 활성화』, 14장 『학습 여정의 첫 번째 부분 마무리』 발표(2023.03.28)
+- [13장 요약 블로깅](https://mjrecord.tistory.com/35), [13장 실습 블로깅](https://mjrecord.tistory.com/36), [14장 블로깅](https://mjrecord.tistory.com/37)
+- [발표 영상](https://drive.google.com/file/d/1H-4RhAP67CxC2L_k_PoXbAK2Exi1lVcg/view?usp=sharing)
+- 내용
+  - 인공 지능(AI)과 ML이 조직에 중요한 이유와 여러 AI용 AWS 서비스 및  ML용 AWS 서비스
+  - Amazon Comprehend로 리뷰 검토 실습
+  - AWS 계정 정리 방법
