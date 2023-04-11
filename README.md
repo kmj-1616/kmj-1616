@@ -1,7 +1,7 @@
 # 데이터분석가 권미정입니다! :wave:
-- Email: pmpmjll@gmail.com
-- Blog: https://mjrecord.tistory.com
-- Github: https://github.com/kmj-1616
+- **Email**: pmpmjll@gmail.com
+- **Blog**: https://mjrecord.tistory.com
+- **Github**: https://github.com/kmj-1616
 
 ![Metrics](/github-metrics.svg)
 
