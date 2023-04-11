@@ -9,7 +9,7 @@
 > 2024년 하반기 데이터분석가 취업을 목표로 공부하고 있습니다. (2024년 8월 졸업 예정)
 > 가장 관심 있는 도메인은 게임 데이터, 미디어콘텐츠, 엔터테인먼트 데이터입니다.
 
-## Skill :bulb:
+## Skills :bulb:
 **Tech** :
 한 번 이상 다루어 본 기술들     
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
