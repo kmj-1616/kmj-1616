@@ -91,7 +91,7 @@
   - 활용 도서: [Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
 
 - **챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ )**
-  - 동아대 DECO 비교과 프로그램
+  - 동아대 DECO 비교과 프로그램 참가 
   - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
 
 ## Certificate
