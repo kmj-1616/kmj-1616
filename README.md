@@ -90,6 +90,10 @@
   - 깃허브 주소: [데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)
   - 활용 도서: [Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
 
+- **챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ )**
+  - 동아대 DECO 비교과 프로그램
+  - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
+
 ## Certificate
 - GAIQ
 
@@ -264,3 +268,8 @@
   - 인공 지능(AI)과 ML이 조직에 중요한 이유와 여러 AI용 AWS 서비스 및  ML용 AWS 서비스
   - Amazon Comprehend로 리뷰 검토 실습
   - AWS 계정 정리 방법
+
+### 『Analytics on AWS』Workshop 실습(2023.03.29)
+- 23년 1학기 도전학기제를 통해 팀을 만들어 워크숍 실습을 진행함.
+- [실습한 워크숍](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR/)
+- 실습 과정은 블로깅 후 업데이트.
