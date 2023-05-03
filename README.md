@@ -94,6 +94,8 @@
 - **챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ )**
   - 동아대 DECO 비교과 프로그램 참가 
   - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
+  - 수료
+    - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing) 
 
 ## Certificate
 - GAIQ
