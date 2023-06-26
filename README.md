@@ -95,7 +95,14 @@
   - 동아대 DECO 비교과 프로그램 참가 
   - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
   - 수료
-    - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing) 
+    - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
+    - 5월 핀테크와 금융의 미래
+    - 6월 데이터 사이언스 역량강화 과정 
+   
+- **동아대 IT 취업 동아리 - A/B 테스트 스터디(2023.06.27 ~)**
+  - 스터디 **리더**
+  - 깃허브 주소: [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)
+  - 활용 도서 : [A/B 테스트](https://product.kyobobook.co.kr/detail/S000060625360)
 
 ## Certificate
 - GAIQ
