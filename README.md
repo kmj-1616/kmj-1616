@@ -288,3 +288,7 @@
 - 23년 1학기 도전학기제를 통해 팀으로 워크숍 실습을 진행함.
 - [실습한 워크숍](https://catalog.workshops.aws/sagemaker-fraud-detection/en-US)
 - [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link) 
+
+### A/B 테스트 스터디 1주차 1장 발표(2023.06.27)
+- 발표 내용: <1부 01 소개와 동기>의 온라인 종합 대조 실험의 용어들, 흥미로운 AB테스트 사례들, 추가 netflix의 사례 
+- [발표자료](https://mjrecord.tistory.com/39), [발표영상](https://drive.google.com/file/d/1HRdzfovI0KKQbdufvzHbcoBZYTWvKAhb/view?usp=sharing)
