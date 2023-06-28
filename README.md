@@ -105,8 +105,8 @@
   - 활용 도서 : [A/B 테스트](https://product.kyobobook.co.kr/detail/S000060625360)
  
 - **동아대 IT 취업 동아리 - DB&SQL 스터디(2023.06.28 ~)**
-- 노션 주소: [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)
-- 활용 도서: [이것이SQL이다](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9) 
+  - 노션 주소: [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)
+  - 활용 도서: [이것이SQL이다](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9) 
 
 ## Certificate
 - GAIQ
