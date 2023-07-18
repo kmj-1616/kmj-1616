@@ -56,9 +56,9 @@
 - 시스템 분석 및 설계(A+)
 - 고객데이터 분석(A+)
 - 빅데이터 분석(A+)
-- 빅데이터 시각화
-- 텍스트 분석 
-- 프로젝트 관리 
+- 빅데이터 시각화(A+)
+- 텍스트 분석(A+)
+- 프로젝트 관리(B) 
 
 **Study** :busts_in_silhouette:
 
@@ -296,3 +296,8 @@
 ### A/B 테스트 스터디 1주차 1장 발표(2023.06.27)
 - 발표 내용: <1부 01 소개와 동기>의 온라인 종합 대조 실험의 용어들, 흥미로운 AB테스트 사례들, 추가 netflix의 사례 
 - [발표자료](https://mjrecord.tistory.com/39), [발표영상](https://drive.google.com/file/d/1HRdzfovI0KKQbdufvzHbcoBZYTWvKAhb/view?usp=sharing)
+
+### A/B테스트 스터디 3주차 4장 발표(2023.07.18)
+- 발표 내용: <1부 04 실험 플랫폼과 문화>의 실험 성숙도 모델, 실험 플랫폼의 구성요소, 추가 여기어때와 우아한형제들 등의 사례
+- [발표자료](https://mjrecord.tistory.com/40), [발표영상](https://drive.google.com/file/d/1FiJu-2QJJjq0nHw1_RZWQQQ20DyDSUNz/view?usp=sharing)
+
