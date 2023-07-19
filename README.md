@@ -96,7 +96,7 @@
   - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
   - 수료
     - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
-    - 5월 핀테크와 금융의 미래
+    - 5월 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
     - 6월 데이터 사이언스 역량강화 과정 
    
 - **동아대 IT 취업 동아리 - A/B 테스트 스터디(2023.06.27 ~)**
