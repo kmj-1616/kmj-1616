@@ -301,7 +301,10 @@
 - 발표 내용: <1부 01 소개와 동기>의 온라인 종합 대조 실험의 용어들, 흥미로운 AB테스트 사례들, 추가 netflix의 사례 
 - [발표자료](https://mjrecord.tistory.com/39), [발표영상](https://drive.google.com/file/d/1HRdzfovI0KKQbdufvzHbcoBZYTWvKAhb/view?usp=sharing)
 
-### A/B테스트 스터디 3주차 4장 발표(2023.07.18)
+### A/B 테스트 스터디 3주차 4장 발표(2023.07.18)
 - 발표 내용: <1부 04 실험 플랫폼과 문화>의 실험 성숙도 모델, 실험 플랫폼의 구성요소, 추가 여기어때와 우아한형제들 등의 사례
 - [발표자료](https://mjrecord.tistory.com/40), [발표영상](https://drive.google.com/file/d/1FiJu-2QJJjq0nHw1_RZWQQQ20DyDSUNz/view?usp=sharing)
 
+### A/B 테스트 스터디 4주차 6장 발표(2023.07.25)
+- 발표 내용: <1부 06 조직 운영을 위한 지표> 지표의 분류, 공식화, 평가, 진화, 추가 facebook의 광고 게시물 참여 지표 사례
+- [발표자료](https://mjrecord.tistory.com/41), [발표영상](https://drive.google.com/file/d/1f_8JSkhdXIX9Q8Aimd1zKf9eCMMmIj0T/view?usp=sharing)
