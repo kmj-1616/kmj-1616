@@ -108,9 +108,10 @@
   - 노션 주소: [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)
   - 활용 도서: [이것이SQL이다](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9)
  
-- **AI코딩교사 자격증 취득 과정(2023.07.19 ~)**
-  - zoom 연수 2일간(6시간), 한국 코딩 융합 교육원 사이버 연수 3일간(28시간), 수강자들과의 머신러닝 스터디
-  - 주요내용: AI코딩교사 전문교육, 코딩 일반교육 
+- **동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~)**
+  - 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
+  - 승학캠퍼스 대면 강의
+  - CDS 경진대회 대비 문제풀이 강의 
 
 ## Certificate
 - GAIQ
