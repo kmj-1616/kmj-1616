@@ -110,7 +110,7 @@
  
 - **동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~)**
   - 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
-  - 승학캠퍼스 대면 강의
+  - 승학캠퍼스 대면 Brightics 강의
   - CDS 경진대회 대비 문제풀이 강의 
 
 ## Certificate
@@ -309,3 +309,7 @@
 ### A/B 테스트 스터디 4주차 6장 발표(2023.07.25)
 - 발표 내용: <1부 06 조직 운영을 위한 지표> 지표의 분류, 공식화, 평가, 진화, 추가 facebook의 광고 게시물 참여 지표 사례
 - [발표자료](https://mjrecord.tistory.com/41), [발표영상](https://drive.google.com/file/d/1f_8JSkhdXIX9Q8Aimd1zKf9eCMMmIj0T/view?usp=sharing)
+
+### A/B 테스트 스터디 5주차 7장 발표(2023.08.08)
+- 발표 내용: <2부 07 실험을 위한 지표와 종합 평가 기준> 비즈니스 지표로부터 실험에 적절한 지표 작성하기, 주요 지표를 OEC로 결합하기, OEC 사례-아마존의 이메일 
+- [발표자료](https://mjrecord.tistory.com/42), [발표영상](https://drive.google.com/file/d/1qm1pZ1WL4XCgH71PjeAIP-WetqwbhIYt/view?usp=sharing)
