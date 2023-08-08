@@ -114,7 +114,7 @@
   - CDS 경진대회 대비 문제풀이 강의 
 
 ## Certificate
-- GAIQ
+- GAIQ (2022.12.06)
 
 ## Projects :sparkles:
  
