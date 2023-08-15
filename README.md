@@ -108,10 +108,10 @@
   - 노션 주소: [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)
   - 활용 도서: [이것이SQL이다](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9)
  
-- **동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~)**
+- **동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)**
   - 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
   - 승학캠퍼스 대면 Brightics 강의
-  - CDS 경진대회 대비 문제풀이 강의 
+  - CDS 경진대회 대비 문제풀이 
 
 ## Certificate
 - GAIQ (2022.12.06) 
@@ -313,3 +313,7 @@
 ### A/B 테스트 스터디 5주차 7장 발표(2023.08.08)
 - 발표 내용: <2부 07 실험을 위한 지표와 종합 평가 기준> 비즈니스 지표로부터 실험에 적절한 지표 작성하기, 주요 지표를 OEC로 결합하기, OEC 사례-아마존의 이메일 
 - [발표자료](https://mjrecord.tistory.com/42), [발표영상](https://drive.google.com/file/d/1qm1pZ1WL4XCgH71PjeAIP-WetqwbhIYt/view?usp=sharing)
+
+### A/B 테스트 스터디 6주차 11장 발표(2023.08.15)
+- 발표 내용: <3부 11 관측 인과 연구> 종합 대조 실험이 불가능한 경우, 관측 인과 연구를 위한 설계, 함정, 단절적 시계열과 회귀 불연속 설계 사례-연구 논문
+- [발표자료](https://mjrecord.tistory.com/45), [발표영상](https://drive.google.com/file/d/1wK_mQ4a6jijTFlc4WmjpFMXA8sX1yL8f/view?usp=sharing) 
