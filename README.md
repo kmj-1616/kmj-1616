@@ -317,3 +317,7 @@
 ### A/B 테스트 스터디 6주차 11장 발표(2023.08.15)
 - 발표 내용: <3부 11 관측 인과 연구> 종합 대조 실험이 불가능한 경우, 관측 인과 연구를 위한 설계, 함정, 단절적 시계열과 회귀 불연속 설계 사례-연구 논문
 - [발표자료](https://mjrecord.tistory.com/45), [발표영상](https://drive.google.com/file/d/1wK_mQ4a6jijTFlc4WmjpFMXA8sX1yL8f/view?usp=sharing) 
+
+### A/B 테스트 스터디 8주차 17장 발표(2023.08.29)
+- 발표 내용: <5부 17장 온라인 종합 대조 실험에 사용되는 통계 이론> 2표본 t검정, p값과 신뢰구간, 정규성 가정, 1종 및 2종 오류와 검정력, 편향, 다중 테스트, 피셔의 메타 분석 
+- [발표자료](https://mjrecord.tistory.com/46), [발표영상](https://drive.google.com/file/d/1Gdj82I4m2hnghTPYI1gQMy4e-KqH-Rzg/view?usp=sharing)
