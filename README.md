@@ -321,3 +321,8 @@
 ### A/B 테스트 스터디 8주차 17장 발표(2023.08.29)
 - 발표 내용: <5부 17장 온라인 종합 대조 실험에 사용되는 통계 이론> 2표본 t검정, p값과 신뢰구간, 정규성 가정, 1종 및 2종 오류와 검정력, 편향, 다중 테스트, 피셔의 메타 분석 
 - [발표자료](https://mjrecord.tistory.com/46), [발표영상](https://drive.google.com/file/d/1Gdj82I4m2hnghTPYI1gQMy4e-KqH-Rzg/view?usp=sharing)
+
+### A/B 테스트 스터디 10주차 20장 발표(2023.09.19)
+- 발표 내용: <5부 20장 민감도 향상을 위한 트리거링> 트리거링의 예, 최적 및 보수적 트리거링, 전반적인 실험효과, 신뢰할 수 있는 트리거링, 일반적인 함정 
+  - [발표자료](https://mjrecord.tistory.com/48), [발표영상](https://drive.google.com/file/d/1K91Qc4CTAKF5pb9NZegx1laaFxk80WZ-/view?usp=sharing)
+ 
