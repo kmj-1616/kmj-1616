@@ -91,7 +91,7 @@
   - 깃허브 주소: [데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)
   - 활용 도서: [Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
 
-- **챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ )**
+- **챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30)**
   - 동아대 DECO 비교과 프로그램 참가 
   - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
   - 수료
@@ -99,12 +99,12 @@
     - 5월 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
     - 6월 데이터 사이언스 역량강화 과정 
    
-- **동아대 IT 취업 동아리 - A/B 테스트 스터디(2023.06.27 ~)**
+- **동아대 IT 취업 동아리 - A/B 테스트 스터디(2023.06.27 ~ 2023.09.26)**
   - 스터디 **리더**
   - 깃허브 주소: [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)
   - 활용 도서 : [A/B 테스트](https://product.kyobobook.co.kr/detail/S000060625360)
  
-- **동아대 IT 취업 동아리 - DB&SQL 스터디(2023.06.28 ~)**
+- **동아대 IT 취업 동아리 - DB&SQL 스터디(2023.06.28 ~ 2023.09.15)**
   - 노션 주소: [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)
   - 활용 도서: [이것이SQL이다](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9)
  
@@ -326,3 +326,9 @@
 - 발표 내용: <5부 20장 민감도 향상을 위한 트리거링> 트리거링의 예, 최적 및 보수적 트리거링, 전반적인 실험효과, 신뢰할 수 있는 트리거링, 일반적인 함정  
   - [발표자료](https://mjrecord.tistory.com/48), [발표영상](https://drive.google.com/file/d/1K91Qc4CTAKF5pb9NZegx1laaFxk80WZ-/view?usp=sharing)
  
+### 2019 빅콘테스트 챔피언 리그 <리니지 게임유저 잔존가치를 고려한 고객 이탈예측> (2023.09.11 ~)
+- 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
+- [사용한 데이터](https://danbi-ncsoft.github.io//OpenData/)
+- 2023/09/25 블로깅 [탐색적 데이터 분석](https://mjrecord.tistory.com/47) 
+
+  
