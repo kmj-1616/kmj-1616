@@ -114,7 +114,8 @@
   - CDS 경진대회 대비 문제풀이 
 
 ## Certificate
-- GAIQ (2022.12.06) 
+- GAIQ (2022.12.06)
+- SQLD (2023.10.06) 
 
 ## Projects :sparkles:
  
