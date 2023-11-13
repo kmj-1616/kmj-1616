@@ -327,9 +327,15 @@
 - 발표 내용: <5부 20장 민감도 향상을 위한 트리거링> 트리거링의 예, 최적 및 보수적 트리거링, 전반적인 실험효과, 신뢰할 수 있는 트리거링, 일반적인 함정  
   - [발표자료](https://mjrecord.tistory.com/48), [발표영상](https://drive.google.com/file/d/1K91Qc4CTAKF5pb9NZegx1laaFxk80WZ-/view?usp=sharing)
  
-### 2019 빅콘테스트 챔피언 리그 <리니지 게임유저 잔존가치를 고려한 고객 이탈예측> (2023.09.11 ~)
+### <리니지 게임유저 잔존가치를 고려한 고객 이탈예측> (2023.09.11 ~)
 - 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
 - [사용한 데이터](https://danbi-ncsoft.github.io//OpenData/)
-- 2023/09/25 블로깅 [탐색적 데이터 분석](https://mjrecord.tistory.com/47) 
+- 2023/09/25 [탐색적 데이터 분석](https://mjrecord.tistory.com/47)
+
+### <블레이드앤소울 유저들의 이탈 시점 예측> (2023.10.06 ~)
+- 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
+- [사용한 데이터](https://danbi-ncsoft.github.io//OpenData/)
+- 2023/10/06 [데이터의 이해](https://mjrecord.tistory.com/50)
+- 2023/10/29 [탐색적 데이터 분석](https://mjrecord.tistory.com/51) 
 
   
