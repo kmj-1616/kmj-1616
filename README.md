@@ -336,6 +336,7 @@
 - 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
 - [사용한 데이터](https://danbi-ncsoft.github.io//OpenData/)
 - 2023/10/06 [데이터의 이해](https://mjrecord.tistory.com/50)
-- 2023/10/29 [탐색적 데이터 분석](https://mjrecord.tistory.com/51) 
+- 2023/10/29 [탐색적 데이터 분석](https://mjrecord.tistory.com/51)
+- 2023/11/20 [문파(길드) 데이터 엔지니어링](https://mjrecord.tistory.com/52) 
 
   
