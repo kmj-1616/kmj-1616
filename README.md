@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
   - [블로그 SQL 카테고리](https://mjrecord.tistory.com/category/SQL?page=1) 
@@ -71,7 +72,9 @@
 - 빅데이터 분석(A+)
 - 빅데이터 시각화(A+)
 - 텍스트 분석(A+)
-- 프로젝트 관리(B) 
+- 프로젝트 관리(B)
+- 엑셀기반의경영데이터분석
+- 유통/판매데이터분석 
 
 **Study** :busts_in_silhouette:
 
