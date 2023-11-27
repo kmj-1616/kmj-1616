@@ -11,7 +11,7 @@
 
 ## Skills :bulb:
 **Tech** :
-한 번 이상 다루어 본 기술들     
+한 번 이상 다루어 본 기술&툴들     
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -23,10 +23,13 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> 
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
   - [블로그 SQL 카테고리](https://mjrecord.tistory.com/category/SQL?page=1) 
-- Python과 SQL을 이용한 RPG 게임 유저들의 활동 데이터의 탐색적 데이터 분석, 데이터 엔지니어링 경험
+- Google Colab, SQL을 이용한 RPG 게임 유저들의 활동 데이터의 탐색적 데이터 분석, 데이터 엔지니어링 경험
   - [블로깅1](https://mjrecord.tistory.com/49), [블로깅2](https://mjrecord.tistory.com/49), [블로깅3](https://mjrecord.tistory.com/49), [블로깅4](https://mjrecord.tistory.com/49) 
 - Bigquery에서 SQL를 사용해 데이터 가공, 분석 경험
   - [빅쿼리 실습 블로깅1](https://mjrecord.tistory.com/10), [빅쿼리 실습 블로깅2](https://mjrecord.tistory.com/11), [빅쿼리 실습 블로깅3](https://mjrecord.tistory.com/12)
@@ -39,7 +42,7 @@
 - R을 이용한 데이터 이용 및 데이터 전처리 경험
 - R을 이용한 T-test 및 분산분석
 - Android Studio에서 Kotlin을 이용한 간단한 앱 개발 경험
-- Python을 이용한 은행 앱 구글스토어 리뷰의 전처리, 텍스트마이닝 경험
+- Python, Google Colab을 이용한 은행 앱 구글스토어 리뷰의 전처리, 텍스트마이닝 경험
   - [블로깅](https://mjrecord.tistory.com/21)
 - R을 이용한 네이버 블로그 영화 리뷰의 전처리, 텍스트마이닝 경험
   - [발표자료](https://docs.google.com/presentation/d/1343WAcP89LHj7qQytxz6GpWAfmFdwB84/edit?usp=sharing&ouid=104296105098412198090&rtpof=true&sd=true) 
