@@ -24,23 +24,34 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
+  - [블로그 SQL 카테고리](https://mjrecord.tistory.com/category/SQL?page=1) 
+- Python과 SQL을 이용한 RPG 게임 유저들의 활동 데이터의 탐색적 데이터 분석, 데이터 엔지니어링 경험
+  - [블로깅1](https://mjrecord.tistory.com/49), [블로깅2](https://mjrecord.tistory.com/49), [블로깅3](https://mjrecord.tistory.com/49), [블로깅4](https://mjrecord.tistory.com/49) 
+- Bigquery에서 SQL를 사용해 데이터 가공, 분석 경험
+  - [빅쿼리 실습 블로깅1](https://mjrecord.tistory.com/10), [빅쿼리 실습 블로깅2](https://mjrecord.tistory.com/11), [빅쿼리 실습 블로깅3](https://mjrecord.tistory.com/12)
+- Kaggle을 이용한 머신러닝.딥러닝 경진대회의 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델, 성능 개선 경험
+  - [ML 블로깅1](https://mjrecord.tistory.com/15), [ML 블로깅2](https://mjrecord.tistory.com/16), [ML 블로깅3](https://mjrecord.tistory.com/17), [ML 블로깅4](https://mjrecord.tistory.com/18), [ML 블로깅5](https://mjrecord.tistory.com/19), [ML 블로깅6](https://mjrecord.tistory.com/20), [DL 블로깅1](https://mjrecord.tistory.com/28), [DL 블로깅2](https://mjrecord.tistory.com/29) 
 - Numpy, Matplotlib을 이용한 데이터 처리 경험
 - Pandas를 이용한 데이터 처리 경험
-- Bigquery에서 SQL를 사용해 데이터 가공, 분석 경험
 - R을 이용한 데이터 이용 및 데이터 전처리 경험
 - R을 이용한 T-test 및 분산분석
 - Android Studio에서 Kotlin을 이용한 간단한 앱 개발 경험
-- Kaggle을 이용한 머신러닝 경진대회의 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델, 성능 개선 경험
-- Python을 이용한 은행 앱 리뷰의 전처리, 텍스트마이닝 경험
+- Python을 이용한 은행 앱 구글스토어 리뷰의 전처리, 텍스트마이닝 경험
+  - [블로깅](https://mjrecord.tistory.com/21)
+- R을 이용한 네이버 블로그 영화 리뷰의 전처리, 텍스트마이닝 경험
+  - [발표자료](https://docs.google.com/presentation/d/1343WAcP89LHj7qQytxz6GpWAfmFdwB84/edit?usp=sharing&ouid=104296105098412198090&rtpof=true&sd=true) 
 - AWS DMS로 데이터를 수집하고 Amazon Kinesis로 스트리밍 데이터를 수집하는 경험
 - AWS Step Function을 통한 간단한 데이터 파이프라인 오케스트레이션 설계 경험
+  - [보고서1](https://drive.google.com/file/d/1D11vyToZhMa5vdvZ-Wy-hkSo96hPZwMK/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1loxWQBPrCT7LIv11XvJVxuZfQ0lJINAX/view?usp=drive_link)
+- Amazon Comprehend로 호텔 리뷰 검토 및 Insight 도출 경험 
+  - [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link)
 - Tableau를 활용한 카페 매출 대시보드 설계 경험
-- Amazon Comprehend로 호텔 리뷰 검토 및 Insight 도출 경험
+  - [태블로 프로필](https://public.tableau.com/app/profile/.85268204/vizzes)
 
 ### 앞으로 공부할 것들 :memo:
+- Python을 이용한 모델 개발 경험 
 - A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
 - 고객 세그먼트 분석 경험
-- Python을 통한 데이터 분석 및 모델 개발 경험
 - 이커머스 프로젝트 수행 경험
 - A/B 테스트, 앱 분석 툴을 기반한 분석 및 Insight 도출 경험
 
