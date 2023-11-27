@@ -77,12 +77,12 @@
 
 - **AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~)**
   - 공부하고 싶은 분야의 스터디를 만들어 **리더**로 활동함.
-    - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ 2023.02.13)
-    - AWS 데이터엔지니어링 스터디(2023.01.06 ~ 2023.03.28)
-    - A/B 테스트 스터디(2023.06.27 ~ 2023.09.26)
+    - [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)(2022.09.05 ~ 2023.02.13)
+    - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)(2023.01.06 ~ 2023.03.28)
+    - [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)(2023.06.27 ~ 2023.09.26)
   - 그외 참여한 스터디
-    - SQL 스터디(2022.04.12 ~ 2022.07.22)
-    - DB&SQL 스터디(2023.06.28 ~ 2023.09.15) 
+    - [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)(2022.04.12 ~ 2022.07.22)
+    - [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)(2023.06.28 ~ 2023.09.15) 
 
 - **동아대 IT 취업 동아리 - SQL 스터디(2022.04.12 ~ 2022.07.22)**
   - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
