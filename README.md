@@ -6,7 +6,7 @@
 ![Metrics](/github-metrics.svg)
 
 ## Summary :grey_exclamation:
-> 2024년 하반기 데이터분석가 취업을 목표로 공부하고 있습니다. (2024년 8월 졸업 예정)
+> 2024년 상반기 데이터분석가 취업을 목표로 공부하고 있습니다. (2024년 8월 졸업 예정)
 > 가장 관심 있는 도메인은 e-커머스, 게임, 미디어콘텐츠, 엔터테인먼트입니다. 
 
 ## Skills :bulb:
@@ -29,6 +29,8 @@
   - [블로깅1](https://mjrecord.tistory.com/49), [블로깅2](https://mjrecord.tistory.com/49), [블로깅3](https://mjrecord.tistory.com/49), [블로깅4](https://mjrecord.tistory.com/49) 
 - Bigquery에서 SQL를 사용해 데이터 가공, 분석 경험
   - [빅쿼리 실습 블로깅1](https://mjrecord.tistory.com/10), [빅쿼리 실습 블로깅2](https://mjrecord.tistory.com/11), [빅쿼리 실습 블로깅3](https://mjrecord.tistory.com/12)
+- MySQL을 이용한 DB 설계 및 데이터베이스 구현, 인사이트 도출 경험
+  - [발표자료](https://drive.google.com/file/d/1rQkUZNWbvfhrTjQ7033MqEW0Tq0jYVlu/view?usp=sharing) 
 - Kaggle을 이용한 머신러닝.딥러닝 경진대회의 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델, 성능 개선 경험
   - [ML 블로깅1](https://mjrecord.tistory.com/15), [ML 블로깅2](https://mjrecord.tistory.com/16), [ML 블로깅3](https://mjrecord.tistory.com/17), [ML 블로깅4](https://mjrecord.tistory.com/18), [ML 블로깅5](https://mjrecord.tistory.com/19), [ML 블로깅6](https://mjrecord.tistory.com/20), [DL 블로깅1](https://mjrecord.tistory.com/28), [DL 블로깅2](https://mjrecord.tistory.com/29) 
 - Numpy, Matplotlib을 이용한 데이터 처리 경험
@@ -72,6 +74,15 @@
 - 프로젝트 관리(B) 
 
 **Study** :busts_in_silhouette:
+
+- **AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~)**
+  - 공부하고 싶은 분야의 스터디를 만들어 **리더**로 활동함.
+    - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ 2023.02.13)
+    - AWS 데이터엔지니어링 스터디(2023.01.06 ~ 2023.03.28)
+    - A/B 테스트 스터디(2023.06.27 ~ 2023.09.26)
+  - 그외 참여한 스터디
+    - SQL 스터디(2022.04.12 ~ 2022.07.22)
+    - DB&SQL 스터디(2023.06.28 ~ 2023.09.15) 
 
 - **동아대 IT 취업 동아리 - SQL 스터디(2022.04.12 ~ 2022.07.22)**
   - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
@@ -337,6 +348,12 @@
 ### A/B 테스트 스터디 10주차 20장 발표(2023.09.19)
 - 발표 내용: <5부 20장 민감도 향상을 위한 트리거링> 트리거링의 예, 최적 및 보수적 트리거링, 전반적인 실험효과, 신뢰할 수 있는 트리거링, 일반적인 함정  
   - [발표자료](https://mjrecord.tistory.com/48), [발표영상](https://drive.google.com/file/d/1K91Qc4CTAKF5pb9NZegx1laaFxk80WZ-/view?usp=sharing)
+ 
+### DB&SQL 스터디 데이터베이스 구축 미니 프로젝트(2023.08.28 ~ 2023.09.15)
+- 주제: 국내 OTT 서비스들의 DB 설계
+- MySQL WorkBench
+- OTT 산업 트렌드 분석, 요구사항 수집 및 분석, DB 개념적 설계, DB 논리적 설계, DB 물리적 설계, 데이터베이스 구현, 인사이트 및 방향성 도출
+  - [최종발표자료](https://drive.google.com/file/d/1rQkUZNWbvfhrTjQ7033MqEW0Tq0jYVlu/view?usp=sharing) 
  
 ### <리니지 게임유저 잔존가치를 고려한 고객 이탈예측> (2023.09.11 ~)
 - 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
