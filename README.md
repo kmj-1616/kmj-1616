@@ -83,10 +83,6 @@
   - 그외 참여한 스터디
     - [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)(2022.04.12 ~ 2022.07.22)
     - [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)(2023.06.28 ~ 2023.09.15) 
-
-- **동아대 IT 취업 동아리 - SQL 스터디(2022.04.12 ~ 2022.07.22)**
-  - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
-  - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
   
 - **동아대 빅데이터 실무자 양성교육(2022.08.04 ~ 2022.08.06)**
   - 내용
@@ -99,19 +95,9 @@
     
 - **안드로이드 스터디 for beginner(2022.08.20 ~ 2022.09.21)**
   - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
-  
-- **동아대 IT 취업 동아리 - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ 2023.02.13)**
-  - 스터디 **리더**
-  - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
-  - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
 - **텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)**
   - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
-
-- **동아대 IT 취업 동아리 - AWS 데이터엔지니어링 스터디(2023.01.06 ~ 2023.03.28)**
-  - 스터디 **리더**
-  - 깃허브 주소: [데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)
-  - 활용 도서: [Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
 
 - **챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30)**
   - 동아대 DECO 비교과 프로그램 참가 
@@ -120,15 +106,6 @@
     - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
     - 5월 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
     - 6월 데이터 사이언스 역량강화 과정 
-   
-- **동아대 IT 취업 동아리 - A/B 테스트 스터디(2023.06.27 ~ 2023.09.26)**
-  - 스터디 **리더**
-  - 깃허브 주소: [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)
-  - 활용 도서 : [A/B 테스트](https://product.kyobobook.co.kr/detail/S000060625360)
- 
-- **동아대 IT 취업 동아리 - DB&SQL 스터디(2023.06.28 ~ 2023.09.15)**
-  - 노션 주소: [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)
-  - 활용 도서: [이것이SQL이다](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9)
  
 - **동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)**
   - 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
