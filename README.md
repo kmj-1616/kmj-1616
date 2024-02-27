@@ -1,5 +1,5 @@
 # 데이터분석가 권미정입니다! :wave:
-- **Email**: pmpmjll@gmail.com
+- **Email**: kmj112503@gmail.com
 - **Blog**: https://mjrecord.tistory.com
 - **Github**: https://github.com/kmj-1616
 
