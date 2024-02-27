@@ -55,6 +55,7 @@
   - [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link)
 - Tableau를 활용한 카페 매출 대시보드 설계 경험
   - [태블로 프로필](https://public.tableau.com/app/profile/.85268204/vizzes)
+- QGIS를 통한 2023 기준 GIS 데이터 shape 파일 단순화 작업 경험  
 
 ### 앞으로 공부할 것들 :memo:
 - Python을 이용한 모델 개발 경험 
@@ -71,9 +72,9 @@
   - 팀에서 개발 중인 데이터 시각화 제품 관련 업무
     - 기능 및 동작 에러 테스트
     - GS인증을 위한 GS사용자취급설명서 검토
-  - 202312 기준 GIS 데이터의 변동 내역 수정 및 내부 DB 테이블에 데이터 적재 작업
-    - QGIS, Oracle SQL Developer 
-    - 건물원장, 법정동 및 기초구역, 행정동, 집계구, 인구, 행정동-기초구역 관계 데이터 
+  - 202312 기준 GIS 데이터 작업
+    - QGIS: 전국 17개 시도 법정동기초구역 shape 데이터 단순화, 전국행정동.gpkg 파일 및 집계구 shp 파일 수정
+    - Oracle SQL Developer: 건물원장, 법정동기초구역, 행정동, 집계구, 인구, 행정동-기초구역 관계 데이터를 내부 기준으로 수정, 매핑 후 테이블에 적재 작업 
 
 
 ## Education :book:
