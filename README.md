@@ -355,6 +355,6 @@
 - 2023/10/29 [탐색적 데이터 분석](https://mjrecord.tistory.com/51)
 - 2023/11/20 [문파(길드) 데이터 엔지니어링](https://mjrecord.tistory.com/52) 
 
-### 회고 보드 <Past Forward> 웹사이트 개발 프로젝트 (2024.03.05 ~)
+### 회고 보드 Past Forward 웹사이트 개발 프로젝트 (2024.03.05 ~)
 - 동아대 IT 취업 동아리에서 진행한 토이프로젝트로, 데이터팀의 팀원으로 참여함.
 - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
