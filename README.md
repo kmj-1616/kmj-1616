@@ -138,6 +138,7 @@
 - 동아대 IT 취업 동아리에서 진행하고 있는 팀/개인 회고 템플릿 웹사이트 개발 프로젝트로, 데이터팀의 팀원으로 참여함.
 - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
 - [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data), [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend), [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
+- PastForward Ver.1 [데이터 분석 보고서](https://docs.google.com/document/d/1LiBRl2Cz5cb0LWFwxMIFZjOgYiVtdLd5cAxfXqhruqQ/edit?usp=sharing) 
   
 ### <블레이드앤소울 유저들의 이탈 시점 예측> (2023.10.06 ~ 2023.11.20)
 - 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
