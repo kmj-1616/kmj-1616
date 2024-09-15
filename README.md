@@ -58,11 +58,12 @@
   - [태블로 프로필](https://public.tableau.com/app/profile/.85268204/vizzes)
 - QGIS를 통한 2023 기준 GIS 데이터 shape 파일 단순화 작업 경험
 - UTM 파라미터와 GA4를 활용해 웹사이트 유입경로 데이터 수집 및 분석 경험
-  - [블로깅](https://mjrecord.tistory.com/55) 
+  - [블로깅](https://mjrecord.tistory.com/55)
+- A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
+  - [보고서](https://docs.google.com/document/d/1vNjZ7-qZNG4lWLMeBRapnKCPuC3rgaj-Dl0zEqLZMh0/edit?usp=drive_link) 
 
 ### 앞으로 공부할 것들 :memo:
 - Python을 이용한 모델 개발 경험 
-- A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
 - 고객 세그먼트 분석 경험
 - 이커머스 프로젝트 수행 경험
 - A/B 테스트, 앱 분석 툴을 기반한 분석 및 Insight 도출 경험
@@ -139,7 +140,9 @@
 - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
 - [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data), [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend), [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
 - PastForward Ver.1 [데이터 분석 보고서](https://docs.google.com/document/d/1LiBRl2Cz5cb0LWFwxMIFZjOgYiVtdLd5cAxfXqhruqQ/edit?usp=sharing)
-- [회원가입 버튼명 A/B테스트 보고서](https://docs.google.com/document/d/1vNjZ7-qZNG4lWLMeBRapnKCPuC3rgaj-Dl0zEqLZMh0/edit?usp=drive_link) 
+- [회원가입 버튼명 A/B테스트 보고서](https://docs.google.com/document/d/1vNjZ7-qZNG4lWLMeBRapnKCPuC3rgaj-Dl0zEqLZMh0/edit?usp=drive_link)
+- [성공지표 대시보드](https://lookerstudio.google.com/u/0/reporting/9e64bca2-9823-49a3-9526-e060142334da/page/LUc9D)
+  - [Looker Studio 작성 과정 블로깅](https://mjrecord.tistory.com/57) 
   
 ### <블레이드앤소울 유저들의 이탈 시점 예측> (2023.10.06 ~ 2023.11.20)
 - 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
