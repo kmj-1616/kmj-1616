@@ -132,13 +132,14 @@
 
 ## Certificate :bulb: 
 - GAIQ (2022.12.06)
-- SQLD(SQL 개발자) (2023.10.06) 
+- SQLD(SQL 개발자) (2023.10.06)
+- 경영정보시각화능력 (필기합격) 
 
 
 ## Projects :sparkles:
 
 ### 회고 웹사이트 프로젝트 Past Forward 1기 (2024.03.05 ~ 2024.08.26)
-- 동아대 IT 취업 동아리에서 진행하고 있는 팀/개인 회고 템플릿 웹사이트 개발 프로젝트로, 데이터팀의 팀원으로 참여함.
+- 동아대 IT 취업 동아리에서 진행하고 있는 **팀/개인 회고 작성 웹사이트 개발 프로젝트**로, 데이터팀의 팀원으로 참여함. 
 - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
 - [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data), [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend), [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
 - PastForward Ver.1 [데이터 분석 보고서](https://docs.google.com/document/d/1LiBRl2Cz5cb0LWFwxMIFZjOgYiVtdLd5cAxfXqhruqQ/edit?usp=sharing)
