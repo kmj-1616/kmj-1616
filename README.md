@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=Looker&logoColor=white"/></a> 
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
   - [블로그 SQL 카테고리](https://mjrecord.tistory.com/category/SQL?page=1) 
@@ -97,7 +98,8 @@
     - [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)(2023.06.27 ~ 2023.09.26)
   - 그외 참여한 스터디
     - [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)(2022.04.12 ~ 2022.07.22)
-    - [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)(2023.06.28 ~ 2023.09.15) 
+    - [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)(2023.06.28 ~ 2023.09.15)
+    - 데이터엔지니어링 스터디(2024.08.30 ~)
 
 - **동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)**
   - 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
@@ -135,7 +137,7 @@
 
 ## Projects :sparkles:
 
-### 회고 웹사이트 프로젝트 Past Forward 1기 (2024.03.05 ~)
+### 회고 웹사이트 프로젝트 Past Forward 1기 (2024.03.05 ~ 2024.08.26)
 - 동아대 IT 취업 동아리에서 진행하고 있는 팀/개인 회고 템플릿 웹사이트 개발 프로젝트로, 데이터팀의 팀원으로 참여함.
 - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
 - [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data), [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend), [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
