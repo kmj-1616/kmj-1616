@@ -7,8 +7,8 @@
 ![Metrics](/github-metrics.svg)
 
 ## Summary :grey_exclamation:
-> 2024년 하반기 데이터분석가/데이터엔지니어 취업을 목표로 공부하고 있습니다. (2025년 2월 졸업 예정, 현재 졸업 유예 상태)
-> 가장 관심 있는 도메인은 e-커머스, 게임, 금융입니다. 
+> 2025년 상반기 데이터분석가/데이터엔지니어 취업을 목표로 하고 있습니다. 
+> 가장 관심 있는 도메인은 e-커머스, 금융입니다. 
 
 ## Skills :muscle:
 **Tech** :
@@ -60,7 +60,7 @@
 - QGIS를 통한 2023 기준 GIS 데이터 shape 파일 단순화 작업 경험
 - UTM 파라미터와 GA4를 활용해 웹사이트 유입경로 데이터 수집 및 분석 경험
   - [블로깅](https://mjrecord.tistory.com/55)
-- A/B 테스트 설계 및 결과 분석을 하고 프로덕트에 기능 적용 경험
+- A/B 테스트 설계 및 결과 분석 경험
   - [보고서](https://docs.google.com/document/d/1vNjZ7-qZNG4lWLMeBRapnKCPuC3rgaj-Dl0zEqLZMh0/edit?usp=drive_link) 
 
 ### 앞으로 공부할 것들 :memo:
@@ -84,7 +84,8 @@
 
 ## Education :book:
 
-**동아대 경영정보학과**(2020.03 ~ 2025.02 졸업예정)  
+**동아대 경영정보학과**(2020.03 ~ 2025.02)  
+- 학점: 4.13/4.5 
 - 전공필수: R기반통계분석(B+) / MIS원론(B+) / 데이터사이언스개론(A) / 데이터베이스시스템(B+) / 시스템 분석 및 설계(A+)
 - **데이터사이언스 모듈**: 프로그래밍 언어(A) / 빅데이터 분석(A+) / 데이터베이스 구축 및 활용(A+) / 유통/판매 데이터분석(A) / 텍스트 분석(A+) / 빅데이터 시각화(A+) / 고객데이터 분석(A+)
 - **디지털비즈니스 모듈**: 서비스 기획 및 UX/UI 디자인(A) / 엑셀기반의 경영데이터분석(A) / 네트워크의 이해(A+) / 디지털비즈니스모델(A+) / ERP(B+) / 프로젝트 관리(B) / 기술경영(A+)
@@ -148,7 +149,7 @@
   - [블로깅](https://mjrecord.tistory.com/60) 
 
 ### 회고 웹사이트 프로젝트 Past Forward 1기 (2024.03.05 ~ 2024.08.26)
-- 동아대 IT 취업 동아리에서 진행하고 있는 **팀/개인 회고 작성 웹사이트 개발 프로젝트**로, 데이터팀의 팀원으로 참여함. 
+- 동아대 IT 취업 동아리에서 진행하고 있는 **팀/개인 회고 작성 웹사이트 개발 프로젝트**로, 데이터 분석가로서 GA를 활용한 사용자 데이터 분석을 진행함.  
 - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
 - [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data), [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend), [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
 - PastForward Ver.1 [데이터 분석 보고서](https://docs.google.com/document/d/1LiBRl2Cz5cb0LWFwxMIFZjOgYiVtdLd5cAxfXqhruqQ/edit?usp=sharing)
