@@ -8,7 +8,6 @@
 
 ## Summary :grey_exclamation:
 > 2025년 상반기 데이터분석가/데이터엔지니어 취업을 목표로 하고 있습니다. 
-> 가장 관심 있는 도메인은 e-커머스, 금융입니다. 
 
 ## Skills :muscle:
 **Tech** :
