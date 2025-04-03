@@ -60,7 +60,7 @@
 - UTM 파라미터와 GA4를 활용해 웹사이트 유입경로 데이터 수집 및 분석 경험
   - [블로깅](https://mjrecord.tistory.com/55)
 - A/B 테스트 설계 및 결과 분석 경험
-  - [보고서](https://docs.google.com/document/d/1vNjZ7-qZNG4lWLMeBRapnKCPuC3rgaj-Dl0zEqLZMh0/edit?usp=drive_link) 
+
 
 ### 앞으로 공부할 것들 :memo:
 - Python을 이용한 모델 개발 경험 
@@ -151,8 +151,7 @@
 - 동아대 IT 취업 동아리에서 진행하고 있는 **팀/개인 회고 작성 웹사이트 개발 프로젝트**로, 데이터 분석가로서 GA를 활용한 사용자 데이터 분석을 진행함.  
 - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
 - [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data), [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend), [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
-- PastForward Ver.1 [데이터 분석 보고서](https://docs.google.com/document/d/1LiBRl2Cz5cb0LWFwxMIFZjOgYiVtdLd5cAxfXqhruqQ/edit?usp=sharing)
-- 회원가입 이벤트 수 5% 증가를 목표로 버튼명 A/B테스트를 설계함. 
+- 회원가입률 5% 증가를 목표로 버튼명 A/B테스트를 설계함. 
 - [성공지표 대시보드](https://lookerstudio.google.com/u/0/reporting/9e64bca2-9823-49a3-9526-e060142334da/page/LUc9D)
   - [Looker Studio 작성 과정 블로깅](https://mjrecord.tistory.com/57) 
   
