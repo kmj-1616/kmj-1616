@@ -14,8 +14,7 @@
 ---
 
 ## Skills :muscle:
-**Tech** :
-한 번 이상 다루어 본 기술&툴들     
+### Tech : 한 번 이상 다루어 본 기술&툴들     
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -68,7 +67,7 @@
 ---
 
 ## Study Plan :memo:
-### 1. 공공자전거 이탈 분석 프로젝트 🚲  
+**1. 공공자전거 이탈 분석 프로젝트** 🚲  
 **목표**: 서울시 따릉이 데이터를 활용하여 사용자 이탈 원인을 분석하고 유지 전략 제시  
 - 서울열린데이터광장 API를 활용하여 월간 이용 데이터를 수집 및 전처리  
 - SQL(BigQuery)로 연령대/이용 시간대별 분석 수행  
@@ -77,7 +76,7 @@
 
 → **사용 기술**: SQL, Python, GCP, A/B Testing, 시각화  
 
-### 2. 소상공인 상권 트렌드 분석 프로젝트 🏪  
+**2. 소상공인 상권 트렌드 분석 프로젝트** 🏪  
 **목표**: 업종별 카드매출 데이터를 통해 상권 변화 및 유망 업종 탐색  
 - 공공데이터포털의 상권정보 데이터를 활용해 3개 지역 분석  
 - 시계열 분석 및 계절성 검출을 통해 트렌드 해석  
@@ -86,7 +85,7 @@
 
 → **사용 기술**: SQL, Tableau, 시계열 분석, AWS S3+Athena  
 
-### 3. 앱 리뷰 텍스트 마이닝 프로젝트 📱  
+**3. 앱 리뷰 텍스트 마이닝 프로젝트** 📱  
 **목표**: 금융 앱 리뷰 텍스트를 분석하여 사용자 불만 및 개선점 도출  
 - Google Play Store의 리뷰를 크롤링 후 형태소 분석(KoNLPy)  
 - LDA 토픽 모델링을 통해 불만 유형 5가지 도출  
@@ -98,8 +97,9 @@
 ---
 
 ## Career :star: 
-- **오브젠 주식회사**(2024.01.01 ~ 2024.02.29)
-  - 현장실습생 2개월 근무
+### 오브젠 주식회사(2024.01.01 ~ 2024.02.29)
+**근무 형태**: 현장실습생 
+**담당 업무**
   - 팀에서 개발 중인 BI 제품 관련 업무
     - 기능 테스트 후 동작 에러 정리 및 보고 
     - GS인증을 위한 GS사용자취급설명서 내 오타/오류 검토
@@ -111,51 +111,51 @@
 
 ## Education :book:
 
-**동아대 경영정보학과**(2020.03 ~ 2025.02)  
-- 학점: 4.13/4.5 
+### 동아대 경영정보학과(2020.03 ~ 2025.02)  
+- **학점**: 4.13/4.5 
 - 전공필수: R기반통계분석(B+) / MIS원론(B+) / 데이터사이언스개론(A) / 데이터베이스시스템(B+) / 시스템 분석 및 설계(A+)
 - **데이터사이언스 모듈**: 프로그래밍 언어(A) / 빅데이터 분석(A+) / 데이터베이스 구축 및 활용(A+) / 유통/판매 데이터분석(A) / 텍스트 분석(A+) / 빅데이터 시각화(A+) / 고객데이터 분석(A+)
 - **디지털비즈니스 모듈**: 서비스 기획 및 UX/UI 디자인(A) / 엑셀기반의 경영데이터분석(A) / 네트워크의 이해(A+) / 디지털비즈니스모델(A+) / ERP(B+) / 프로젝트 관리(B) / 기술경영(A+)
 
-**Study** :busts_in_silhouette:
+## Study :busts_in_silhouette:
 
-- **AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~)**
-  - 공부하고 싶은 분야의 스터디를 만들어 **리더**로 활동함.
-    - [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)(2022.09.05 ~ 2023.02.13)
-    - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)(2023.01.06 ~ 2023.03.28)
-    - [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)(2023.06.27 ~ 2023.09.26)
-  - 그외 참여한 스터디
-    - [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)(2022.04.12 ~ 2022.07.22)
-    - [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)(2023.06.28 ~ 2023.09.15)
-    - 데이터엔지니어링 스터디(2024.08.30 ~ 2024.11.25) 
+### AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~) 
+- 공부하고 싶은 분야의 스터디를 만들어 **리더**로 활동함.
+  - [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)(2022.09.05 ~ 2023.02.13)
+  - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)(2023.01.06 ~ 2023.03.28)
+  - [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)(2023.06.27 ~ 2023.09.26)
+- 그외 참여한 스터디
+  - [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)(2022.04.12 ~ 2022.07.22)
+  - [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)(2023.06.28 ~ 2023.09.15)
+  - 데이터엔지니어링 스터디(2024.08.30 ~ 2024.11.25) 
 
-- **동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)**
-  - 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
-  - 승학캠퍼스 대면 Brightics 강의
-  - CDS 경진대회 대비 문제풀이
+### 동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)
+- 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
+- 승학캠퍼스 대면 Brightics 강의
+- CDS 경진대회 대비 문제풀이
     
-- **챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30)**
-  - 동아대 DECO 비교과 프로그램 참가 
-  - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
-  - 수료
-    - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
-    - 5월 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
-    - 6월 데이터 사이언스 역량강화 과정
+### 챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30)
+- 동아대 DECO 비교과 프로그램 참가 
+- 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
+- 수료
+  - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
+  - 5월 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
+  - 6월 데이터 사이언스 역량강화 과정
       
-- **텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)**
-  - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
+### 텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)
+- 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
     
-- **안드로이드 스터디 for beginner(2022.08.20 ~ 2022.09.21)**
-  - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+### 안드로이드 스터디 for beginner(2022.08.20 ~ 2022.09.21)
+- 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
  
-- **동아대 빅데이터 실무자 양성교육(2022.08.04 ~ 2022.08.06)**
-  - 내용
-    - 빅데이터 통계적 분석 이론
-    - R을 이용한 데이터 이용 및 데이터 전처리
-    - 신뢰도 분석 및 교차 분석
-    - 집단간 대응변수 차이 분석
-    - T-test 및 분산분석
-    - R 패키지를 활용한 회귀분석
+### 동아대 빅데이터 실무자 양성교육(2022.08.04 ~ 2022.08.06)
+- 내용
+  - 빅데이터 통계적 분석 이론
+  - R을 이용한 데이터 이용 및 데이터 전처리
+  - 신뢰도 분석 및 교차 분석
+  - 집단간 대응변수 차이 분석
+  - T-test 및 분산분석
+  - R 패키지를 활용한 회귀분석
 
 ---
 
