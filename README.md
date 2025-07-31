@@ -1,6 +1,6 @@
-# 성장을 주도하는 데이터 분석가 권미정입니다! :wave:
+# 매일매일 성장하는 개발자 권미정입니다! :wave:
 - **Email**: kmj112503@gmail.com
-- **Blog**: https://mjrecord.tistory.com
+- **Tistory**: https://mjrecord.tistory.com
 - **Velog**: https://velog.io/@kmj-1616/posts
 - **Github**: https://github.com/kmj-1616
 - **LinkedIn**: www.linkedin.com/in/미정-권-08bb5b251
@@ -10,29 +10,56 @@
 ---
 
 ## Summary :grey_exclamation:
-> 2026년 상반기 데이터 분석가/데이터 엔지니어 취업을 목표로 하고 있습니다. 경영정보학과 재학 중 R, Python, SQL을 기반으로 데이터 엔지니어링 및 A/B 테스트 스터디를 리딩하며 분석 역량을 키웠습니다. B2B 기업 Intelligence팀 현장실습에서 QA 테스트와 GIS 데이터 관리 업무를 수행했고, 5개월간의 회고 웹사이트 개발 프로젝트에서는 GA 기반 사용자 행동 분석과 A/B 테스트 설계를 주도했습니다. 
+> 2026년 상반기 취업을 목표로 하고 있습니다. R, Python, SQL을 기반으로 데이터 엔지니어링 및 A/B 테스트 스터디를 리딩하며 데이터 분석 역량을 키웠습니다. B2B 기업 Intelligence팀 현장실습에서 QA 테스트와 GIS 데이터 관리 업무를 수행했고, 5개월간의 회고 웹사이트 개발 프로젝트에서는 GA 기반 사용자 행동 분석과 A/B 테스트 설계를 통해 회원가입률 유지의 성과를 얻었습니다. 현재는 Python 기반의 알고리즘 역량 강화를 위해 1일 1커밋을 실천하고자 합니다.
 
 ---
 
 ## Skills :muscle:
-### Tech : 한 번 이상 다루어 본 기술&툴들     
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=Looker&logoColor=white"/></a> 
+### Tech : 한 번 이상 다루어 본 기술&툴들 
+<div align=center>     
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Tableau-4285F4?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4584b6?style=for-the-badge&logo=google-big-query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>
+<img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F"/></a>
+<img src="https://img.shields.io/badge/Grok-5A4FCF?style=for-the-badge&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</div>
 
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
   - [블로그 SQL 카테고리](https://mjrecord.tistory.com/category/SQL?page=1) 
@@ -65,7 +92,7 @@
   - [블로깅](https://mjrecord.tistory.com/55)
 - A/B 테스트 설계 및 결과 분석 경험
 
----
+<!-- ---
 
 ## Study Plan :memo:
 **1. 공공자전거 이탈 분석 프로젝트** 🚲  
@@ -95,22 +122,25 @@
 
 → **사용 기술**: Python, 텍스트 마이닝, Selenium, LDA, 감성 분석 
 
----
+--- -->
 
 ## Career :star: 
 ### 오브젠 주식회사(2024.01.01 ~ 2024.02.29)
 **근무 형태**: 현장실습생 
 **담당 업무**
-  - 팀에서 개발 중인 BI 제품 관련 업무
-    - 기능 테스트 후 동작 에러 정리 및 보고 
-    - GS인증을 위한 GS사용자취급설명서 내 오타/오류 검토
-  - 202312 기준 GIS 데이터 작업
+  - 자사 BI 솔루션 QA
+    - 기능 테스트 후 버그 리포팅 
+    - GS인증 품질 문서 검수
+  - 202312 기준 GIS 데이터 업데이트 
     - QGIS: 전국 17개 시도 법정동기초구역 shape 데이터 단순화, 전국행정동.gpkg 파일 및 집계구 shp 파일 수정
     - Oracle SQL Developer: 건물원장, 법정동기초구역, 행정동, 집계구, 인구, 행정동-기초구역 관계 데이터를 내부 기준으로 수정, 매핑 후 테이블에 적재 
 
 ---
 
 ## Education :book:
+### SSAFY 14기 Python Track(2025.07.08~)
+- Python Track(서울캠퍼스) 입과
+- 자치회: 1학기 CA 
 
 ### 동아대 경영정보학과(2020.03 ~ 2025.02)  
 - **학점**: 4.13/4.5 
@@ -119,6 +149,9 @@
 - **디지털비즈니스 모듈**: 서비스 기획 및 UX/UI 디자인(A) / 엑셀기반의 경영데이터분석(A) / 네트워크의 이해(A+) / 디지털비즈니스모델(A+) / ERP(B+) / 프로젝트 관리(B) / 기술경영(A+)
 
 ## Study :busts_in_silhouette:
+
+### 알고리즘 스터디(2025.08.01~)
+- 목표: 백준 Class 2 완료 및 기초 알고리즘 개념 확립
 
 ### AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~) 
 - 공부하고 싶은 분야의 스터디를 만들어 **리더**로 활동함.
@@ -163,9 +196,9 @@
 ## Certificate :bulb: 
 - GAIQ (2022.12.06)
 - SQLD(SQL 개발자) (2023.10.06)
-- 경영정보시각화능력 (필기합격)
+- 경영정보시각화능력 (필기 합격)
 - 한국사능력검정시험 1급 (2024.10.31)
-- 정보처리기사 (필기합격) 
+- 정보처리기사 (필기 합격) 
 
 ---
 
