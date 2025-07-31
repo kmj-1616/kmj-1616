@@ -1,6 +1,7 @@
 # 성장을 주도하는 데이터 분석가 권미정입니다! :wave:
 - **Email**: kmj112503@gmail.com
 - **Blog**: https://mjrecord.tistory.com
+- **Velog**: https://velog.io/@kmj-1616/posts
 - **Github**: https://github.com/kmj-1616
 - **LinkedIn**: www.linkedin.com/in/미정-권-08bb5b251
 
