@@ -5,7 +5,7 @@
 - **Github**: https://github.com/kmj-1616
 - **LinkedIn**: www.linkedin.com/in/미정-권-08bb5b251
 
-![Metrics](/github-metrics.svg)
+![Metrics](/github-metrics.svg)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj112503)](https://solved.ac/kmj112503/)
 
 ---
