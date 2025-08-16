@@ -1,9 +1,28 @@
-# 매일매일 성장하는 개발자 권미정입니다! :wave:
-- **Email**: kmj112503@gmail.com
-- **Tistory**: https://mjrecord.tistory.com
-- **Velog**: https://velog.io/@kmj-1616/posts
-- **Github**: https://github.com/kmj-1616
-- **LinkedIn**: www.linkedin.com/in/미정-권-08bb5b251
+<h1 align="center">🚀 Kwon Mijeong 🚀</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst+%7C+Engineer;From+Data+to+Decisions;Turning+Data+into+Insights" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:kmj112503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kmj112503%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/미정-권-08bb5b251">
+    <img src="https://img.shields.io/badge/LinkedIn-Kwon%20Mijeong-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kmj-1616">
+    <img src="https://img.shields.io/badge/GitHub-kmj--1616-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@kmj-1616/posts">
+    <img src="https://img.shields.io/badge/Velog-kmj--1616-20C997?style=flat-square&logo=velog&logoColor=white" />
+  </a>
+  <a href="https://mjrecord.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-mjrecord-orange?style=flat-square&logo=tistory&logoColor=white" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <a href="https://solved.ac/kmj112503/">
@@ -17,7 +36,11 @@
 ---
 
 ## Summary :grey_exclamation:
-> 2026년 상반기 취업을 목표로 하고 있습니다. R, Python, SQL을 기반으로 데이터 엔지니어링 및 A/B 테스트 스터디를 리딩하며 데이터 분석 역량을 키웠습니다. B2B 기업 Intelligence팀 현장실습에서 QA 테스트와 GIS 데이터 관리 업무를 수행했고, 5개월간의 회고 웹사이트 개발 프로젝트에서는 GA 기반 사용자 행동 분석과 A/B 테스트 설계를 통해 회원가입률 유지의 성과를 얻었습니다. 현재는 Python 기반의 알고리즘 역량 강화를 위해 1일 1커밋을 실천하고자 합니다.
+> **2026년 상반기 취업 목표**  
+> - R, Python, SQL 기반 데이터 엔지니어링 및 A/B 테스트 스터디를 리딩
+> - B2B Intelligence팀 현장실습: QA 테스트 및 GIS 데이터 관리 경험
+> - Past Forward 프로젝트: GA 분석 및 A/B 테스트로 가입률 감소 방지 
+> - 현재: Python 알고리즘 강화 위해 **1일 1커밋 진행 중**
 
 ---
 
@@ -133,8 +156,8 @@
 
 ## Career :star: 
 ### 오브젠 주식회사(2024.01.01 ~ 2024.02.29)
-**근무 형태**: 현장실습생 
-**담당 업무**
+**근무 형태**: 현장실습생   
+**담당 업무**:
   - 자사 BI 솔루션 QA
     - 기능 테스트 후 버그 리포팅 
     - GS인증 품질 문서 검수
@@ -144,23 +167,27 @@
 
 ---
 
-## Education :book:
-### SSAFY 14기 Python Track(2025.07.08~)
-- Python Track(서울캠퍼스) 입과
-- 자치회: 1학기 CA 
+## Education & Certifications :bulb:
+### SSAFY 14기(2025.07.08 ~ 현재)
+- 서울캠퍼스 Python Track 입과
+  - 자치회: 1학기 CA로서 교육 환경 관리 및 행사 기획 주도 
+  - 커리큘럼: 7월 Python / 8월 알고리즘 기본  
 
 ### 동아대 경영정보학과(2020.03 ~ 2025.02)  
-- **학점**: 4.13/4.5 
-- 전공필수: R기반통계분석(B+) / MIS원론(B+) / 데이터사이언스개론(A) / 데이터베이스시스템(B+) / 시스템 분석 및 설계(A+)
-- **데이터사이언스 모듈**: 프로그래밍 언어(A) / 빅데이터 분석(A+) / 데이터베이스 구축 및 활용(A+) / 유통/판매 데이터분석(A) / 텍스트 분석(A+) / 빅데이터 시각화(A+) / 고객데이터 분석(A+)
-- **디지털비즈니스 모듈**: 서비스 기획 및 UX/UI 디자인(A) / 엑셀기반의 경영데이터분석(A) / 네트워크의 이해(A+) / 디지털비즈니스모델(A+) / ERP(B+) / 프로젝트 관리(B) / 기술경영(A+)
+- **학점**: 4.13/4.5  
+  - **데이터사이언스 모듈**, **디지털비즈니스 모듈** 이수
+
+### Certs 
+- ✅ GAIQ (2022), SQLD(2023), 한국사능력검정시험 1급 (2024) 
+- ⏳ 정보처리기사 (실기), 경영정보시각화능력 (실기), OPIC, 빅데이터 분석기사 
 
 ## Study :busts_in_silhouette:
 
-### 알고리즘 스터디(2025.08.01~)
-- 목표: 백준 Class 2 완료 및 기초 알고리즘 개념 확립
+### 알고리즘 스터디(2025.08.01 ~ 현재)
+- 1년 로드맵
+  - 8월: 백준 Class 1, 2 (기초 알고리즘 개념, 스택, 큐, 정렬 등 자료구조 연습) 
 
-### AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~) 
+### AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~ 현재) 
 - 공부하고 싶은 분야의 스터디를 만들어 **리더**로 활동함.
   - [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)(2022.09.05 ~ 2023.02.13)
   - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)(2023.01.06 ~ 2023.03.28)
@@ -171,17 +198,14 @@
   - 데이터엔지니어링 스터디(2024.08.30 ~ 2024.11.25) 
 
 ### 동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)
-- 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강
-- 승학캠퍼스 대면 Brightics 강의
-- CDS 경진대회 대비 문제풀이
+- 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강 및 CDS 경진대회 대비 
     
-### 챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30)
-- 동아대 DECO 비교과 프로그램 참가 
+### 챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30) 
 - 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
 - 수료
-  - 4월 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
-  - 5월 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
-  - 6월 데이터 사이언스 역량강화 과정
+  - 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
+  - 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
+  - 데이터 사이언스 역량강화 과정
       
 ### 텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)
 - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
@@ -190,22 +214,7 @@
 - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
  
 ### 동아대 빅데이터 실무자 양성교육(2022.08.04 ~ 2022.08.06)
-- 내용
-  - 빅데이터 통계적 분석 이론
-  - R을 이용한 데이터 이용 및 데이터 전처리
-  - 신뢰도 분석 및 교차 분석
-  - 집단간 대응변수 차이 분석
-  - T-test 및 분산분석
-  - R 패키지를 활용한 회귀분석
-
----
-
-## Certificate :bulb: 
-- GAIQ (2022.12.06)
-- SQLD(SQL 개발자) (2023.10.06)
-- 경영정보시각화능력 (필기 합격)
-- 한국사능력검정시험 1급 (2024.10.31)
-- 정보처리기사 (필기 합격) 
+- 빅데이터 통계적 분석 이론, R을 이용한 데이터 이용 및 데이터 전처리, 신뢰도 분석 및 교차 분석, 집단간 대응변수 차이 분석, T-test 및 분산분석, R 패키지를 활용한 회귀분석
 
 ---
 
