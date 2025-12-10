@@ -37,433 +37,273 @@
   <img src="/github-metrics.svg" alt="Metrics" />
 </p>
 
-
-
-
-
 ---
 
 ## Summary :grey_exclamation:
 > **2026년 상반기 취업 목표**  
 > - R, Python, SQL 기반 데이터 엔지니어링 및 A/B 테스트 스터디를 리딩
-> - B2B Intelligence팀 현장실습: QA 테스트 및 GIS 데이터 관리 경험
-> - Past Forward 프로젝트: GA 분석 및 A/B 테스트로 가입률 감소 방지 
+> - B2B Intelligence팀 현장실습: BI 제품 품질 검수(QA) 및 GIS 데이터 관리 경험 
+> - Past Forward 프로젝트: GA 분석 및 A/B 테스트로 가입률 감소 방지
+> - 멀티모달 AI(VQA) 모델 개발 및 최적화 경험 (LoRA, TTA 전략 활용)
 > - 현재: Python 알고리즘 강화 위해 **1일 1커밋 진행 중**
 
 ---
 
-## Skills :muscle:
-### Tech : 한 번 이상 다루어 본 기술&툴들 
-<div align=center>     
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Tableau-4285F4?style=for-the-badge&logo=tableau&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-4584b6?style=for-the-badge&logo=google-big-query&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>
-<img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F"/></a>
-<img src="https://img.shields.io/badge/Grok-5A4FCF?style=for-the-badge&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
-</div>
+## Skills 🛠️ 
+### Tech : 다루어 본 기술 & 툴 목록  
 
-- SQL을 통한 데이터 정제 및 가공, 분석 경험
-  - [블로그 SQL 카테고리](https://mjrecord.tistory.com/category/SQL?page=1) 
-- Google Colab, SQL을 이용한 RPG 게임 유저들의 활동 데이터의 탐색적 데이터 분석, 데이터 엔지니어링 경험
-  - [블로깅1](https://mjrecord.tistory.com/49), [블로깅2](https://mjrecord.tistory.com/49), [블로깅3](https://mjrecord.tistory.com/49), [블로깅4](https://mjrecord.tistory.com/49) 
-- Bigquery에서 SQL를 사용해 데이터 가공, 분석 경험
-  - [빅쿼리 실습 블로깅1](https://mjrecord.tistory.com/10), [빅쿼리 실습 블로깅2](https://mjrecord.tistory.com/11), [빅쿼리 실습 블로깅3](https://mjrecord.tistory.com/12)
-- MySQL을 이용한 DB 설계 및 데이터베이스 구현, 인사이트 도출 경험
-  - [발표자료](https://drive.google.com/file/d/1rQkUZNWbvfhrTjQ7033MqEW0Tq0jYVlu/view?usp=sharing) 
-- Kaggle을 이용한 머신러닝.딥러닝 경진대회의 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델, 성능 개선 경험
-  - [ML 블로깅1](https://mjrecord.tistory.com/15), [ML 블로깅2](https://mjrecord.tistory.com/16), [ML 블로깅3](https://mjrecord.tistory.com/17), [ML 블로깅4](https://mjrecord.tistory.com/18), [ML 블로깅5](https://mjrecord.tistory.com/19), [ML 블로깅6](https://mjrecord.tistory.com/20), [DL 블로깅1](https://mjrecord.tistory.com/28), [DL 블로깅2](https://mjrecord.tistory.com/29) 
-- Numpy, Matplotlib을 이용한 데이터 처리 경험
-- Pandas를 이용한 데이터 처리 경험
-- R을 이용한 데이터 이용 및 데이터 전처리 경험
-- R을 이용한 T-test 및 분산분석
-- Android Studio에서 Kotlin을 이용한 간단한 앱 개발 경험
-- Python, Google Colab을 이용한 은행 앱 구글스토어 리뷰의 전처리, 텍스트마이닝 경험
-  - [블로깅](https://mjrecord.tistory.com/21)
-- R을 이용한 네이버 블로그 영화 리뷰의 전처리, 텍스트마이닝 경험
-  - [발표자료](https://docs.google.com/presentation/d/1343WAcP89LHj7qQytxz6GpWAfmFdwB84/edit?usp=sharing&ouid=104296105098412198090&rtpof=true&sd=true) 
-- AWS DMS로 데이터를 수집하고 Amazon Kinesis로 스트리밍 데이터를 수집하는 경험
-- AWS Step Function을 통한 간단한 데이터 파이프라인 오케스트레이션 설계 경험
-  - [보고서1](https://drive.google.com/file/d/1D11vyToZhMa5vdvZ-Wy-hkSo96hPZwMK/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1loxWQBPrCT7LIv11XvJVxuZfQ0lJINAX/view?usp=drive_link)
-- Amazon Comprehend로 호텔 리뷰 검토 및 Insight 도출 경험 
-  - [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link)
-- Tableau를 활용한 카페 매출 대시보드 설계 경험
-  - [태블로 프로필](https://public.tableau.com/app/profile/.85268204/vizzes)
-- QGIS를 통한 2023 기준 GIS 데이터 shape 파일 단순화 작업 경험
-- UTM 파라미터와 GA4를 활용해 웹사이트 유입경로 데이터 수집 및 분석 경험
-  - [블로깅](https://mjrecord.tistory.com/55)
-- A/B 테스트 설계 및 결과 분석 경험
+<p><strong>Programming Languages</strong><p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-<!-- ---
+<p><strong>Web & Frameworks</strong><p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 
-## Study Plan :memo:
-**1. 공공자전거 이탈 분석 프로젝트** 🚲  
-**목표**: 서울시 따릉이 데이터를 활용하여 사용자 이탈 원인을 분석하고 유지 전략 제시  
-- 서울열린데이터광장 API를 활용하여 월간 이용 데이터를 수집 및 전처리  
-- SQL(BigQuery)로 연령대/이용 시간대별 분석 수행  
-- Python으로 사용자 군집화(K-Means), 휴면 사용자 패턴 분석  
-- 가상의 A/B 테스트를 설계하여 리텐션 향상 전략 제안  
+<p><strong>Database & Cloud Platform</strong><p>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4584b6?style=for-the-badge&logo=google-big-query&logoColor=white"/>
 
-→ **사용 기술**: SQL, Python, GCP, A/B Testing, 시각화  
+<p><strong>Data Science & ML Libraries</strong><p>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 
-**2. 소상공인 상권 트렌드 분석 프로젝트** 🏪  
-**목표**: 업종별 카드매출 데이터를 통해 상권 변화 및 유망 업종 탐색  
-- 공공데이터포털의 상권정보 데이터를 활용해 3개 지역 분석  
-- 시계열 분석 및 계절성 검출을 통해 트렌드 해석  
-- Looker Studio 대시보드를 통해 지역별 매출 추세 시각화  
-- 특정 지역에 적합한 업종 추천 리포트 작성  
+<p><strong>Business Analytics & BI Tools</strong><p>
+  <img src="https://img.shields.io/badge/Tableau-4285F4?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
 
-→ **사용 기술**: SQL, Tableau, 시계열 분석, AWS S3+Athena  
+<p><strong>Version Control & Collaboration</strong><p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
-**3. 앱 리뷰 텍스트 마이닝 프로젝트** 📱  
-**목표**: 금융 앱 리뷰 텍스트를 분석하여 사용자 불만 및 개선점 도출  
-- Google Play Store의 리뷰를 크롤링 후 형태소 분석(KoNLPy)  
-- LDA 토픽 모델링을 통해 불만 유형 5가지 도출  
-- 감성 분석 모델로 별점 예측 시도 (Baseline 모델 구축)  
-- WordCloud 및 키워드 맵 시각화  
+<p><strong>IDEs & Environments</strong><p>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"/>
 
-→ **사용 기술**: Python, 텍스트 마이닝, Selenium, LDA, 감성 분석 
+<p><strong>Geo-spatial & Productivity</strong><p>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
---- -->
+<p><strong>Design Tools</strong><p>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
 
-## Career :star: 
+## Career :briefcase:  
 ### 오브젠 주식회사(2024.01.01 ~ 2024.02.29)
 **근무 형태**: 현장실습생   
 **담당 업무**:
-  - 자사 BI 솔루션 QA
-    - 기능 테스트 후 버그 리포팅 
-    - GS인증 품질 문서 검수
-  - 202312 기준 GIS 데이터 업데이트 
-    - QGIS: 전국 17개 시도 법정동기초구역 shape 데이터 단순화, 전국행정동.gpkg 파일 및 집계구 shp 파일 수정
-    - Oracle SQL Developer: 건물원장, 법정동기초구역, 행정동, 집계구, 인구, 행정동-기초구역 관계 데이터를 내부 기준으로 수정, 매핑 후 테이블에 적재 
+  - **BI 솔루션 품질 검수 및 문서 개선**: 출시 예정 BI 제품의 기능 테스트를 통해 동작 오류, UI/메시지 불일치 등 약 50건의 이슈를 보고했으며, GS 인증 사용자 취급설명서 검수를 통해 약 70건의 문서 개선 포인트를 보고하여 제품 완성도 향상에 기여
+  - **GIS 기반 데이터 업데이트**: 
+    - QGIS를 활용하여 전국 17개 시도의 법정동기초구역 shape 데이터를 단순화하고, 행정동 및 집계구 파일을 수정
+    - Oracle SQL Developer와 Excel을 사용해 건물원장, 인구 데이터 및 관계 테이블을 내부 기준에 맞게 정제 및 매핑한 후 내부 테이블에 적재하는 ETL 작업 수행
+    - **핵심 역량 향상**: 데이터 전처리/정제 능력과 GIS 데이터 처리, BI 품질 검수, 문서 검수 역량을 실무 수준으로 향상
 
 ---
 
-## Education & Certifications :bulb:
-### SSAFY 14기(2025.07.08 ~ 현재)
+## Education & Certifications :mortar_board: 
+### 🎓 삼성청년SW·AI아카데미(SSAFY) 14기(2025.07.08 ~ 현재)
 - 서울캠퍼스 Python Track 입과
-  - 자치회: 1학기 CA로서 교육 환경 관리 및 행사 기획 주도 
-  - 커리큘럼: 7월 Python / 8월 알고리즘 기본  
+  - 자치회: 1학기 CA로 교육 환경 관리 및 행사 기획 주도 
+  - **커리큘럼**: 7월 Python / 8월 알고리즘 기본 / 9월 알고리즘 응용 / 10월 AI / 11월 DB&Django&JavaScript / 12월 Vue.js
+  - **프로젝트**: 도서 API 기반 PJT 진행 중  
 
-### 동아대 경영정보학과(2020.03 ~ 2025.02)  
-- **학점**: 4.13/4.5  
+### 🏛️ 동아대 경영정보학과(2020.03 ~ 2025.02)  
+- **학점**: **4.13**/4.5  
   - **데이터사이언스 모듈**, **디지털비즈니스 모듈** 이수
 
-### Certs 
+### 🥇 Certifications 
 - ✅ GAIQ (2022), SQLD(2023), 한국사능력검정시험 1급 (2024) 
 - ⏳ 정보처리기사 (실기), 경영정보시각화능력 (실기), OPIC, 빅데이터 분석기사 
 
-## Study :busts_in_silhouette:
+## Study :books: 
 
-### 알고리즘 스터디(2025.08.01 ~ 현재)
-- 1년 로드맵
-  - 8월: 백준 Class 1, 2 (기초 알고리즘 개념, 스택, 큐, 정렬 등 자료구조 연습) 
+### 💻 Java 스터디(2025.10.10 ~ 현재)
+- [꽉 JAVA 스터디 노션](https://www.notion.so/289741b73151811da756f26e6ec187e9)
+- 기술 스택: Java, MySQL, Spring
+- **프로젝트**: Spring 기반 영화 DB 프로젝트 진행 중 
 
-### AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~ 현재) 
+### 📈 알고리즘 스터디(2025.08.01 ~ 2025.11.27)
+- 목표: solved.ac 스트릭 끊기지 않기 & 백준 Class 3 및 골드 달성  
+
+### 🧑‍💻 AWS Korea 동아대 IT 취업 동아리(2022.03.21 ~ 현재) 
 - 공부하고 싶은 분야의 스터디를 만들어 **리더**로 활동함.
   - [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)(2022.09.05 ~ 2023.02.13)
   - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study)(2023.01.06 ~ 2023.03.28)
   - [A/B 테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY)(2023.06.27 ~ 2023.09.26)
-- 그외 참여한 스터디
+- 그 외 참여 스터디
   - [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)(2022.04.12 ~ 2022.07.22)
   - [DB&SQL 스터디](https://seed-dolphin-d21.notion.site/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956)(2023.06.28 ~ 2023.09.15)
   - 데이터엔지니어링 스터디(2024.08.30 ~ 2024.11.25) 
 
-### 동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)
+### 💡 동아대 CDS 빅데이터 전문가 교육 과정(2023.07.24 ~ 2023.08.14)
 - 멀티캠퍼스 [proDS] Brightics를 활용한 데이터 분석 실습 초급 이러닝 강의 수강 및 CDS 경진대회 대비 
     
-### 챗봇(ChatBot)과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30) 
-- 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용한 실무기반 집중 교육
-- 수료
-  - 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing)
-  - 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing)
-  - 데이터 사이언스 역량강화 과정
+### 💬 챗봇과 핀테크 기반기술 배우기 교육(2023.04.12 ~ 2023.09.30) 
+- 한국핀테크지원센터의 교육 플랫폼 ‘핀에듀’와 한국금융연수원의 챗봇 사이버연수 프로그램을 활용
+- NLP 기본 개념, 챗봇 구조/설계, 핀테크 기술(오픈뱅킹, 블록체인) 등 실무 기반 집중 교육. 금융 분야 서비스 기획 기반 지식 습득. 
+- 수료: 핀테크 기반기술 과정 [수료증](https://drive.google.com/file/d/13mOb86z8qo0JH8Rh7kKO2JSbW_kPPJmL/view?usp=sharing), 핀테크와 금융의 미래 [수료증](https://drive.google.com/file/d/1CYqn-pv8Y-JBiWQm3MU4i0KRlDyM-HEW/view?usp=sharing) 
       
-### 텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)
+### ✍️ 텍스트마이닝 스터디(2022.12.24 ~ 2023.02.20)
 - 활용 강의: 동아대 INSPIRE - python 텍스트마이닝
     
-### 안드로이드 스터디 for beginner(2022.08.20 ~ 2022.09.21)
+### 📱 안드로이드 스터디 for beginner(2022.08.20 ~ 2022.09.21)
 - 커리큘럼: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
  
-### 동아대 빅데이터 실무자 양성교육(2022.08.04 ~ 2022.08.06)
-- 빅데이터 통계적 분석 이론, R을 이용한 데이터 이용 및 데이터 전처리, 신뢰도 분석 및 교차 분석, 집단간 대응변수 차이 분석, T-test 및 분산분석, R 패키지를 활용한 회귀분석
+### 📊 동아대 빅데이터 실무자 양성교육(2022.08.04 ~ 2022.08.06)
+- 주요 학습: 빅데이터 통계적 분석 이론, R을 이용한 데이터 이용 및 데이터 전처리, 신뢰도 분석 및 교차 분석, 집단간 대응변수 차이 분석, T-test 및 분산분석, R 패키지를 활용한 회귀분석
 
 ---
-
 ## Projects :sparkles:
 
-### 데이터 엔지니어링 스터디 <견고한 데이터엔지니어링> 발표
-- 2주차 데이터 엔지니어링 수명 주기의 드러나지 않는 주요 요소(2024.09.24)
-  - [블로깅](https://mjrecord.tistory.com/58)
-- 6주차 데이터 엔지니어링 수명 주기의 2단계: 데이터 저장(2024.11.05)
-  - [블로깅](https://mjrecord.tistory.com/59) 
-- 9주차 데이터 엔지니어링 수명 주기의 5단계: 데이터 서빙(2024.11.25)
-  - [블로깅](https://mjrecord.tistory.com/60) 
+### 1\. AI / Machine Learning & Text Analytics 🧠
 
-### 회고 웹사이트 프로젝트 Past Forward 1기 (2024.03.05 ~ 2024.08.26)
-- 동아대 IT 취업 동아리에서 진행하고 있는 **팀/개인 회고 작성 웹사이트 개발 프로젝트**로, 데이터 분석가로서 GA를 활용한 사용자 데이터 분석을 진행함.  
-- [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
-- [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data), [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend), [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
-- 회원가입률 5% 증가를 목표로 버튼명 A/B테스트를 설계함. 
-- [성공지표 대시보드](https://lookerstudio.google.com/u/0/reporting/9e64bca2-9823-49a3-9526-e060142334da/page/LUc9D)
-  - [Looker Studio 작성 과정 블로깅](https://mjrecord.tistory.com/57) 
-  
-### <블레이드앤소울 유저들의 이탈 시점 예측> (2023.10.06 ~ 2023.11.20)
-- 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
-- [사용한 데이터](https://danbi-ncsoft.github.io//OpenData/)
-- 2023/10/06 [데이터의 이해](https://mjrecord.tistory.com/50)
-- 2023/10/29 [탐색적 데이터 분석](https://mjrecord.tistory.com/51)
-- 2023/11/20 [문파(길드) 데이터 엔지니어링](https://mjrecord.tistory.com/52)
-  
-### <리니지 게임유저 잔존가치를 고려한 고객 이탈예측> (2023.09.11 ~ 2023.10.05)
-- 23년 2학기 연구학점제를 통해 개인 프로젝트를 진행함.
-- [사용한 데이터](https://danbi-ncsoft.github.io//OpenData/)
-- 2023/09/25 [탐색적 데이터 분석](https://mjrecord.tistory.com/47)
-  
-### DB&SQL 스터디 데이터베이스 구축 미니 프로젝트(2023.08.28 ~ 2023.09.15)
-- 주제: 국내 OTT 서비스들의 DB 설계
-- MySQL WorkBench
-- OTT 산업 트렌드 분석, 요구사항 수집 및 분석, DB 개념적 설계, DB 논리적 설계, DB 물리적 설계, 데이터베이스 구현, 인사이트 및 방향성 도출
-  - [최종발표자료](https://drive.google.com/file/d/1rQkUZNWbvfhrTjQ7033MqEW0Tq0jYVlu/view?usp=sharing)
-    
-### A/B 테스트 스터디 10주차 20장 발표(2023.09.19)
-- 발표 내용: <5부 20장 민감도 향상을 위한 트리거링> 트리거링의 예, 최적 및 보수적 트리거링, 전반적인 실험효과, 신뢰할 수 있는 트리거링, 일반적인 함정  
-  - [발표자료](https://mjrecord.tistory.com/48), [발표영상](https://drive.google.com/file/d/1K91Qc4CTAKF5pb9NZegx1laaFxk80WZ-/view?usp=sharing)
-    
-### A/B 테스트 스터디 8주차 17장 발표(2023.08.29)
-- 발표 내용: <5부 17장 온라인 종합 대조 실험에 사용되는 통계 이론> 2표본 t검정, p값과 신뢰구간, 정규성 가정, 1종 및 2종 오류와 검정력, 편향, 다중 테스트, 피셔의 메타 분석 
-- [발표자료](https://mjrecord.tistory.com/46), [발표영상](https://drive.google.com/file/d/1Gdj82I4m2hnghTPYI1gQMy4e-KqH-Rzg/view?usp=sharing)
-  
-### A/B 테스트 스터디 6주차 11장 발표(2023.08.15)
-- 발표 내용: <3부 11 관측 인과 연구> 종합 대조 실험이 불가능한 경우, 관측 인과 연구를 위한 설계, 함정, 단절적 시계열과 회귀 불연속 설계 사례-연구 논문
-- [발표자료](https://mjrecord.tistory.com/45), [발표영상](https://drive.google.com/file/d/1wK_mQ4a6jijTFlc4WmjpFMXA8sX1yL8f/view?usp=sharing)
-  
-### A/B 테스트 스터디 5주차 7장 발표(2023.08.08)
-- 발표 내용: <2부 07 실험을 위한 지표와 종합 평가 기준> 비즈니스 지표로부터 실험에 적절한 지표 작성하기, 주요 지표를 OEC로 결합하기, OEC 사례-아마존의 이메일 
-- [발표자료](https://mjrecord.tistory.com/42), [발표영상](https://drive.google.com/file/d/1qm1pZ1WL4XCgH71PjeAIP-WetqwbhIYt/view?usp=sharing)
-  
-### A/B 테스트 스터디 4주차 6장 발표(2023.07.25)
-- 발표 내용: <1부 06 조직 운영을 위한 지표> 지표의 분류, 공식화, 평가, 진화, 추가 facebook의 광고 게시물 참여 지표 사례
-- [발표자료](https://mjrecord.tistory.com/41), [발표영상](https://drive.google.com/file/d/1f_8JSkhdXIX9Q8Aimd1zKf9eCMMmIj0T/view?usp=sharing)
-  
-### A/B 테스트 스터디 3주차 4장 발표(2023.07.18)
-- 발표 내용: <1부 04 실험 플랫폼과 문화>의 실험 성숙도 모델, 실험 플랫폼의 구성요소, 추가 여기어때와 우아한형제들 등의 사례
-- [발표자료](https://mjrecord.tistory.com/40), [발표영상](https://drive.google.com/file/d/1FiJu-2QJJjq0nHw1_RZWQQQ20DyDSUNz/view?usp=sharing)
-  
-### A/B 테스트 스터디 1주차 1장 발표(2023.06.27)
-- 발표 내용: <1부 01 소개와 동기>의 온라인 종합 대조 실험의 용어들, 흥미로운 AB테스트 사례들, 추가 netflix의 사례 
-- [발표자료](https://mjrecord.tistory.com/39), [발표영상](https://drive.google.com/file/d/1HRdzfovI0KKQbdufvzHbcoBZYTWvKAhb/view?usp=sharing)
-  
-### 『Amazon SageMaker를 사용하여 완전한 기계 학습 사기 탐지 솔루션 배포』 Workshop 실습(2023.05.24)
-- 23년 1학기 도전학기제를 통해 팀으로 워크숍 실습을 진행함.
-- [실습한 워크숍](https://catalog.workshops.aws/sagemaker-fraud-detection/en-US)
-- [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link)
-  
-### 『Analytics on AWS』 Workshop 실습(2023.03.29)
-- 23년 1학기 도전학기제를 통해 팀으로 워크숍 실습을 진행함.
-- [실습한 워크숍](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR/)
-- [보고서1](https://drive.google.com/file/d/1D11vyToZhMa5vdvZ-Wy-hkSo96hPZwMK/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1loxWQBPrCT7LIv11XvJVxuZfQ0lJINAX/view?usp=drive_link)
-  
-### Data Engineering with AWS 13장 『인공 지능 및 머신 러닝 활성화』, 14장 『학습 여정의 첫 번째 부분 마무리』 발표(2023.03.28)
-- [13장 요약 블로깅](https://mjrecord.tistory.com/35), [13장 실습 블로깅](https://mjrecord.tistory.com/36), [14장 블로깅](https://mjrecord.tistory.com/37)
-- [발표 영상](https://drive.google.com/file/d/1H-4RhAP67CxC2L_k_PoXbAK2Exi1lVcg/view?usp=sharing)
-- 내용
-  - 인공 지능(AI)과 ML이 조직에 중요한 이유와 여러 AI용 AWS 서비스 및  ML용 AWS 서비스
-  - Amazon Comprehend로 리뷰 검토 실습
-  - AWS 계정 정리 방법
-    
-### Data Engineering with AWS 10장 실습 『데이터 파이프라인 오케스트레이션』발표(2023.03.14)
-- [실습 블로깅](https://mjrecord.tistory.com/34)
-- [발표 영상](https://drive.google.com/file/d/1IlHARxaiRHM-Gi5ZizURebREUZcyOOVN/view?usp=sharing)
-- 내용
-  - 새 Lambda 함수 생성
-  - SNS 주제 생성 및 이메일 주소 구독
-  - 새 Step Function 상태 시스템 생성
-  - AWS CloudTrail 및 Amazon EventBridge 구성
-    
-### 텍스트마이닝 연구 논문 조교(2022.12.24 ~ 2023.03.18)
-- 주제: 코로나19 기간(2020~2022) 내 국내은행 및 미국은행은 각각 어떤 주제(이슈)가 언급이 되었는가?
-- 내용
-  - google-play-scraper를 활용한 우리은행, 롯데캐피탈, Bank Of America의 구글스토어 리뷰 데이터를 수집함.
-  - 리뷰가 모두 출력되지 않고, 날짜별로 출력되지 않는 문제점을 개선함.
-  - 텍스톰(Texttom)을 활용한 은행 앱 리뷰 데이터의 텍스트마이닝, 매트릭스, 담론분석, 감성분석, 토픽분석을 진행함.
-  - Python을 활용해 BOA 리뷰 데이터 전처리를 하고, coherence 값을 구해 적절한 토픽 개수를 정하고 LDA 분석을 진행함.
-  - 전처리된 리뷰 데이터가 별점, 날짜와 태깅되도록 하여 코로나19 이전과 이후의 토픽 변화 및 부정적인 리뷰와 연관된 토픽은 어떤 것인지 분석함.
-    
-### Data Engineering with AWS 6장 실습 『AWS DMS로 데이터 수집』발표(2023.03.07)
-- [실습 블로깅](https://mjrecord.tistory.com/33)
-- [발표 영상](https://drive.google.com/file/d/10Cq4xGQO5Fb74-PL87cqSjP1YMyEN0f7/view?usp=sharing)
-- 내용
-  - 새 MySQL 데이터베이스 인스턴스 생성
-  - Amazon EC2 인스턴스를 사용하여 데모 데이터 로드
-  - DMS에 대한 IAM 정책 및 역할 생성
-  - DMS 설정 구성 및 MySQL에서 S3로 전체 로드 수행
-  - Amazon Athena로 데이터 쿼리
-    
-### python 텍스트마이닝 26강 『단어연관 및 word network』, 29강 『한글 Document cluster』 발표(2023.02.20)
-- [26강 블로깅](https://mjrecord.tistory.com/31), [29강 블로깅](https://mjrecord.tistory.com/32)
-- 내용
-  - 한글 단어 연관 분석 및 시각화, 한글 문서 간 군집 분석
-    
-### Data Engineering with AWS 5장 『데이터엔지니어링 파이프라인 설계』발표(2023.02.08)
-- [블로깅](https://mjrecord.tistory.com/30)
-- [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing)
-- 내용
-  - 데이터 파이프라인 아키텍처 접근
-  - 데이터 소비자 식별 및 요구 사항 이해
-  - 데이터 소스 식별 및 데이터 수집
-  - 데이터 변환 및 최적화 식별
-  - 데이터 마트에 데이터 로드
-    
-### python 텍스트마이닝 25강 『한글 빈도분석과 WordCloud』 발표(2023.02.06)
-- [블로깅](https://mjrecord.tistory.com/27)
-- 내용
-  - 한글 파일 단어별 빈도세기 및 단어-빈도(TF) 만들기
-  - wordcloud 작성하기
-    
-### 『머신러닝 딥러닝 문제해결 전략』 11장 발표(2023.01.30)
-- [블로깅 1](https://mjrecord.tistory.com/28), [블로깅 2](https://mjrecord.tistory.com/29)
-- [발표 영상](https://drive.google.com/file/d/1DcUNok0lKJm3U6Zsd6pHpg5_JOvYZeY1/view?usp=sharing)
-- 내용
-  - <항공 사진 내 선인장 식별 경진대회> 탐색적 데이터 분석, 베이스라인, 성능 개선
-  - 머신러닝 딥러닝 문제해결 전략 스터디 11주차 발표
-    
-### Data Engineering with AWS 3장 『데이터 엔지니어 도구 키트』발표(2023.01.25)
-- [블로깅](https://mjrecord.tistory.com/26)
-- [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing)
-- 내용
-  - 데이터 수집을 위한 AWS 서비스 개요(Amazon DMS, Amazon Kinesis, Amazon MSK, Amazon AppFlow, Amazon Transfer Family, Amazon DataSync, AWS Snow 디바이스 제품군)
-  - 데이터 변환을 위한 AWS 서비스 개요(AWS Lambda, AWS Glue, Amazon EMR)
-  - 빅 데이터 파이프라인 조정을 위한 AWS 서비스 개요(AWS Glue Workflow, AWS Step Functions, MWAA)
-  - 데이터 소비를 위한 AWS 서비스 개요(Amazon Athena, Amazon Redshift 및 Redshift Spectrum, Amazon QuickSight)
-    
-### python 텍스트마이닝 20강 『LDA 결과의 시각화』 발표(2023.01.16)
-- [블로깅](https://mjrecord.tistory.com/25)
-- 내용
-  - LDA 결과의 시각화 명령어
-  - 시각화 결과 분석
-    
-### python 텍스트마이닝 15강 『Text Clustering 개념 및 활용』 발표(2023.01.06)
-- [블로깅](https://mjrecord.tistory.com/24)
-- 내용
-  - Text Clustering 개념
-  - 거리 계산 방법
-  - 군집화 방법
-    
-### python 텍스트마이닝 12강 『단어 연관 분석과 Word Network』 발표(2022.12.30)
-- [블로깅](https://mjrecord.tistory.com/23?category=1054164)
-- 내용
-  - TF와 TF-IDF 개념
-  - 단어 연관 분석 실습
-  - Word Network 실습
-    
-### 『머신러닝 딥러닝 문제해결 전략』 9장 발표(2022.11.28)
-- [블로깅 1](https://mjrecord.tistory.com/19), [블로깅 2](https://mjrecord.tistory.com/20)
-- [발표 영상](https://drive.google.com/file/d/1AKm2w5X8HD_xxPTP_p8i4GSyE9KsCHLp/view?usp=share_link)
-- 내용
-  - <향후 판매량 예측 경진대회> 베이스라인 모델
-  - <향후 판매량 예측 경진대회> 성능 개선
-  - 머신러닝 딥러닝 문제해결 전략 스터디 10주차 발표
- 
-### 『머신러닝 딥러닝 문제해결 전략』 8장 발표(2022.11.14)
+#### 🏆 이미지 질의 응답 모델 AI 챌린지 (2025.11)
 
-- [블로깅](https://mjrecord.tistory.com/17)
-- [발표 영상](https://drive.google.com/file/d/13NR0CErRTFlxC9JMXGKdlMQh1M76sd12/view?usp=share_link)
-- 내용
-  - <안전 운전자 예측 경진대회> 베이스라인 모델
-  - <안전 운전자 예측 경진대회> 성능 개선 1: LightGBM 모델
-  - <안전 운전자 예측 경진대회> 성능 개선 2: XGBoost 모델
-  - <안전 운전자 예측 경진대회> 성능 개선 3: LightGBM과 XGBoost 앙상블
-  - 머신러닝 딥러닝 문제해결 전략 스터디 8주차 발표
-    
-### 『머신러닝 딥러닝 문제해결 전략』 7장 발표(2022.10.04)
+  - **개요**: 이미지와 텍스트를 동시에 이해하는 멀티모달 AI (VQA) 모델 개발 및 성능 최적화.
+  - **기술 환경**: Qwen/LLAVA 기반 VQA 모델, LoRA (Low-Rank Adaptation) 파인튜닝, 데이터 증강, TTA (Test Time Augmentation).
+  - **주요 역할**: 학습 데이터 확장 및 TTA 전략 구현을 주도하여 모델 수렴 안정성 확보 및 예측 정확도 향상에 기여.
+  - **성과**: 모델 용량, 데이터 품질, 프롬프트 구조 간 균형이 멀티모달 AI 성능에 미치는 영향을 체계적인 실험으로 이해하고, AI 학습 파이프라인 전반을 경험.
 
-- 발표 자료: [블로깅 1](https://mjrecord.tistory.com/15?category=1080906), [블로깅 2](https://mjrecord.tistory.com/16?category=1080906)
-- 발표 영상: [발표 영상](https://drive.google.com/file/d/1cTA_tFPTIbFycHXAIh9uB6r9Sc7zULCX/view?usp=sharing)
-- 개발 언어/라이브러리: Kaggle, Jupyter Notebook
-- 내용
-  - <범주형 데이터 이진분류 경진대회> 탐색적 데이터 분석
-  - <범주형 데이터 이진분류 경진대회> 데이터 시각화
-  - 머신러닝 딥러닝 문제해결 전략 스터디 5주차 발표
- 
-### 『머신러닝 딥러닝 문제해결 전략』 3장 발표(2022.09.12)
+#### 💡 AI 아이디어톤 (Naily) - 최우수팀 선정 (2025.07)
 
-- 발표 자료: [블로깅](https://mjrecord.tistory.com/14)
-- 발표 영상: [발표 영상](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
-- 개발 언어/라이브러리: Kaggle, Jupyter Notebook
-- 내용
-  - 머신러닝 문제해결 프로세스 및 체크리스트
-  - 딥러닝 문제해결 프로세스 및 체크리스트
-  - 머신러닝 딥러닝 문제해결 전략 스터디 2주차 발표
-    
-### DX Challenge 서포터즈 (2022.07.25~2022.12.29)
+  - **개요**: AI 기반 손 맞춤형 네일 디자인 추천 및 주변 샵 예약까지 통합 제공하는 원스톱 큐레이션 플랫폼 기획.
+  - **기술 환경**: OpenCV, MediaPipe, CNN (손/피부 분석), TFRS/LightFM (추천 모델), GANS (AR 시뮬레이션) 활용 기획, Figma (핵심 화면 구현).
+  - **주요 역할**: 핵심 서비스 아이디어 및 비즈니스 모델 최초 제안, 워킹맘 페르소나 설정 및 시장 문제점(결정 피로) 정의를 통한 서비스 방향성 확립 주도.
+  - **성과**: CNN, GANS, TFRS와 같은 핵심 AI 기술들이 고객 문제 해결 서비스에 어떻게 적용되고 연결되는지 구체적으로 이해.
 
-- 공식 인스타그램: [@dxchallenge](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)-부산광역시, 패스파인더, 부산테크노파크 주관
-- 개인 대외활동 인스타그램: [@meez_activitiy](https://instagram.com/meez_activity?igshid=YmMyMTA2M2Y=)
-- 내용
-  - 7월: DX Sprint(데이터를 활용한 앱 개발 프로젝트) 홍보 카드뉴스 제작
-  - 8월: DX Sprint 참가자 및 멘토 인터뷰 진행, **우수 서포터즈 선정**
-  - 9월: DX Camp 파이썬 교육 참가
-  - 9월: DX Camp(데이터 기반 기술 개발 및 창업지원 프로그램) 홍보 및 참가 후기 카드뉴스와 영상 기획 및 제작
-  - 10월: DX 관련 용어(DX, MVP, UX/UI)와 DX Camp 참가 팀이 출시한 앱 리뷰 카드뉴스 기획 및 제작
-  - 11월: 부산의 관광데이터 활용과 DX Camp 창업지원 홍보 카드뉴스 기획 및 제작, **우수 서포터즈 팀 선정**
-  - 12월: 서포터즈 해단식 **최우수 서포터즈 선정**
-  
-### 『데이터분석을 위한 SQL 레시피』 6장 발표(2022.05.20)
+#### 🎮 유저 이탈 예측 프로젝트 (NCSOFT 로그 데이터 활용) (2023.09.11 \~ 2023.11.20)
 
-- 발표 자료: [블로깅](https://mjrecord.tistory.com/12)
-- 발표 영상: [발표 영상](https://drive.google.com/file/d/1_1wvP-7IAQWcxvUnpjEvcVHm2JYP-aYT/view) 
-- 내용
-  - SQL을 통해 1회 방문당 페이지 뷰를 날짜별로 집계 및 데이터 추출
-  - 용도에 따라 URL에서 필요한 데이터를 추출 및 집계
-  - 유입원별로 방문 횟수 또는 CVR 집계
-  - 데이터 분석 스터디 5주차 발표
+  - **개요**: NCSOFT 공개 게임 로그 데이터(리니지, 블소)를 활용하여 유저 이탈 패턴 분석 및 유저 행동 특성 탐색 개인 프로젝트.
+  - **기술 환경**: Python (NumPy, pandas, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook.
+      - [사용한 데이터](https://danbi-ncsoft.github.io//OpenData/)
+  - **주요 역할**: 유저 이탈 가설 설정 후 로그 데이터 EDA (탐색적 데이터 분석) 수행 및 주요 이탈 지표 도출.
+  - **주요 활동**:
+      - [데이터의 이해](https://mjrecord.tistory.com/50) (2023/10/06)
+      - [탐색적 데이터 분석](https://mjrecord.tistory.com/47), [탐색적 데이터 분석](https://mjrecord.tistory.com/51) (2023/09/25, 2023/10/29)
+      - [문파(길드) 데이터 엔지니어링](https://mjrecord.tistory.com/52) (2023/11/20)
+  - **성과**: 대용량 게임 로그 데이터를 다루며 유저 행동 기반 분석 프로세스를 경험하고, 실무형 데이터 분석 모델링 프로세스 학습.
 
-### 『데이터분석을 위한 SQL 레시피』 4장 발표(2022.05.06)  
+#### 📝 텍스트마이닝 연구 논문 조교 (2022.12.24 \~ 2023.03.18)
 
-- 발표 자료: [블로깅 1](https://mjrecord.tistory.com/10), [블로깅 2](https://mjrecord.tistory.com/11)
-- 발표 영상: [발표 영상](https://drive.google.com/file/d/1QBXaD6Vj2grIkOeEF-Gn3_kkIL-_GHCd/view) 
-- 내용
-  - Google Bigquery에서 SQL을 사용해 시계열 기반으로 데이터 집계
-  - Z차트를 작성하기 위한 매출과 관련된 데이터 추출
-  - 상품의 카테고리, 가격 등을 조합해 데이터의 특징 추출
-  - ABC 분석을 위한 매출 구성비누계와 ABC 등급 계산
-  - 팬 차트 작성을 위한 데이터 집약
-  - 히스토그램 작성을 위한 데이터 추출
-  - 데이터 분석 스터디 3주차 발표
+  - **개요**: 국내·외 은행 앱 리뷰 데이터를 기반으로 코로나19 전후 주요 이슈 변화를 분석하는 텍스트마이닝 연구 참여.
+  - **기술 환경**: Python(google-play-scraper, KoNLPy, Gensim), Textom, Pandas, LDA 토픽 모델링, 감성 분석.
+  - **주요 역할**: 우리은행, BOA 앱 리뷰 데이터 수집부터 전처리, 토픽 모델링(LDA), 감성 분석까지 텍스트마이닝 전 과정 수행.
+  - **성과**: 코로나19 전후 은행 앱 사용자 불만 이슈 키워드를 정량적으로 도출하여 논문 분석의 핵심 근거를 제공하고, 대규모 리뷰 데이터 텍스트마이닝 역량을 강화함.
+
+#### 🗣️ 발표: 『머신러닝 딥러닝 문제해결 전략』 스터디
+
+| 날짜 | 주제 | 경진대회/챕터 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2023.01.30 | 탐색적 데이터 분석 및 성능 개선 | 11장. 항공 사진 내 선인장 식별 | [블로깅1](https://mjrecord.tistory.com/28), [블로깅2](https://mjrecord.tistory.com/29), [발표영상](https://drive.google.com/file/d/1DcUNok0lKJm3U6Zsd6pHpg5_JOvYZeY1/view?usp=sharing) |
+| 2022.11.28 | 베이스라인 모델 및 성능 개선 | 9장. 향후 판매량 예측 | [블로깅1](https://mjrecord.tistory.com/19), [블로깅2](https://mjrecord.tistory.com/20), [발표영상](https://drive.google.com/file/d/1AKm2w5X8HD_xxPTP_p8i4GSyE9KsCHLp/view?usp=share_link) |
+| 2022.11.14 | LightGBM, XGBoost 앙상블 | 8장. 안전 운전자 예측 | [블로깅](https://mjrecord.tistory.com/17), [발표영상](https://drive.google.com/file/d/13NR0CErRTFlxC9JMXGKdlMQh1M76sd12/view?usp=share_link) |
+| 2022.10.04 | EDA 및 데이터 시각화 | 7장. 범주형 데이터 이진분류 | [블로깅1](https://mjrecord.tistory.com/15?category=1080906), [블로깅2](https://mjrecord.tistory.com/16?category=1080906), [발표영상](https://drive.google.com/file/d/1cTA_tFPTIbFycHXAIh9uB6r9Sc7zULCX/view?usp=sharing) |
+| 2022.09.12 | 문제해결 프로세스 및 체크리스트 | 3장. 문제 해결 전략 | [블로깅](https://mjrecord.tistory.com/14), [발표영상](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing) |
+
+#### 🗣️ 발표: Python 텍스트마이닝 스터디
+
+| 날짜 | 주제 | 내용 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2023.02.20 | 단어연관 및 Document cluster | 한글 단어 연관 분석, Word Network, 한글 문서 간 군집 분석 | [블로깅 26강](https://mjrecord.tistory.com/31), [블로깅 29강](https://mjrecord.tistory.com/32) |
+| 2023.02.06 | 한글 빈도분석과 WordCloud | 한글 파일 단어별 빈도 세기, Wordcloud 작성 | [블로깅](https://mjrecord.tistory.com/27) |
+| 2023.01.16 | LDA 결과의 시각화 | LDA 결과의 시각화 명령어 및 결과 분석 | [블로깅](https://mjrecord.tistory.com/25) |
+| 2023.01.06 | Text Clustering 개념 및 활용 | Text Clustering 개념, 거리 계산, 군집화 방법 | [블로깅](https://mjrecord.tistory.com/24) |
+| 2022.12.30 | 단어 연관 분석과 Word Network | TF, TF-IDF 개념, 단어 연관 분석 및 Word Network 실습 | [블로깅](https://mjrecord.tistory.com/23?category=1054164) |
+
+-----
+
+### 2\. Data Engineering & Cloud 🏗️
+
+#### 🗣️ 발표: \<견고한 데이터엔지니어링\> 스터디
+
+| 날짜 | 주제 | 내용 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2024.11.25 | 데이터 엔지니어링 수명 주기의 5단계 | 데이터 서빙 | [블로깅](https://mjrecord.tistory.com/60) |
+| 2024.11.05 | 데이터 엔지니어링 수명 주기의 2단계 | 데이터 저장 | [블로깅](https://mjrecord.tistory.com/59) |
+| 2024.09.24 | 데이터 엔지니어링 수명 주기의 주요 요소 | 드러나지 않는 주요 요소 | [블로깅](https://mjrecord.tistory.com/58) |
+
+#### 🎬 DB\&SQL 스터디 데이터베이스 구축 미니 프로젝트 (2023.08.28 \~ 2023.09.15)
+
+  - **주제**: 국내 OTT 서비스들의 DB 설계 (MySQL WorkBench 활용)
+  - **주요 활동**: OTT 산업 트렌드 분석, 요구사항 수집 및 분석, DB 개념/논리/물리적 설계, 데이터베이스 구현, 인사이트 도출.
+  - **자료**: [최종발표자료](https://drive.google.com/file/d/1rQkUZNWbvfhrTjQ7033MqEW0Tq0jYVlu/view?usp=sharing)
+
+#### ☁️ AWS Cloud 실습 & Workshop
+
+| 날짜 | 주제 | 내용 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2023.05.24 | Amazon SageMaker ML 워크샵 | 기계 학습 사기 탐지 솔루션 배포 실습 | [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link) |
+| 2023.03.29 | Analytics on AWS 워크샵 | AWS를 활용한 데이터 분석 파이프라인 실습 | [보고서1](https://drive.google.com/file/d/1D11vyToZhMa5vdvZ-Wy-hkSo96hPZwMK/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1loxWQBPrCT7LIv11XvJVxuZfQ0lJINAX/view?usp=drive_link) |
+
+#### 🗣️ 발표: Data Engineering with AWS 스터디
+
+| 날짜 | 주제 | 내용 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2023.03.28 | 인공 지능 및 머신 러닝 활성화 | Amazon Comprehend로 리뷰 검토 실습 및 AWS 계정 정리 방법 | [블로깅1](https://mjrecord.tistory.com/35), [블로깅2](https://mjrecord.tistory.com/36), [블로깅3](https://mjrecord.tistory.com/37), [발표 영상](https://drive.google.com/file/d/1H-4RhAP67CxC2L_k_PoXbAK2Exi1lVcg/view?usp=sharing) |
+| 2023.03.14 | 데이터 파이프라인 오케스트레이션 | AWS Step Function을 통한 Lambda 함수, SNS 주제, CloudTrail 구성 실습 | [실습 블로깅](https://mjrecord.tistory.com/34), [발표 영상](https://drive.google.com/file/d/1IlHARxaiRHM-Gi5ZizURebREUZcyOOVN/view?usp=sharing) |
+| 2023.03.07 | AWS DMS로 데이터 수집 | MySQL에서 S3로 전체 로드 수행 및 Amazon Athena로 데이터 쿼리 실습 | [실습 블로깅](https://mjrecord.tistory.com/33), [발표 영상](https://drive.google.com/file/d/10Cq4xGQO5Fb74-PL87cqSjP1YMyEN0f7/view?usp=sharing) |
+| 2023.02.08 | 데이터엔지니어링 파이프라인 설계 | 데이터 수집/변환/최적화/서빙 단계별 AWS 서비스 개요 및 아키텍처 접근 방식 | [블로깅](https://mjrecord.tistory.com/30), [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing) |
+| 2023.01.25 | 데이터 엔지니어 도구 키트 | 데이터 수집/변환/조정/소비 서비스 개요 및 특징 분석 | [블로깅](https://mjrecord.tistory.com/26), [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing) |
+
+-----
+
+### 3\. Data Analytics & A/B Testing 📊
+
+#### 💻 회고 웹사이트 프로젝트 Past Forward 1기 (2024.03.05 \~ 2024.08.26)
+
+  - **개요**: 회고 템플릿 웹사이트 개발 프로젝트에서 데이터 분석가로서 GA를 활용한 사용자 데이터 분석 및 UX 개선 제안.
+      - [데이터팀 노션](https://www.notion.so/Past-Forward-f2176157e9c34516a3179d0fa825c76b)
+      - [데이터팀 깃헙](https://github.com/donga-it-club/past-foward-data) / [백엔드팀 깃헙](https://github.com/donga-it-club/past-foward-backend) / [프론트엔드팀 깃헙](https://github.com/donga-it-club/past-forward-frontend)
+  - **기술 환경**: GA4, GTM, Looker Studio, Python, Excel.
+  - **주요 역할**: UTM 파라미터 및 GA4를 활용한 유입 데이터 분석, 이탈률 분석 기반 모바일 UX 개선 협업, 회원가입 버튼 **A/B 테스트 설계**로 전환율 향상 전략 수립.
+  - **성과**: Looker Studio 대시보드 제작을 통해 데이터 기반 의사결정 경험 축적.
+      - [성공지표 대시보드](https://lookerstudio.google.com/u/0/reporting/9e64bca2-9823-49a3-9526-e060142334da/page/LUc9D)
+      - [Looker Studio 작성 과정 블로깅](https://mjrecord.tistory.com/57)
+
+#### 🗣️ 발표: A/B 테스트 스터디
+
+| 날짜 | 주제 | 챕터 | 내용 | 자료 |
+| :---: | :--- | :--- | :--- | :---: |
+| 2023.09.19 | 민감도 향상을 위한 트리거링 | 5부 20장 | 트리거링의 예, 최적 및 보수적 트리거링, 신뢰할 수 있는 트리거링 | [발표자료](https://mjrecord.tistory.com/48), [발표영상](https://drive.google.com/file/d/1K91Qc4CTAKF5pb9NZegx1laaFxk80WZ-/view?usp=sharing) |
+| 2023.08.29 | 온라인 종합 대조 실험에 사용되는 통계 이론 | 5부 17장 | 2표본 t검정, p값, 신뢰구간, 오류와 검정력, 다중 테스트 | [발표자료](https://mjrecord.tistory.com/46), [발표영상](https://drive.google.com/file/d/1Gdj82I4m2hnghTPYI1gQMy4e-KqH-Rzg/view?usp=sharing) |
+| 2023.08.15 | 관측 인과 연구 | 3부 11장 | 종합 대조 실험이 불가능한 경우, 관측 인과 연구 설계 및 함정 | [발표자료](https://mjrecord.tistory.com/45), [발표영상](https://drive.google.com/file/d/1wK_mQ4a6jijTFlc4WmjpFMXA8sX1yL8f/view?usp=sharing) |
+| 2023.08.08 | 실험을 위한 지표와 종합 평가 기준 | 2부 07장 | 비즈니스 지표로부터 실험에 적절한 지표 작성 및 OEC 결합 | [발표자료](https://mjrecord.tistory.com/42), [발표영상](https://drive.google.com/file/d/1qm1pZ1WL4XCgH71PjeAIP-WetqwbhIYt/view?usp=sharing) |
+| 2023.07.25 | 조직 운영을 위한 지표 | 1부 06장 | 지표의 분류, 공식화, 평가, 진화 및 Facebook 사례 | [발표자료](https://mjrecord.tistory.com/41), [발표영상](https://drive.google.com/file/d/1f_8JSkhdXIX9Q8Aimd1zKf9eCMMmIj0T/view?usp=sharing) |
+| 2023.07.18 | 실험 플랫폼과 문화 | 1부 04장 | 실험 성숙도 모델, 실험 플랫폼 구성요소 및 국내 사례(여기어때, 우아한형제들) | [발표자료](https://mjrecord.tistory.com/40), [발표영상](https://www.google.com/search?q=https://drive.google.com/file/d/1FiJu-2QJJjq0nHw1_RZWQQ20DyDSUNz/view%3Fusp%3Dsharing) |
+| 2023.06.27 | 소개와 동기 | 1부 01장 | 온라인 종합 대조 실험 용어, 흥미로운 AB테스트 사례(Netflix) | [발표자료](https://mjrecord.tistory.com/39), [발표영상](https://drive.google.com/file/d/1HRdzfovI0KKQbdufvzHbcoBZYTWvKAhb/view?usp=sharing) |
+
+#### 🗣️ 발표: 『데이터분석을 위한 SQL 레시피』 스터디
+
+| 날짜 | 주제 | 챕터 | 내용 | 자료 |
+| :---: | :--- | :--- | :--- | :---: |
+| 2022.05.20 | SQL을 이용한 데이터 집계 및 추출 | 6장 | 1회 방문당 페이지 뷰 집계, URL에서 필요한 데이터 추출, 유입원별 CVR 집계 | [블로깅](https://mjrecord.tistory.com/12), [발표 영상](https://drive.google.com/file/d/1_1wvP-7IAQWcxvUnpjEvcVHm2JYP-aYT/view) |
+| 2022.05.06 | Google Bigquery를 활용한 데이터 분석 | 4장 | 시계열 기반 데이터 집계, Z차트/ABC 분석/히스토그램 작성을 위한 데이터 추출 | [블로깅1](https://mjrecord.tistory.com/10), [블로깅2](https://mjrecord.tistory.com/11), [발표 영상](https://drive.google.com/file/d/1QBXaD6Vj2grIkOeEF-Gn3_kkIL-_GHCd/view) |
+
+-----
+
+### 4\. External Activities 🚀
+
+#### ✨ DX Challenge 서포터즈 (2022.07.25 \~ 2022.12.29)
+
+  - **주관**: 부산광역시, 패스파인더, 부산테크노파크
+  - **주요 활동**: DX Sprint 및 DX Camp 홍보 콘텐츠(카드뉴스, 영상) 기획 및 제작, 참가자 및 멘토 인터뷰 진행, DX 관련 용어 및 사례 소개.
+  - **성과**: **최우수 서포터즈 선정** (12월 해단식), **우수 서포터즈 팀 선정** (11월), 우수 서포터즈 선정 (8월).
+      - [공식 인스타그램](https://instagram.com/dxchallenge?igshid=YmMyMTA2M2Y=)
+      - [개인 대외활동 인스타그램](https://instagram.com/meez_activity?igshid=YmMyMTA2M2Y=)
