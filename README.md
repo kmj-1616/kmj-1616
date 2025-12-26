@@ -40,12 +40,12 @@
 ---
 
 ## Summary :grey_exclamation:
-> **2026년 상반기 취업 목표**  
-> - R, Python, SQL 기반 데이터 엔지니어링 및 A/B 테스트 스터디를 리딩
-> - B2B Intelligence팀 현장실습: BI 제품 품질 검수(QA) 및 GIS 데이터 관리 경험 
-> - Past Forward 프로젝트: GA 분석 및 A/B 테스트로 가입률 감소 방지
-> - 멀티모달 AI(VQA) 모델 개발 및 최적화 경험 (LoRA, TTA 전략 활용)
-> - 현재: Python 알고리즘 강화 위해 **1일 1커밋 진행 중**
+> **2026년 상반기 [Data Analyst / Backend Engineer] 취업 목표**
+> - **Full-Stack Development**: SSAFY 14기 과정 중 **Django & Vue.js** 기반의 '서가이음' 개발 및 실시간 통신 로직 구현
+> - **Data-Driven Problem Solving**: **GA4 분석 및 A/B 테스트** 설계를 통한 서비스 개선 및 Looker Studio 대시보드 구축 경험
+> - **AI & ML Optimization**: **멀티모달 AI(VQA) 모델** 파인튜닝(LoRA) 및 TTA 전략을 통한 성능 최적화 경험
+> - **Professional Experience**: 오브젠(주) 현장실습을 통한 **BI 솔루션 QA 및 GIS 데이터 ETL** 파이프라인 수행
+> - **Continuous Growth**: 꾸준한 알고리즘 학습을 위한 **1일 1커밋** 실천 중
 
 ---
 
@@ -54,19 +54,19 @@
 
 <p><strong>Programming Languages</strong><p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 <p><strong>Web & Frameworks</strong><p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
 
 <p><strong>Database & Cloud Platform</strong><p>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-4584b6?style=for-the-badge&logo=google-big-query&logoColor=white"/>
 
@@ -90,6 +90,7 @@
 <p><strong>IDEs & Environments</strong><p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>  
   <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
@@ -119,10 +120,10 @@
 
 ## Education & Certifications :mortar_board: 
 ### 🎓 삼성청년SW·AI아카데미(SSAFY) 14기(2025.07.08 ~ 현재)
-- 서울캠퍼스 Python Track 입과
+- 서울캠퍼스 Python Track 이수 중 
   - 자치회: 1학기 CA로 교육 환경 관리 및 행사 기획 주도 
-  - **커리큘럼**: 7월 Python / 8월 알고리즘 기본 / 9월 알고리즘 응용 / 10월 AI / 11월 DB&Django&JavaScript / 12월 Vue.js
-  - **프로젝트**: 도서 API 기반 PJT 진행 중  
+  - **커리큘럼**: Python 알고리즘, AI 모델링, Django/Vue.js 풀스택 웹 개발 프로세스 숙달
+  - **성과**: SW 역량 등급 IM 취득, **도서 API 기반 커뮤니티 및 중고 거래 플랫폼(서가이음) 개발 완료** 
 
 ### 🏛️ 동아대 경영정보학과(2020.03 ~ 2025.02)  
 - **학점**: **4.13**/4.5  
@@ -134,10 +135,15 @@
 
 ## Study :books: 
 
-### 💻 Java 스터디(2025.10.10 ~ 현재)
+### 💻 Java & Spring Backend 스터디(2025.10.10 ~ 2025.12.22)
 - [꽉 JAVA 스터디 노션](https://www.notion.so/289741b73151811da756f26e6ec187e9)
-- 기술 스택: Java, MySQL, Spring
-- **프로젝트**: Spring 기반 영화 DB 프로젝트 진행 중 
+- **핵심 역량**: Java 17 기반 객체지향 설계, Spring Boot MVC 패턴, JPA 엔티티 매핑
+- **진행 프로젝트**: **Spring Boot 영화 DB 프로젝트**
+    - **담당 기능**: 좋아요(토글) 기능 및 좋아요순 리뷰 정렬 API
+    - **학습 포인트**: 
+        - JPA 복합키(`LikesId`) 활용 및 엔티티 간 양방향 연관관계 설정
+        - `@Query`를 이용한 집계(Count) 및 정렬 로직 처리
+        - API 보안 검증(Principal 기반 사용자 확인) 적용 
 
 ### 📈 알고리즘 스터디(2025.08.01 ~ 2025.11.27)
 - 목표: solved.ac 스트릭 끊기지 않기 & 백준 Class 3 및 골드 달성  
@@ -172,7 +178,42 @@
 ---
 ## Projects :sparkles:
 
-### 1\. AI / Machine Learning & Text Analytics 🧠
+### 1. Backend Development & System Design 💻
+
+#### 📚 서가이음: 독서 커뮤니티 및 중고책 거래 플랫폼 (2025.12) 
+- **개요**: OpenAI 기반 개인화 알고리즘과 도서관 인프라를 연동하여 안전한 비대면 중고 거래 및 맞춤형 독서 경험을 제공하는 서비스 
+- **기술 환경**: Python (Django DRF), Vue.js 3, SQLite, OpenAI API (GPT-4o-mini), 도서관 정보나루 API 
+- **주요 역할**: **데이터 파이프라인 정제, 실시간 메시징 시스템 및 AI 추천 로직 구현**
+- **주요 활동 및 해결 과제**:
+    - **실시간 메시징 시스템 (Short Polling)**: 
+        - 5단계 상호 승인 프로세스(요청→승인→보관→수령→완료)와 연동된 실시간 거래 채팅 및 진행 상황 추적 로직 구현 
+        - 도서별 오픈 채팅 커뮤니티 기능을 통해 사용자 간 실시간 독서 경험 공유 및 확장 지원 
+    - **도서 데이터 정제 및 품질 향상**: 
+        - 도서관 정보나루 API를 활용하여 수집된 전국 공공도서관 데이터의 제목, 저자, 줄거리 정제 과정을 통해 데이터 품질 확보 
+        - 정제된 데이터를 바탕으로 실시간 소장 정보 확인 및 Geolocation API 기반의 도서관 거리 계산 기능 구현 
+    - **AI 추천 엔진 및 프롬프트 엔지니어링**:
+        - **개인화 추천 알고리즘**: GPT-4o-mini 모델을 활용하여 성별/연령대별 데이터 및 사용자의 채팅 활동(메시지 5개 이상 시 카테고리 추출)을 반영한 맞춤형 추천 시스템 구축 
+        - **감성 큐레이션 프롬프트 설계**: 도서 줄거리를 분석하여 호기심을 자극하는 강렬한 느낌표 형식의 문구(영화 포스터 카피 스타일)를 생성하도록 프롬프트 엔지니어링 수행
+- **Link**: [GitHub Repository](https://github.com/kmj-1616/seoga-eum-pjt)
+
+#### 🎬 Spring Boot 기반 영화 정보 및 리뷰 커뮤니티 (2025.11 ~ 2025.12)
+- **개요**: Java/Spring Boot 환경에서 영화 데이터를 관리하고 유저 간 리뷰를 공유하는 백엔드 서비스 구축.
+- **기술 환경**: Java 17, Spring Boot, Spring Data JPA, MySQL, IntelliJ, Postman.
+- **주요 역할**: **리뷰 상호작용(좋아요) 및 데이터 정렬 엔진 로직 구현**
+- **주요 활동 및 해결 과제**:
+    - **좋아요(Likes) 토글 및 무결성 보장**:
+        - 한 사용자가 한 리뷰에 대해 1회만 반응할 수 있도록 `@Embeddable`을 활용한 **복합키(Composite Key)** 설계.
+        - 데이터 정합성을 위해 `@Transactional`을 적용하여 등록/취소 로직의 원자성 확보.
+    - **보안 검증 로직 구현**:
+        - `Principal` 객체를 활용해 현재 로그인 유저와 요청 데이터(`userNo`)를 대조하는 **Identity Verification** 로직을 서비스 레이어에 구현하여 보안성 강화.
+    - **성능을 고려한 리뷰 정렬 시스템**:
+        - `LEFT JOIN`과 `GROUP BY`를 활용한 JPQL 커스텀 쿼리를 작성하여 '좋아요 순' 정렬 API 구현.
+        - RESTful API 설계 원칙에 따라 쿼리 파라미터(`?sort=likes`)를 통해 최신순/인기순 정렬을 유연하게 처리.
+- **성과**: MVC 아키텍처에 대한 깊은 이해를 바탕으로, 데이터 분석을 넘어 실제 비즈니스 로직이 데이터베이스에 반영되는 전체 시스템 파이프라인을 직접 설계 및 구현.
+
+-----
+
+### 2\. AI / Machine Learning & Text Analytics 🧠
 
 #### 🏆 이미지 질의 응답 모델 AI 챌린지 (2025.11)
 
@@ -229,41 +270,6 @@
 
 -----
 
-### 2\. Data Engineering & Cloud 🏗️
-
-#### 🗣️ 발표: \<견고한 데이터엔지니어링\> 스터디
-
-| 날짜 | 주제 | 내용 | 자료 |
-| :---: | :--- | :--- | :---: |
-| 2024.11.25 | 데이터 엔지니어링 수명 주기의 5단계 | 데이터 서빙 | [블로깅](https://mjrecord.tistory.com/60) |
-| 2024.11.05 | 데이터 엔지니어링 수명 주기의 2단계 | 데이터 저장 | [블로깅](https://mjrecord.tistory.com/59) |
-| 2024.09.24 | 데이터 엔지니어링 수명 주기의 주요 요소 | 드러나지 않는 주요 요소 | [블로깅](https://mjrecord.tistory.com/58) |
-
-#### 🎬 DB\&SQL 스터디 데이터베이스 구축 미니 프로젝트 (2023.08.28 \~ 2023.09.15)
-
-  - **주제**: 국내 OTT 서비스들의 DB 설계 (MySQL WorkBench 활용)
-  - **주요 활동**: OTT 산업 트렌드 분석, 요구사항 수집 및 분석, DB 개념/논리/물리적 설계, 데이터베이스 구현, 인사이트 도출.
-  - **자료**: [최종발표자료](https://drive.google.com/file/d/1rQkUZNWbvfhrTjQ7033MqEW0Tq0jYVlu/view?usp=sharing)
-
-#### ☁️ AWS Cloud 실습 & Workshop
-
-| 날짜 | 주제 | 내용 | 자료 |
-| :---: | :--- | :--- | :---: |
-| 2023.05.24 | Amazon SageMaker ML 워크샵 | 기계 학습 사기 탐지 솔루션 배포 실습 | [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link) |
-| 2023.03.29 | Analytics on AWS 워크샵 | AWS를 활용한 데이터 분석 파이프라인 실습 | [보고서1](https://drive.google.com/file/d/1D11vyToZhMa5vdvZ-Wy-hkSo96hPZwMK/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1loxWQBPrCT7LIv11XvJVxuZfQ0lJINAX/view?usp=drive_link) |
-
-#### 🗣️ 발표: Data Engineering with AWS 스터디
-
-| 날짜 | 주제 | 내용 | 자료 |
-| :---: | :--- | :--- | :---: |
-| 2023.03.28 | 인공 지능 및 머신 러닝 활성화 | Amazon Comprehend로 리뷰 검토 실습 및 AWS 계정 정리 방법 | [블로깅1](https://mjrecord.tistory.com/35), [블로깅2](https://mjrecord.tistory.com/36), [블로깅3](https://mjrecord.tistory.com/37), [발표 영상](https://drive.google.com/file/d/1H-4RhAP67CxC2L_k_PoXbAK2Exi1lVcg/view?usp=sharing) |
-| 2023.03.14 | 데이터 파이프라인 오케스트레이션 | AWS Step Function을 통한 Lambda 함수, SNS 주제, CloudTrail 구성 실습 | [실습 블로깅](https://mjrecord.tistory.com/34), [발표 영상](https://drive.google.com/file/d/1IlHARxaiRHM-Gi5ZizURebREUZcyOOVN/view?usp=sharing) |
-| 2023.03.07 | AWS DMS로 데이터 수집 | MySQL에서 S3로 전체 로드 수행 및 Amazon Athena로 데이터 쿼리 실습 | [실습 블로깅](https://mjrecord.tistory.com/33), [발표 영상](https://drive.google.com/file/d/10Cq4xGQO5Fb74-PL87cqSjP1YMyEN0f7/view?usp=sharing) |
-| 2023.02.08 | 데이터엔지니어링 파이프라인 설계 | 데이터 수집/변환/최적화/서빙 단계별 AWS 서비스 개요 및 아키텍처 접근 방식 | [블로깅](https://mjrecord.tistory.com/30), [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing) |
-| 2023.01.25 | 데이터 엔지니어 도구 키트 | 데이터 수집/변환/조정/소비 서비스 개요 및 특징 분석 | [블로깅](https://mjrecord.tistory.com/26), [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing) |
-
------
-
 ### 3\. Data Analytics & A/B Testing 📊
 
 #### 💻 회고 웹사이트 프로젝트 Past Forward 1기 (2024.03.05 \~ 2024.08.26)
@@ -298,7 +304,42 @@
 
 -----
 
-### 4\. External Activities 🚀
+### 4\. Data Engineering & Cloud 🏗️
+
+#### 🗣️ 발표: \<견고한 데이터엔지니어링\> 스터디
+
+| 날짜 | 주제 | 내용 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2024.11.25 | 데이터 엔지니어링 수명 주기의 5단계 | 데이터 서빙 | [블로깅](https://mjrecord.tistory.com/60) |
+| 2024.11.05 | 데이터 엔지니어링 수명 주기의 2단계 | 데이터 저장 | [블로깅](https://mjrecord.tistory.com/59) |
+| 2024.09.24 | 데이터 엔지니어링 수명 주기의 주요 요소 | 드러나지 않는 주요 요소 | [블로깅](https://mjrecord.tistory.com/58) |
+
+#### 🎬 DB\&SQL 스터디 데이터베이스 구축 미니 프로젝트 (2023.08.28 \~ 2023.09.15)
+
+  - **주제**: 국내 OTT 서비스들의 DB 설계 (MySQL WorkBench 활용)
+  - **주요 활동**: OTT 산업 트렌드 분석, 요구사항 수집 및 분석, DB 개념/논리/물리적 설계, 데이터베이스 구현, 인사이트 도출.
+  - **자료**: [최종발표자료](https://drive.google.com/file/d/1rQkUZNWbvfhrTjQ7033MqEW0Tq0jYVlu/view?usp=sharing)
+
+#### ☁️ AWS Cloud 실습 & Workshop
+
+| 날짜 | 주제 | 내용 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2023.05.24 | Amazon SageMaker ML 워크샵 | 기계 학습 사기 탐지 솔루션 배포 실습 | [보고서1](https://drive.google.com/file/d/1Bq1H9YWKNT63z5_B1LF47XO-JZAqfZKc/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1QNlILhB5Blfy-9hFPCsfYjR0krCGUS5_/view?usp=drive_link) |
+| 2023.03.29 | Analytics on AWS 워크샵 | AWS를 활용한 데이터 분석 파이프라인 실습 | [보고서1](https://drive.google.com/file/d/1D11vyToZhMa5vdvZ-Wy-hkSo96hPZwMK/view?usp=drive_link), [보고서2](https://drive.google.com/file/d/1loxWQBPrCT7LIv11XvJVxuZfQ0lJINAX/view?usp=drive_link) |
+
+#### 🗣️ 발표: Data Engineering with AWS 스터디
+
+| 날짜 | 주제 | 내용 | 자료 |
+| :---: | :--- | :--- | :---: |
+| 2023.03.28 | 인공 지능 및 머신 러닝 활성화 | Amazon Comprehend로 리뷰 검토 실습 및 AWS 계정 정리 방법 | [블로깅1](https://mjrecord.tistory.com/35), [블로깅2](https://mjrecord.tistory.com/36), [블로깅3](https://mjrecord.tistory.com/37), [발표 영상](https://drive.google.com/file/d/1H-4RhAP67CxC2L_k_PoXbAK2Exi1lVcg/view?usp=sharing) |
+| 2023.03.14 | 데이터 파이프라인 오케스트레이션 | AWS Step Function을 통한 Lambda 함수, SNS 주제, CloudTrail 구성 실습 | [실습 블로깅](https://mjrecord.tistory.com/34), [발표 영상](https://drive.google.com/file/d/1IlHARxaiRHM-Gi5ZizURebREUZcyOOVN/view?usp=sharing) |
+| 2023.03.07 | AWS DMS로 데이터 수집 | MySQL에서 S3로 전체 로드 수행 및 Amazon Athena로 데이터 쿼리 실습 | [실습 블로깅](https://mjrecord.tistory.com/33), [발표 영상](https://drive.google.com/file/d/10Cq4xGQO5Fb74-PL87cqSjP1YMyEN0f7/view?usp=sharing) |
+| 2023.02.08 | 데이터엔지니어링 파이프라인 설계 | 데이터 수집/변환/최적화/서빙 단계별 AWS 서비스 개요 및 아키텍처 접근 방식 | [블로깅](https://mjrecord.tistory.com/30), [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing) |
+| 2023.01.25 | 데이터 엔지니어 도구 키트 | 데이터 수집/변환/조정/소비 서비스 개요 및 특징 분석 | [블로깅](https://mjrecord.tistory.com/26), [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing) |
+
+-----
+
+### 5\. External Activities 🚀
 
 #### ✨ DX Challenge 서포터즈 (2022.07.25 \~ 2022.12.29)
 
