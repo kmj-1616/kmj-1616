@@ -41,14 +41,14 @@
 
 ## Summary :grey_exclamation:
 
-> **2026년 상반기 [Data Analyst / Backend Engineer] 취업 목표**
+> **Data Analyst / Backend Engineer 취업 준비 중 | (주)아이뱅크 AX사업본부 인턴 재직 중**
 >
-> - **Full-Stack Prowess**: Next.js(Funnel 패턴)부터 Spring(JPA/Record)을 아우르는 엔드투엔드 개발 경험
+> - **Full-Stack Prowess**: Next.js(Funnel 패턴)·React·Vue.js 프론트엔드부터 Spring Boot(JPA/Record) 백엔드까지 엔드투엔드 개발. 의료 도메인 **3-role 인증/인가 시스템**, **SSE 실시간 알림**, **자율주행 Telemetry API** 등 복잡한 BE 아키텍처 직접 설계·구현 경험
 > - **Data-Driven Logic**: 사용자 행동 로그 및 벡터 임베딩을 활용한 추천 시스템 설계 및 Cold Start 이슈 해결을 위한 데이터 시뮬레이션 수행
 > - **Data-Driven Problem Solving**: **GA4 분석 및 A/B 테스트** 설계를 통한 서비스 개선 및 Looker Studio 대시보드 구축 경험
 > - **AI & ML Optimization**: **멀티모달 AI(VQA) 모델** 파인튜닝(LoRA) 및 TTA 전략을 통한 성능 최적화 경험
-> - **Professional Experience**: 오브젠(주) 현장실습을 통한 **BI 솔루션 QA 및 GIS 데이터 ETL** 파이프라인 수행
-> - **Continuous Growth**: 꾸준한 알고리즘 학습을 위한 **1일 1커밋** 실천 중
+> - **AI Agent Engineering**: Cursor·Genspark·OpenClaw 등 AI 툴을 활용한 업무 자동화 및 AI Agent 기획·구현 ((주)아이뱅크 AX사업본부)
+> - **Professional Experience**: (주)아이뱅크 AX사업본부 인턴(AI Agent 개발), 오브젠(주) 현장실습 **BI 솔루션 QA·GIS 데이터 ETL**, SSAFY 14기 특화 PJT **우수상** 수상
 
 ---
 
@@ -70,6 +70,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <p><strong>Database & Cloud Platform</strong><p>
@@ -77,11 +78,14 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-4584b6?style=for-the-badge&logo=google-big-query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <p><strong>Data Science & ML Libraries</strong><p>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 <p><strong>Business Analytics & BI Tools</strong><p>
   <img src="https://img.shields.io/badge/Tableau-4285F4?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -93,32 +97,28 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
-<p><strong>IDEs & Environments</strong><p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"/>
-
-<p><strong>Geo-spatial & Productivity</strong><p>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<p><strong>Design Tools</strong><p>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+<p><strong>AI Development Tools</strong><p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ## Career :briefcase:
 
-### 오브젠 주식회사(2024.01.01 ~ 2024.02.29)
+### (주)아이뱅크(2026.04.13 ~ 현재)
 
-**근무 형태**: 현장실습생  
+**근무 부서 및 형태**: AX사업본부 인턴  
+**담당 업무**:
+
+- **AI Agent 개발**: Cursor·Genspark·OpenClaw 등 AI 툴을 활용한 업무 자동화 및 AI Agent 기획·구현 진행 중
+
+---
+
+### 오브젠(주)(2024.01.01 ~ 2024.02.29)
+
+**근무 부서 및 형태**: Intelligence팀 현장실습생  
 **담당 업무**:
 
 - **BI 솔루션 품질 검수 및 문서 개선**: 출시 예정 BI 제품의 기능 테스트를 통해 동작 오류, UI/메시지 불일치 등 약 50건의 이슈를 보고했으며, GS 인증 사용자 취급설명서 검수를 통해 약 70건의 문서 개선 포인트를 보고하여 제품 완성도 향상에 기여
@@ -131,15 +131,18 @@
 
 ## Education & Certifications :mortar_board:
 
-### 🎓 삼성청년SW·AI아카데미(SSAFY) 14기(2025.07.08 ~ 현재)
+### 🎓 삼성청년SW·AI아카데미(SSAFY) 14기(2025.07.08 ~ 2026.04.06)
 
 - 서울캠퍼스 Python Track 이수
-  - 자치회: 1학기 CA로 교육 환경 관리 및 행사 기획 주도
+  - 자치회:
+    - 1학기 CA로 교육 환경 관리 및 행사 기획 주도
+    - 2학기 반장으로 교육 환경 관리, 자치회 주관 캠페인 포스터 제작, AI·코딩 활용 이벤트 게임 기획 및 진행
   - **커리큘럼**: Python 알고리즘, AI 모델링, Django/Vue.js 풀스택 웹 개발 프로세스 숙달
-  - **성과**: SW 역량 등급 IM 취득
+  - **성과**: SW 역량 등급 IM 취득 / 특화 프로젝트(왔닥) 본선 발표회 **우수상** 수상
 - **프로젝트**:
   - **[BE&AI] 서가이음**: OpenAI 기반 도서 추천 및 독서 커뮤니티&중고책 거래 채팅 서비스
   - **[FE&BE] Handshake**: 개발 성향 및 기술 스택 벡터화 기반 개발자 매칭 서비스
+  - **[BE&FE] 왔닥(waddoc)**: 도서산간 비대면 진료 자율주행 시스템 - 본선 발표회 진출 및 **우수상 수상**
 
 ### 🏛️ 동아대 경영정보학과(2020.03 ~ 2025.02)
 
@@ -150,6 +153,18 @@
 
 - ✅ GAIQ (2022), SQLD(2023), 한국사능력검정시험 1급 (2024)
 - ⏳ 정보처리기사 (실기), 경영정보시각화능력 (실기), OPIC, 빅데이터 분석기사
+
+---
+
+## Awards 🏆
+
+|        수상명        | 대회 / 기관                                                  |  날짜   |
+| :------------------: | :----------------------------------------------------------- | :-----: |
+|      **우수상**      | SSAFY 14기 특화 프로젝트 본선 발표회 (왔닥(waddoc))          | 2026.04 |
+|    최우수팀 선정     | SSAFY 14기 AI 아이디어톤 (Naily)                             | 2025.07 |
+| 최우수 서포터즈 선정 | DX Challenge 서포터즈 (부산광역시·패스파인더·부산테크노파크) | 2022.12 |
+
+---
 
 ## Study :books:
 
@@ -164,7 +179,7 @@
     - `@Query`를 이용한 집계(Count) 및 정렬 로직 처리
     - API 보안 검증(Principal 기반 사용자 확인) 적용
 
-### 📈 알고리즘 스터디(2025.08.01 ~ )
+### 📈 알고리즘 스터디(2025.08.01 ~ 2026.03.26)
 
 - 목표: solved.ac 스트릭 끊기지 않기 & 백준 Class 3 및 골드 달성
 
@@ -206,6 +221,35 @@
 ## Projects :sparkles:
 
 ### 1. Full-Stack Development & System Design 💻
+
+#### 🚗 왔닥(waddoc): 도서산간 비대면 진료 자율주행 시스템 (2026.03 ~ 2026.04)
+
+- **개요**: 의료 접근성이 낮은 도서·산간 지역 주민을 위해 자율주행 차량이 현장에 파견되어 비대면 진료를 제공하는 융합 플랫폼. SSAFY 14기 특화 프로젝트 본선 발표회 진출, **우수상 수상**
+- **기술 환경**: Java (Spring Boot), React, TypeScript, Three.js, face-api.js, PostgreSQL, Python, ROS2, Unity 3D, Docker, LiveKit, SSE
+- **주요 역할**: **[BE] 역할별 인증/인가·진료 케이스·자율주행 미션·SSE 실시간 알림 API 설계 및 구현 / [FE] 역할별 라우팅 구조 개편 및 진료·포털 화면 구현**
+- **주요 활동 및 해결 과제**:
+  - **[BE] 역할별 인증/인가 시스템 구현**:
+    - 의사·보호자·관리자 3-role 로그인/Access Token 갱신/로그아웃 API 개발
+    - 사용자 role에 따른 서버 사이드 분기 처리 로직 구현 및 권한별 엔드포인트 접근 제어
+  - **[BE] 자율주행 미션 및 생체데이터 연동 API**:
+    - 자율주행 미션 생성·목록·상세·단계 전환(PATCH) API 및 차량 위치·상태 수신 Telemetry API 구현
+    - ROS 로봇 mission terminal 토큰 흐름에 생체데이터 partial upsert API 구현
+    - Flyway 마이그레이션으로 `vital_measurement` 도메인 추가 및 case 기준 ECG/생체데이터 저장 구조 설계
+  - **[BE] SSE 기반 실시간 알림**:
+    - 의사 전용 SSE 구독 구조 설계 및 스트림 엔드포인트 구현
+    - 신규 예약 생성 시 담당 의사에게 알림 이벤트 발행 및 SSE 전달 로직 구현
+  - **[BE] 다중 역할 조회/관리 API 설계**:
+    - 의사: 케이스 목록·상세 조회, 예약 대시보드, 진료 요약 저장 API
+    - 보호자: 연결 환자 목록, 환자별 진료 요약 조회 API, 가입 신청 API
+    - 관리자: 예약·케이스·환자·세션 전체 목록, 환자 등록, 보호자 가입 승인·반려 API
+    - 증상 분류 + 진료과 추천 API, ERD 설계, 권한별 시드 데이터 구성
+  - **[FE] 역할별 라우팅 구조 전면 개편**:
+    - 메인페이지 역할별 진입 구조 설계 및 로그인 후 사용자 role 기반 라우팅 분기 구현
+  - **[FE] 진료·포털 화면 구현**:
+    - IVR 플로우 + API 연동, mockVitals → 실제 생체데이터/ECG 표시로 전환
+    - 처방전 조회 파싱·렌더링 개선, 약품 검색/선택 UX, 경과 기록지 UI, 진료 완료 저장 흐름 보강
+    - 관리자 화면: 환자 리스트 조회·추가, 보호자 가입 신청 승인/거절 기능
+- **Link**: [GitHub Repository](https://github.com/kmj-1616/waddoc)
 
 #### 🤝 Handshake: 개발 성향 기반 개발자 매칭 서비스 (2026.01)
 
