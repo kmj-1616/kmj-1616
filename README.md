@@ -105,6 +105,8 @@
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
+---
+
 ## Career :briefcase:
 
 ### (주)아이뱅크(2026.04.13 ~ 현재)
@@ -113,8 +115,6 @@
 **담당 업무**:
 
 - **AI Agent 개발**: Cursor·Genspark·OpenClaw 등 AI 툴을 활용한 업무 자동화 및 AI Agent 기획·구현 진행 중
-
----
 
 ### 오브젠(주)(2024.01.01 ~ 2024.02.29)
 
