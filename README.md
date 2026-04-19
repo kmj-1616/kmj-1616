@@ -306,6 +306,18 @@
 
 ### 2\. AI / Machine Learning & Text Analytics 🧠
 
+#### 🗂️ Document Q&A REST API (RAG 온보딩 챌린지) (2026.04)
+
+- **개요**: 문서(PDF, TXT, Markdown)를 업로드하면 자연어 질문에 대해 문서 기반 답변과 출처·관련도 점수를 제공하는 RAG(Retrieval-Augmented Generation) 시스템.
+- **기술 환경**: Python (FastAPI), Claude SDK (claude-code-sdk), sentence-transformers, ChromaDB (벡터 저장소), SQLite, Redis, Docker / Docker Compose, Pydantic, pdfplumber
+- **주요 역할**: RAG 파이프라인 전체 설계 및 구현 (문서 수집·청킹·임베딩·검색·LLM 생성)
+- **주요 활동 및 해결 과제**:
+  - **RAG 파이프라인 구현**: 문서 자동 청킹 및 ChromaDB 벡터 인덱싱, 시맨틱 검색 기반 컨텍스트 검색 후 Claude LLM 생성까지 E2E 파이프라인 구성
+  - **이중 캐싱 전략**: 완전 일치(Exact Match) + 시맨틱 유사도(코사인 유사도 0.95 이상) 기반 Redis 캐싱 적용으로 응답 성능 최적화 및 캐시 무효화 로직 구현
+  - **스트리밍 응답**: Server-Sent Events(SSE)를 활용한 실시간 스트리밍 응답 지원
+  - **플랫폼 이슈 해결**: macOS Keychain 인증 문제를 해결하기 위한 Claude SDK 프록시(`claude_proxy.py`) 구현 및 rate_limit_event 파싱 버그 몽키패치 적용
+- **Link**: [GitHub Repository](https://github.com/kmj-1616/officeagent-onboarding-challenge)
+
 #### 🏆 이미지 질의 응답 모델 AI 챌린지 (2025.11)
 
 - **개요**: 이미지와 텍스트를 동시에 이해하는 멀티모달 AI (VQA) 모델 개발 및 성능 최적화.
