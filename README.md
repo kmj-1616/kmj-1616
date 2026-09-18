@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi! I'm Kwon Mijeong 🚀</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+Engineer+%7C+Data+Engineer;Product+Analytics+and+Experiment+Design;RAG+Agents+and+Data+Pipeline+Automation;From+User+Behavior+to+Business+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Marketing+Analytics;Tracking+Setup+and+SEO%2FGEO%2FAEO+Optimization;Content+Growth+and+Community+Building;From+User+Behavior+to+Business+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,11 +41,13 @@
 
 ## Summary :grey_exclamation:
 
-> **Data Analyst / AI Engineer / Data Engineer | (주)아이뱅크 AX사업본부 인턴**
+> **Data Analyst | (주)트리플하이엠 데이터분석팀**
 >
+> - **Marketing Analytics & SEO**: 마케터 대상 GA4·GTM·광고 스크립트 설치 지원, 네이버 SEO 진단 및 SEO/GEO/AEO 최적화 업무 담당
 > - **Product Analytics**: GA4·GTM 기반 사용자 행동 이벤트 설계, UTM 기준 수립, 퍼널 분석 및 A/B 테스트를 통한 전환 개선 경험
-> - **Data Quality & ETL**: 오브젠 현장실습에서 BI 솔루션 QA, GIS 데이터 ETL, SQL 기반 정제 프로세스 개선으로 전처리 기간 약 33% 단축
+> - **Growth & Community**: AI 데이터 분석 커뮤니티 데이토 운영진으로 SNS 3개 채널 팔로워 0 → 392명, 오프라인 밋업 신청자 63명 모집(참석률 87%) 및 채널별 UTM으로 모객 기여도 측정
 > - **AI Agent Engineering**: RFP 분석, 유사 제안서 검색, 초안 생성, Word/PPT export까지 연결한 문서 기반 RAG Agent 구현 및 E2E 검증 완료
+> - **Data Quality & ETL**: 오브젠 현장실습에서 BI 솔루션 QA, GIS 데이터 ETL, SQL 기반 정제 프로세스 개선으로 전처리 기간 약 33% 단축
 > - **Service Development Literacy**: Django/Vue.js, Spring Boot/React, FastAPI 기반 팀 프로젝트를 수행하며 API 명세와 데이터 흐름을 개발자들과 조율
 > - **Awards**: 삼성청년SW·AI아카데미 14기 프로젝트 '왔닥' 본선 발표회 **우수상** 수상
 
@@ -170,25 +172,36 @@
 
 ## Career :briefcase:
 
-### 데이토(DATO) | AI 데이터 분석 커뮤니티 (2026.07.13 ~ 재직중)
+### (주)트리플하이엠 (2026.09.18 ~ 재직중)
 
-**근무 부서 및 형태**: 운영진 - 마케팅 빌더 / 프리랜서  
+**근무 부서 및 형태**: 데이터분석팀 데이터 분석가  
 **담당 업무**:
 
--   **SNS 카드뉴스 콘텐츠 자동화 파이프라인 기획·설계·구축**
-    - AI·데이터 키워드 블로그 `감지 → 선별 → 원고 생성 → 카드 이미지 렌더`를 엔드투엔드 자동화 — 기존 수작업(탐색·요약·각색·디자인)을 대체하고 콘텐츠 6종으로 확장 가능한 설정 주도 아키텍처로 설계
-    - Claude API 구조화 출력으로 인스타·링크드인·스레드 **채널별 한국어 원고·캡션·해시태그** 자동 생성(링크·QR은 코드가 주입해 LLM 환각 차단), 디자이너 Figma **SVG 템플릿 렌더로 유료 이미지 API 없이 카드 PNG 생성(비용 $0)**
-    - 3개 채널 × 7장 세트 완성, 6p QR을 **채널별 유입추적 링크로 분기**해 유입 성과 측정 설계 · 발행은 노코드(Make, Buffer) 연동
- 
-- **콘텐츠 마케팅 성과 측정 체계 설계·대시보드 구축**
-  - 채널별로 정의가 다른 지표(인스타 조회 / 링크드인 노출수 / 스레드 조회, 저장·도달 지원 여부 상이)를 **단일 표준 스키마로 정규화** — 콘텐츠 목적(유입·관계·전환)·시리즈·측정시점(24h/7d/누적) 축을 정의해 채널 간·콘텐츠 간 비교가 성립하는 구조로 설계
-  - Google Sheets 단일 테이블 → **Looker Studio 대시보드 구축**(스코어카드 · 목적별 성과 · 콘텐츠 상세 · 노출 시계열 · 채널별 팔로워 추이) — 누적 지표 특성상 발생하는 기간 편향과 중복 합산을 측정시점 필터 기본값으로 차단
-  - short.io 채널별 단축링크와 UTM 명명 규칙을 설계해 **시트 지표와 GA4 유입 데이터를 동일 키로 연결** · 전환 지표는 단축링크 클릭을 단일 소스로 채택(플랫폼 클릭수는 이미지 확대 클릭 혼입으로 배제)
-  - 분류 기준·입력 규칙·대시보드 사용법을 운영 규칙 문서로 표준화하고 버전 관리 
+- **마케팅 데이터 수집 환경 구축 지원**: 마케터 문의를 받아 광고주 사이트의 GA4·GTM 설치 및 광고 스크립트 설정 지원
+- **검색엔진 최적화(SEO) 진단 및 개선**: 네이버 SEO 진단, 검색엔진 최적화 설정, 생성형 AI 검색 대응을 위한 SEO/GEO/AEO 최적화 작업 수행 
 
-### (주)아이뱅크(2026.04.13 ~ 2026.06.05)  
+### 데이토(DATO) | AI 데이터 분석 커뮤니티 (2026.07.13 ~ 활동중)
 
-**근무 부서 및 형태**: AX사업본부 인턴  
+**담당 역할**: 운영진 / 마케팅 빌더  
+**담당 업무**:
+
+- **SNS 채널 운영 및 카드뉴스 콘텐츠 자동화**
+  - 인스타그램·링크드인·스레드 3개 채널을 0명에서 시작해 **팔로워 392명 확보**(링크드인 231 · 인스타그램 138 · 스레드 23), 커뮤니티 오픈채팅방 470명 → 572명(+102명)
+  - AI·데이터 블로그 `감지 → 선별 → 원고 생성 → 카드 이미지 렌더`를 엔드투엔드 자동화, Figma **SVG 템플릿 렌더로 이미지 생성 비용 $0**
+  - 채널별 톤·길이·링크 규칙과 콘텐츠 기반 해시태그 선정 기준을 담은 **Claude Skill을 제작**해 캡션 작성을 표준화
+
+- **콘텐츠 마케팅 성과 측정 체계 및 대시보드 구축**
+  - 채널마다 정의가 다른 지표를 **단일 표준 스키마로 정규화**하고 목적·시리즈·측정시점 축을 정의해 채널·콘텐츠 간 비교 구조 설계
+  - Google Sheets → **Looker Studio 대시보드** 구축, short.io·UTM 규칙으로 **시트 지표와 GA4 유입을 동일 키로 연결**
+
+- **오프라인 밋업 모객 및 현장 운영**
+  - 'AI 시대 데이터의 변화와 미래'를 주제로 한 AI 데이터 분석 밋업을 SNS 3개 채널과 오픈채팅방으로 홍보해 **신청자 63명 모집(목표 80명 대비 79%)**, **실참석 55명(참석률 87%)** · 연사·운영진 포함 현장 총 67명 규모로 운영
+  - 이벤터스 신청 링크에 **채널별 UTM을 분기**해 배포, 신청자 중 33명(52%)의 유입 경로를 추적해 **링크드인(15) · 오픈채팅방(13) · 인스타그램(5)** 순으로 채널별 모객 기여도 확인
+  - 현장 체크인과 네트워킹 모더레이팅 담당  
+
+### (주)아이뱅크 (2026.04.13 ~ 2026.06.05)  
+
+**근무 부서 및 형태**: AX사업본부 / 인턴  
 **담당 업무**:
 
 - **B2B AI 서비스 브랜딩 및 마케팅 전략 제안** 
@@ -215,9 +228,9 @@
 
 - **자사 솔루션 QA 및 개발팀 커뮤니케이션**: 내부 CRM 솔루션의 화면 오류, 요청·응답 데이터 불일치, 재현 조건을 검증하고 개발팀이 재현 가능한 QA 리포트로 정리
 
-### 오브젠(주)(2024.01.01 ~ 2024.02.29)
+### 오브젠(주) (2024.01.01 ~ 2024.02.29)
 
-**근무 부서 및 형태**: Intelligence팀 현장실습생  
+**근무 부서 및 형태**: Intelligence팀 / 현장실습생  
 **담당 업무**:
 
 - **BI 솔루션 품질 검수 및 문서 개선**: 출시 예정 BI 제품의 기능 테스트를 통해 동작 오류, UI/메시지 불일치 등 약 50건의 이슈를 보고했으며, GS 인증 사용자 취급설명서 검수를 통해 약 70건의 문서 개선 포인트를 보고하여 제품 완성도 향상에 기여
