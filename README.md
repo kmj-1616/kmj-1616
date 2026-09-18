@@ -204,29 +204,19 @@
 **근무 부서 및 형태**: AX사업본부 / 인턴  
 **담당 업무**:
 
-- **B2B AI 서비스 브랜딩 및 마케팅 전략 제안** 
-   - 자사 5개 솔루션(Adobe·Infobip·ThinkingAI·Amplitude·GA4)을 분석해 고객 문제 중심의 **3개 사업축(FOCUS.Q / FLOW.X / PROOF.D)을 정의**하고 `Understand → Connect → Grow` 통합 브랜드 방향성 수립
-   - 사업축별 **브랜드 아이덴티티 체계 완성**: 브랜드명(후보 3안→최종 추천), 국·영문 슬로건, 핵심 가치, 브랜드 퍼스낼리티, 로고 컨셉, 브랜드 스토리, 차별화 선언·RTB
-   - 사업축별 **타겟 페르소나 6종**과 **7단계 고객 여정 맵** 작성, 경쟁사 분석·포지셔닝 맵 기반 차별화 메시지 도출
-   - **3개월 Go-to-Market 마케팅 전략 수립**: 채널 전략, 런칭 캠페인(AX Proof & Demo Sprint), 콘텐츠 캘린더, 첫 100명 리드 확보 전략, 핵심 KPI 5종 + 예산·리스크 대응안
-   - 회사 홈페이지(`solution.ibank.co.kr`)의 메시지·IA·CTA를 진단하고 **사업축 기반 랜딩/홈페이지 개선안과 ThinkingAI 체험·진단 동선 설계 및 데모 제작**
+- **B2B AI 서비스 브랜딩 및 마케팅 전략 제안**
+  - 자사 5개 솔루션(Adobe·Infobip·ThinkingAI·Amplitude·GA4)을 분석해 **3개 사업축(FOCUS.Q / FLOW.X / PROOF.D)을 정의**하고, 사업축별 브랜드 아이덴티티·**타겟 페르소나 6종·7단계 고객 여정 맵** 작성
+  - **3개월 Go-to-Market 전략**(채널 전략, 런칭 캠페인, 첫 100명 리드 확보, 핵심 KPI 5종) 수립 및 홈페이지 메시지·IA·CTA 진단 기반 **랜딩 개선안과 체험 동선 데모 제작**
 
-- **RFP 기반 제안서 초안 생성 AI Agent 구현**
-  - RFP 분석, 유사 제안서 검색, 제안서 초안 생성, Word/PPT 내보내기로 이어지는 문서 기반 **RAG Agent** 구현
-  - PDF, PPTX, CSV 문서 전처리·청킹 후 ChromaDB와 sentence-transformers 기반 검색 인덱스 구축
-  - **FastAPI 기반 RFP 분석,** 유사 제안서 검색, 초안 생성, Word/PPT export API 구현
-  - Streamlit UI로 RFP 분석부터 문서 export까지의 사용 흐름 연결
-  - Step1~Step5 구현 문서화 및 E2E 데모를 통해 전체 파이프라인 동작 검증 완료
-  - **Link**: [proposal-rag-assistant](https://github.com/kmj-1616/proposal-rag-assistant)
+- **RFP 기반 제안서 초안 생성 RAG Agent 구현**
+  - RFP 분석 → 유사 제안서 검색 → 초안 생성 → Word/PPT export로 이어지는 **RAG Agent**를 ChromaDB·sentence-transformers·**FastAPI**·Streamlit으로 구현
+  - Step1~5 구현 문서화 및 E2E 데모로 전체 파이프라인 동작 검증 · **Link**: [proposal-rag-assistant](https://github.com/kmj-1616/proposal-rag-assistant)
 
-- **Adobe Campaign v7 기반 CRM 캠페인 대상 추출 및 세그먼트 운영 로직 검증**
-  - 고객, 구매이력, 쿠폰이력, 발송이력, 반응이력 데이터를 활용해 캠페인 대상 추출 및 세그먼트 분기 워크플로우 구성
-  - **Query, Enrichment, Split, Exclusion, Union, Deduplication 컴포넌트**를 활용해 세그먼트 분기 및 제외 로직 검증
-  - 고객 테이블과 이력성 테이블 조인을 기반으로 대상 중복 제거, 발송 제외 조건, 반응 고객 구분 흐름 확인
-  - 샘플 고객 데이터 기준으로 세그먼트별 대상 수와 제외·중복 제거 결과를 확인해 캠페인 대상 추출 로직의 정확성 검증
-  - preview/display target 오류, key 중복, PostgreSQL 함수 누락 등 실행 이슈를 점검하며 Adobe Campaign 워크플로우 구조와 데이터 처리 방식 이해
+- **Adobe Campaign v7 기반 CRM 캠페인 세그먼트 로직 검증**
+  - 고객·구매·쿠폰·발송·반응 이력 테이블을 조인해 **Query, Split, Exclusion, Deduplication 등 컴포넌트**로 캠페인 대상 추출 및 세그먼트 분기 워크플로우 구성
+  - 샘플 데이터 기준 세그먼트별 대상 수와 제외·중복 제거 결과를 확인해 **대상 추출 로직의 정확성 검증**
 
-- **자사 솔루션 QA 및 개발팀 커뮤니케이션**: 내부 CRM 솔루션의 화면 오류, 요청·응답 데이터 불일치, 재현 조건을 검증하고 개발팀이 재현 가능한 QA 리포트로 정리
+- **자사 솔루션 QA**: 내부 CRM 솔루션의 화면 오류, 요청·응답 데이터 불일치를 검증해 개발팀이 재현 가능한 QA 리포트로 정리  
 
 ### 오브젠(주) (2024.01.01 ~ 2024.02.29)
 
